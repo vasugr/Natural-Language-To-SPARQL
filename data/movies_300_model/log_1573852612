@@ -1,0 +1,31 @@
+# log_file=../data/movies_300_model/log_1573852612
+# Start step 0, lr 1, Sat Nov 16 02:46:53 2019
+  global step 100 lr 1 step-time 0.24s wps 11.93K ppl 32.34 bleu 0.00
+  global step 200 lr 1 step-time 0.23s wps 12.04K ppl 2.04 bleu 0.00
+  global step 300 lr 1 step-time 0.23s wps 12.20K ppl 1.60 bleu 0.00
+  global step 400 lr 1 step-time 0.24s wps 11.57K ppl 1.52 bleu 0.00
+  global step 500 lr 1 step-time 0.25s wps 11.36K ppl 1.51 bleu 0.00
+  global step 600 lr 1 step-time 0.27s wps 10.29K ppl 1.46 bleu 0.00
+  global step 700 lr 1 step-time 0.23s wps 11.76K ppl 1.44 bleu 0.00
+  global step 800 lr 1 step-time 0.24s wps 11.72K ppl 1.42 bleu 0.00
+  global step 900 lr 1 step-time 0.24s wps 11.41K ppl 1.40 bleu 0.00
+  global step 1000 lr 1 step-time 0.25s wps 11.27K ppl 1.46 bleu 0.00
+  global step 1100 lr 1 step-time 0.24s wps 11.64K ppl 1.38 bleu 73.39
+  global step 1200 lr 1 step-time 0.25s wps 11.31K ppl 1.37 bleu 73.39
+  global step 1300 lr 1 step-time 0.24s wps 11.38K ppl 1.38 bleu 73.39
+  global step 1400 lr 1 step-time 0.24s wps 11.57K ppl 1.37 bleu 73.39
+  global step 1500 lr 1 step-time 0.24s wps 11.60K ppl 1.35 bleu 73.39
+  global step 1600 lr 1 step-time 0.24s wps 11.62K ppl 1.35 bleu 73.39
+  global step 1700 lr 1 step-time 0.25s wps 11.39K ppl 1.35 bleu 73.39
+  global step 1800 lr 1 step-time 0.25s wps 11.07K ppl 1.34 bleu 73.39
+  global step 1900 lr 1 step-time 0.24s wps 11.52K ppl 1.34 bleu 73.39
+  global step 2000 lr 1 step-time 0.24s wps 11.43K ppl 1.34 bleu 73.39
+  global step 2100 lr 1 step-time 0.24s wps 11.66K ppl 1.33 bleu 73.96
+  global step 2200 lr 1 step-time 0.25s wps 11.35K ppl 1.33 bleu 73.96
+  global step 2300 lr 1 step-time 0.25s wps 11.32K ppl 1.32 bleu 73.96
+  global step 2400 lr 1 step-time 0.25s wps 11.13K ppl 1.32 bleu 73.96
+  global step 2500 lr 1 step-time 0.25s wps 11.19K ppl 1.32 bleu 73.96
+  global step 2600 lr 1 step-time 0.25s wps 11.34K ppl 1.32 bleu 73.96
+  global step 2700 lr 1 step-time 0.25s wps 10.90K ppl 1.31 bleu 73.96
+  global step 2800 lr 1 step-time 0.24s wps 11.26K ppl 1.31 bleu 73.96
+  global step 2900 lr 1 step-time 0.25s wps 11.31K ppl 1.31 bleu 73.96

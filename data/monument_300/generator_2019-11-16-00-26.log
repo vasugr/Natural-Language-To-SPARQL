@@ -1,0 +1,25 @@
+DEBUG:root:1. attempt generator_query: select distinct(?a) ?b  (str(?laba) as ?la)  (str(?labb) as ?lb) where { ?b rdfs:label ?labb . FILTER(lang(?labb) = 'en') . ?a a dbo:Monument . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?a a ?b }
+ERROR:root:template 1 caused exception Traceback (most recent call last):
+  File "/home/prakhar/Desktop/NSpM/generator_utils.py", line 58, in query_dbpedia
+    resp = urllib2.urlopen(ENDPOINT + "?" + urllib.urlencode(param))
+NameError: name 'urllib2' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "generator.py", line 177, in generate_dataset
+    results = get_results_of_generator_query(cache, template)
+  File "generator.py", line 229, in get_results_of_generator_query
+    results = query_dbpedia(query)
+  File "/home/prakhar/Desktop/NSpM/generator_utils.py", line 61, in query_dbpedia
+    except (urllib2.HTTPError, httplib.BadStatusLine):
+NameError: name 'urllib2' is not defined
+
+INFO:root:1. fix problem
+2. remove templates until the exception template in the template file
+3. restart with `--continue` parameter
+INFO:root:     0 used resources in 0 placeholder positions
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     0 not instanciated templates:

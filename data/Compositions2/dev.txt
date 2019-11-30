@@ -1,0 +1,1189 @@
+what is the county of blue highway	select var_a where brack_open dbr_Blue_Highway_(tourist_route) <dbo_county> var_a brack_close
+what is the county of ballycushan	select var_a where brack_open dbr_Ballycushan <dbo_county> var_a brack_close
+what is the county of belleeks	select var_a where brack_open dbr_Belleeks <dbo_county> var_a brack_close
+what is the county of altaghoney	select var_a where brack_open dbr_Altaghoney <dbo_county> var_a brack_close
+what is the county of ballynagross	select var_a where brack_open dbr_Ballynagross <dbo_county> var_a brack_close
+what is the county of via imperii	select var_a where brack_open dbr_Via_Imperii <dbo_county> var_a brack_close
+what is the county of ballykinler	select var_a where brack_open dbr_Ballykinler <dbo_county> var_a brack_close
+what is the county of ballysheil	select var_a where brack_open dbr_Ballysheil,_County_Down <dbo_county> var_a brack_close
+what is the county of ah1	select var_a where brack_open dbr_AH1 <dbo_county> var_a brack_close
+what is the county of european route e004	select var_a where brack_open dbr_European_route_E004 <dbo_county> var_a brack_close
+what is the county of european route e87	select var_a where brack_open dbr_European_route_E87 <dbo_county> var_a brack_close
+what is the county of european route e28	select var_a where brack_open dbr_European_route_E28 <dbo_county> var_a brack_close
+what is the county of bessbrook	select var_a where brack_open dbr_Bessbrook <dbo_county> var_a brack_close
+what is the county of european route e90	select var_a where brack_open dbr_European_route_E90 <dbo_county> var_a brack_close
+what is the county of european route e420	select var_a where brack_open dbr_European_route_E420 <dbo_county> var_a brack_close
+what is the county of european route e401	select var_a where brack_open dbr_European_route_E401 <dbo_county> var_a brack_close
+what is the county of european route e119	select var_a where brack_open dbr_European_route_E119 <dbo_county> var_a brack_close
+what is the county of pottinger	select var_a where brack_open dbr_Pottinger_(District_Electoral_Area) <dbo_county> var_a brack_close
+what is the county of sherwood drive	select var_a where brack_open dbr_Sherwood_Drive <dbo_county> var_a brack_close
+what is the county of european route e98	select var_a where brack_open dbr_European_route_E98 <dbo_county> var_a brack_close
+what is the county of pan-european corridor ii	select var_a where brack_open dbr_Pan-European_Corridor_II <dbo_county> var_a brack_close
+what is the county of european route e611	select var_a where brack_open dbr_European_route_E611 <dbo_county> var_a brack_close
+what is the county of ballinloughan	select var_a where brack_open dbr_Ballinloughan <dbo_county> var_a brack_close
+what is the county of ballyharry	select var_a where brack_open dbr_Ballyharry <dbo_county> var_a brack_close
+what is the county of pan-european corridor ix	select var_a where brack_open dbr_Pan-European_Corridor_IX <dbo_county> var_a brack_close
+what is the county of ballyberidagh south	select var_a where brack_open dbr_Ballyberidagh_South <dbo_county> var_a brack_close
+what is the county of ballynahinch	select var_a where brack_open dbr_Ballynahinch,_County_Down <dbo_county> var_a brack_close
+what is the county of european route e763	select var_a where brack_open dbr_European_route_E763 <dbo_county> var_a brack_close
+what is the county of corbet	select var_a where brack_open dbr_Corbet <dbo_county> var_a brack_close
+what is the county of ardclinis	select var_a where brack_open dbr_Ardclinis <dbo_county> var_a brack_close
+what is the county of unshinagh mountain	select var_a where brack_open dbr_Unshinagh_Mountain <dbo_county> var_a brack_close
+what is the county of european route e46	select var_a where brack_open dbr_European_route_E46 <dbo_county> var_a brack_close
+what is the county of european route e33	select var_a where brack_open dbr_European_route_E33 <dbo_county> var_a brack_close
+what is the county of european route e712	select var_a where brack_open dbr_European_route_E712 <dbo_county> var_a brack_close
+what is the county of jerome avenue	select var_a where brack_open dbr_Jerome_Avenue <dbo_county> var_a brack_close
+what is the county of atticall	select var_a where brack_open dbr_Atticall <dbo_county> var_a brack_close
+what is the county of ballycormick	select var_a where brack_open dbr_Ballycormick <dbo_county> var_a brack_close
+what is the county of ah5	select var_a where brack_open dbr_AH5 <dbo_county> var_a brack_close
+what is the county of european route e007	select var_a where brack_open dbr_European_route_E007 <dbo_county> var_a brack_close
+what is the county of cullaville	select var_a where brack_open dbr_Cullaville <dbo_county> var_a brack_close
+what is the county of darkley	select var_a where brack_open dbr_Darkley <dbo_county> var_a brack_close
+what is the county of ballynafoy	select var_a where brack_open dbr_Ballynafoy_(Annaclone) <dbo_county> var_a brack_close
+what is the county of european route e20	select var_a where brack_open dbr_European_route_E20 <dbo_county> var_a brack_close
+what is the county of european route e05	select var_a where brack_open dbr_European_route_E05 <dbo_county> var_a brack_close
+what is the county of carnlough	select var_a where brack_open dbr_Carnlough <dbo_county> var_a brack_close
+what is the county of european route e65	select var_a where brack_open dbr_European_route_E65 <dbo_county> var_a brack_close
+what is the county of european route e471	select var_a where brack_open dbr_European_route_E471 <dbo_county> var_a brack_close
+what is the county of broomhedge	select var_a where brack_open dbr_Broomhedge <dbo_county> var_a brack_close
+what is the county of cookstown	select var_a where brack_open dbr_Cookstown <dbo_county> var_a brack_close
+what is the county of white mountain	select var_a where brack_open dbr_White_Mountain,_County_Antrim <dbo_county> var_a brack_close
+what is the county of rathdrumgran	select var_a where brack_open dbr_Rathdrumgran <dbo_county> var_a brack_close
+what is the county of derrymacash	select var_a where brack_open dbr_Derrymacash <dbo_county> var_a brack_close
+what is the county of european route e18	select var_a where brack_open dbr_European_route_E18 <dbo_county> var_a brack_close
+what is the county of european route e652	select var_a where brack_open dbr_European_route_E652 <dbo_county> var_a brack_close
+what is the county of ballygasey	select var_a where brack_open dbr_Ballygasey <dbo_county> var_a brack_close
+what is the county of carnteel	select var_a where brack_open dbr_Carnteel <dbo_county> var_a brack_close
+what is the county of european route e20	select var_a where brack_open dbr_European_route_E20 <dbo_county> var_a brack_close
+what is the county of wheeler road	select var_a where brack_open dbr_Wheeler_Road <dbo_county> var_a brack_close
+what is the county of european route e80	select var_a where brack_open dbr_European_route_E80 <dbo_county> var_a brack_close
+what is the county of greenisland	select var_a where brack_open dbr_Greenisland <dbo_county> var_a brack_close
+what is the county of european route e40	select var_a where brack_open dbr_European_route_E40 <dbo_county> var_a brack_close
+what is the county of european route e75	select var_a where brack_open dbr_European_route_E75 <dbo_county> var_a brack_close
+what is the county of european route e07	select var_a where brack_open dbr_European_route_E07 <dbo_county> var_a brack_close
+what is the county of derrylough	select var_a where brack_open dbr_Derrylough,_County_Down <dbo_county> var_a brack_close
+what is the county of european route e013	select var_a where brack_open dbr_European_route_E013 <dbo_county> var_a brack_close
+what is the county of ballydugennan	select var_a where brack_open dbr_Ballydugennan <dbo_county> var_a brack_close
+what is the county of european route e70	select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+what is the district of tullyhogue	select var_a where brack_open dbr_Tullyhogue <dbo_district> var_a brack_close
+what is the district of donaghcloney	select var_a where brack_open dbr_Donaghcloney <dbo_district> var_a brack_close
+what is the district of castle coole	select var_a where brack_open dbr_Castle_Coole <dbo_district> var_a brack_close
+what is the district of corbet	select var_a where brack_open dbr_Corbet <dbo_district> var_a brack_close
+what is the district of cushendun	select var_a where brack_open dbr_Cushendun <dbo_district> var_a brack_close
+what is the district of hannahstown	select var_a where brack_open dbr_Hannahstown <dbo_district> var_a brack_close
+what is the district of derrylin	select var_a where brack_open dbr_Derrylin <dbo_district> var_a brack_close
+what is the district of schindufu river	select var_a where brack_open dbr_Schindufu_River <dbo_district> var_a brack_close
+what is the district of great horkesley	select var_a where brack_open dbr_Great_Horkesley <dbo_district> var_a brack_close
+what is the district of soci river	select var_a where brack_open dbr_Soci_River <dbo_district> var_a brack_close
+what is the district of carmyle railway station	select var_a where brack_open dbr_Carmyle_railway_station <dbo_district> var_a brack_close
+what is the district of bârlogu river	select var_a where brack_open dbr_Bârlogu_River_(Robești) <dbo_district> var_a brack_close
+what is the district of valea cârpătoare river	select var_a where brack_open dbr_Valea_Cârpătoare_River <dbo_district> var_a brack_close
+what is the district of stárkov	select var_a where brack_open dbr_Stárkov <dbo_district> var_a brack_close
+what is the district of lüttow-valluhn	select var_a where brack_open dbr_Lüttow-Valluhn <dbo_district> var_a brack_close
+what is the district of clogherbog	select var_a where brack_open dbr_Clogherbog <dbo_district> var_a brack_close
+what is the district of hesledon moor east	select var_a where brack_open dbr_Hesledon_Moor_East <dbo_district> var_a brack_close
+what is the district of didling	select var_a where brack_open dbr_Didling <dbo_district> var_a brack_close
+what is the district of gransebieth	select var_a where brack_open dbr_Gransebieth <dbo_district> var_a brack_close
+what is the district of west st leonards railway station	select var_a where brack_open dbr_West_St_Leonards_railway_station <dbo_district> var_a brack_close
+what is the district of gârla pinului	select var_a where brack_open dbr_Gârla_Pinului <dbo_district> var_a brack_close
+what is the district of gieboldehausen	select var_a where brack_open dbr_Gieboldehausen <dbo_district> var_a brack_close
+what is the district of shettleston railway station	select var_a where brack_open dbr_Shettleston_railway_station <dbo_district> var_a brack_close
+what is the district of baumgarten	select var_a where brack_open dbr_Baumgarten,_Germany <dbo_district> var_a brack_close
+what is the district of la heutte	select var_a where brack_open dbr_La_Heutte <dbo_district> var_a brack_close
+what is the district of weeford	select var_a where brack_open dbr_Weeford <dbo_district> var_a brack_close
+what is the district of millers pond state park	select var_a where brack_open dbr_Millers_Pond_State_Park <dbo_district> var_a brack_close
+what is the district of beinwil am see	select var_a where brack_open dbr_Beinwil_am_See <dbo_district> var_a brack_close
+what is the district of hazel grove railway station	select var_a where brack_open dbr_Hazel_Grove_railway_station <dbo_district> var_a brack_close
+what is the district of papenhagen	select var_a where brack_open dbr_Papenhagen <dbo_district> var_a brack_close
+what is the district of cernat river	select var_a where brack_open dbr_Cernat_River_(Bâsca) <dbo_district> var_a brack_close
+what is the district of liverpool road halt railway station	select var_a where brack_open dbr_Liverpool_Road_Halt_railway_station <dbo_district> var_a brack_close
+what is the district of carisbrooke railway station	select var_a where brack_open dbr_Carisbrooke_railway_station <dbo_district> var_a brack_close
+what is the district of baldwin's gate	select var_a where brack_open dbr_Baldwin's_Gate <dbo_district> var_a brack_close
+what is the district of cheltenham leckhampton railway station	select var_a where brack_open dbr_Cheltenham_Leckhampton_railway_station <dbo_district> var_a brack_close
+what is the district of valea fratelui river	select var_a where brack_open dbr_Valea_Fratelui_River <dbo_district> var_a brack_close
+what is the district of miltzow	select var_a where brack_open dbr_Miltzow <dbo_district> var_a brack_close
+what is the district of wolfsthal	select var_a where brack_open dbr_Wolfsthal <dbo_district> var_a brack_close
+what is the district of westbourne	select var_a where brack_open dbr_Westbourne,_West_Sussex <dbo_district> var_a brack_close
+what is the district of pârâul cetății	select var_a where brack_open dbr_Pârâul_Cetății_(Sălătrucel) <dbo_district> var_a brack_close
+what is the district of wittenförden	select var_a where brack_open dbr_Wittenförden <dbo_district> var_a brack_close
+what is the district of roggwil	select var_a where brack_open dbr_Roggwil,_Bern <dbo_district> var_a brack_close
+what is the district of west allerton railway station	select var_a where brack_open dbr_West_Allerton_railway_station <dbo_district> var_a brack_close
+what is the district of mariánské lázně	select var_a where brack_open dbr_Mariánské_Lázně <dbo_district> var_a brack_close
+what is the district of pârâul feței	select var_a where brack_open dbr_Pârâul_Feței <dbo_district> var_a brack_close
+what is the district of dniester canyon	select var_a where brack_open dbr_Dniester_Canyon <dbo_district> var_a brack_close
+what is the end point of lichfield canal	select var_a where brack_open dbr_Lichfield_Canal <dbo_endPoint> var_a brack_close
+what is the end point of runcorn and weston canal	select var_a where brack_open dbr_Runcorn_and_Weston_Canal <dbo_endPoint> var_a brack_close
+what is the end point of bridgewater canal	select var_a where brack_open dbr_Bridgewater_Canal <dbo_endPoint> var_a brack_close
+what is the end point of haddiscoe cut	select var_a where brack_open dbr_Haddiscoe_Cut <dbo_endPoint> var_a brack_close
+what is the end point of bobota canal	select var_a where brack_open dbr_Bobota_Canal <dbo_endPoint> var_a brack_close
+what is the end point of thanet canal	select var_a where brack_open dbr_Thanet_Canal <dbo_endPoint> var_a brack_close
+what is the end point of wendover arm canal	select var_a where brack_open dbr_Wendover_Arm_Canal <dbo_endPoint> var_a brack_close
+what is the end point of bocholt–herentals canal	select var_a where brack_open dbr_Bocholt–Herentals_Canal <dbo_endPoint> var_a brack_close
+what is the end point of manchester bolton & bury canal	select var_a where brack_open dbr_Manchester_Bolton_&_Bury_Canal <dbo_endPoint> var_a brack_close
+what is the end point of delaware and hudson canal	select var_a where brack_open dbr_Delaware_and_Hudson_Canal <dbo_endPoint> var_a brack_close
+what is the end point of caistor canal	select var_a where brack_open dbr_Caistor_Canal <dbo_endPoint> var_a brack_close
+what is the end point of black river canal	select var_a where brack_open dbr_Black_River_Canal <dbo_endPoint> var_a brack_close
+what is the highest place of trifinio biosphere reserve	select var_a where brack_open dbr_Trifinio_biosphere_reserve <dbo_highestPlace> var_a brack_close
+what is the highest place of bōsō peninsula	select var_a where brack_open dbr_Bōsō_Peninsula <dbo_highestPlace> var_a brack_close
+what is the highest place of nordeste	select var_a where brack_open dbr_Nordeste,_Azores <dbo_highestPlace> var_a brack_close
+what is the highest place of grose valley	select var_a where brack_open dbr_Grose_Valley <dbo_highestPlace> var_a brack_close
+what is the highest place of saanen	select var_a where brack_open dbr_Saanen <dbo_highestPlace> var_a brack_close
+what is the highest place of george washington and jefferson national forests	select var_a where brack_open dbr_George_Washington_and_Jefferson_National_Forests <dbo_highestPlace> var_a brack_close
+what is the highest place of adirondack park	select var_a where brack_open dbr_Adirondack_Park <dbo_highestPlace> var_a brack_close
+what is the highest place of graciosa	select var_a where brack_open dbr_Graciosa <dbo_highestPlace> var_a brack_close
+what is the highest place of cinco ribeiras	select var_a where brack_open dbr_Cinco_Ribeiras <dbo_highestPlace> var_a brack_close
+what is the highest place of algarve	select var_a where brack_open dbr_Algarve <dbo_highestPlace> var_a brack_close
+what is the highest place of cornwall	select var_a where brack_open dbr_Cornwall,_New_York <dbo_highestPlace> var_a brack_close
+what is the highest place of lanfair valley	select var_a where brack_open dbr_Lanfair_Valley <dbo_highestPlace> var_a brack_close
+what is the highest place of armenian highlands	select var_a where brack_open dbr_Armenian_Highlands <dbo_highestPlace> var_a brack_close
+what is the highest place of halcott	select var_a where brack_open dbr_Halcott,_New_York <dbo_highestPlace> var_a brack_close
+what is the highest place of monchique islet	select var_a where brack_open dbr_Monchique_Islet <dbo_highestPlace> var_a brack_close
+what is the highest place of azores	select var_a where brack_open dbr_Azores <dbo_highestPlace> var_a brack_close
+what is the highest place of faial island	select var_a where brack_open dbr_Faial_Island <dbo_highestPlace> var_a brack_close
+what is the highest place of george washington and jefferson national forests	select var_a where brack_open dbr_George_Washington_and_Jefferson_National_Forests <dbo_highestPlace> var_a brack_close
+what is the highest place of brugg	select var_a where brack_open dbr_Brugg <dbo_highestPlace> var_a brack_close
+what is the highest place of chur	select var_a where brack_open dbr_Chur <dbo_highestPlace> var_a brack_close
+what is the highest place of sierra crest	select var_a where brack_open dbr_Sierra_Crest <dbo_highestPlace> var_a brack_close
+what is the highest place of veľký šariš	select var_a where brack_open dbr_Veľký_Šariš <dbo_highestPlace> var_a brack_close
+what is the highest place of sahara	select var_a where brack_open dbr_Sahara <dbo_highestPlace> var_a brack_close
+what is the highest place of high desert	select var_a where brack_open dbr_High_Desert_(Oregon) <dbo_highestPlace> var_a brack_close
+what is the intercommunality of noguères	select var_a where brack_open dbr_Noguères <dbo_intercommunality> var_a brack_close
+what is the intercommunality of dangy	select var_a where brack_open dbr_Dangy <dbo_intercommunality> var_a brack_close
+what is the intercommunality of piennes-onvillers	select var_a where brack_open dbr_Piennes-Onvillers <dbo_intercommunality> var_a brack_close
+what is the intercommunality of saint-pierre-de-manneville	select var_a where brack_open dbr_Saint-Pierre-de-Manneville <dbo_intercommunality> var_a brack_close
+what is the intercommunality of clérey-sur-brenon	select var_a where brack_open dbr_Clérey-sur-Brenon <dbo_intercommunality> var_a brack_close
+what is the intercommunality of fontaine-fourches	select var_a where brack_open dbr_Fontaine-Fourches <dbo_intercommunality> var_a brack_close
+what is the intercommunality of martigny-les-gerbonvaux	select var_a where brack_open dbr_Martigny-les-Gerbonvaux <dbo_intercommunality> var_a brack_close
+what is the intercommunality of laroin	select var_a where brack_open dbr_Laroin <dbo_intercommunality> var_a brack_close
+what is the intercommunality of malpart	select var_a where brack_open dbr_Malpart <dbo_intercommunality> var_a brack_close
+what is the intercommunality of chassillé	select var_a where brack_open dbr_Chassillé <dbo_intercommunality> var_a brack_close
+what is the intercommunality of graval	select var_a where brack_open dbr_Graval <dbo_intercommunality> var_a brack_close
+what is the intercommunality of contes	select var_a where brack_open dbr_Contes,_Pas-de-Calais <dbo_intercommunality> var_a brack_close
+what is the intercommunality of henrichemont	select var_a where brack_open dbr_Henrichemont <dbo_intercommunality> var_a brack_close
+what is the intercommunality of marcilly-en-beauce	select var_a where brack_open dbr_Marcilly-en-Beauce <dbo_intercommunality> var_a brack_close
+what is the intercommunality of kœnigsmacker	select var_a where brack_open dbr_Kœnigsmacker <dbo_intercommunality> var_a brack_close
+what is the intercommunality of cornillé-les-caves	select var_a where brack_open dbr_Cornillé-les-Caves <dbo_intercommunality> var_a brack_close
+what is the intercommunality of harnes	select var_a where brack_open dbr_Harnes <dbo_intercommunality> var_a brack_close
+what is the intercommunality of saubole	select var_a where brack_open dbr_Saubole <dbo_intercommunality> var_a brack_close
+what is the intercommunality of dammarie-sur-loing	select var_a where brack_open dbr_Dammarie-sur-Loing <dbo_intercommunality> var_a brack_close
+what is the intercommunality of la colombe	select var_a where brack_open dbr_La_Colombe,_Manche <dbo_intercommunality> var_a brack_close
+what is the intercommunality of cornebarrieu	select var_a where brack_open dbr_Cornebarrieu <dbo_intercommunality> var_a brack_close
+what is the intercommunality of radinghem	select var_a where brack_open dbr_Radinghem <dbo_intercommunality> var_a brack_close
+what is the intercommunality of mareilles	select var_a where brack_open dbr_Mareilles <dbo_intercommunality> var_a brack_close
+what is the intercommunality of hoste	select var_a where brack_open dbr_Hoste,_Moselle <dbo_intercommunality> var_a brack_close
+what is the intercommunality of olmeta-di-capocorso	select var_a where brack_open dbr_Olmeta-di-Capocorso <dbo_intercommunality> var_a brack_close
+what is the intercommunality of izaourt	select var_a where brack_open dbr_Izaourt <dbo_intercommunality> var_a brack_close
+what is the intercommunality of loisin	select var_a where brack_open dbr_Loisin <dbo_intercommunality> var_a brack_close
+what is the intercommunality of chauvoncourt	select var_a where brack_open dbr_Chauvoncourt <dbo_intercommunality> var_a brack_close
+what is the intercommunality of matringhem	select var_a where brack_open dbr_Matringhem <dbo_intercommunality> var_a brack_close
+what is the intercommunality of bonnemaison	select var_a where brack_open dbr_Bonnemaison <dbo_intercommunality> var_a brack_close
+what is the intercommunality of lorris	select var_a where brack_open dbr_Lorris <dbo_intercommunality> var_a brack_close
+what is the intercommunality of villequiers	select var_a where brack_open dbr_Villequiers <dbo_intercommunality> var_a brack_close
+what is the intercommunality of vidouze	select var_a where brack_open dbr_Vidouze <dbo_intercommunality> var_a brack_close
+what is the intercommunality of brosville	select var_a where brack_open dbr_Brosville <dbo_intercommunality> var_a brack_close
+what is the intercommunality of bussus-bussuel	select var_a where brack_open dbr_Bussus-Bussuel <dbo_intercommunality> var_a brack_close
+what is the intercommunality of malleret	select var_a where brack_open dbr_Malleret <dbo_intercommunality> var_a brack_close
+what is the intercommunality of clefmont	select var_a where brack_open dbr_Clefmont <dbo_intercommunality> var_a brack_close
+what is the intercommunality of soyécourt	select var_a where brack_open dbr_Soyécourt <dbo_intercommunality> var_a brack_close
+what is the intercommunality of galfingue	select var_a where brack_open dbr_Galfingue <dbo_intercommunality> var_a brack_close
+what is the intercommunality of regnauville	select var_a where brack_open dbr_Regnauville <dbo_intercommunality> var_a brack_close
+what is the intercommunality of montreuil-bellay	select var_a where brack_open dbr_Montreuil-Bellay <dbo_intercommunality> var_a brack_close
+what is the intercommunality of famechon	select var_a where brack_open dbr_Famechon,_Pas-de-Calais <dbo_intercommunality> var_a brack_close
+what is the intercommunality of orival	select var_a where brack_open dbr_Orival,_Seine-Maritime <dbo_intercommunality> var_a brack_close
+what is the intercommunality of saint-rigomer-des-bois	select var_a where brack_open dbr_Saint-Rigomer-des-Bois <dbo_intercommunality> var_a brack_close
+what is the intercommunality of chessenaz	select var_a where brack_open dbr_Chessenaz <dbo_intercommunality> var_a brack_close
+what is the intercommunality of nesle-l'hôpital	select var_a where brack_open dbr_Nesle-l'Hôpital <dbo_intercommunality> var_a brack_close
+what is the intercommunality of mûres	select var_a where brack_open dbr_Mûres <dbo_intercommunality> var_a brack_close
+what is the intercommunality of épron	select var_a where brack_open dbr_Épron <dbo_intercommunality> var_a brack_close
+what is the intercommunality of momy	select var_a where brack_open dbr_Momy <dbo_intercommunality> var_a brack_close
+what is the intercommunality of scherwiller	select var_a where brack_open dbr_Scherwiller <dbo_intercommunality> var_a brack_close
+what is the intercommunality of loubieng	select var_a where brack_open dbr_Loubieng <dbo_intercommunality> var_a brack_close
+what is the intercommunality of saint-lézer	select var_a where brack_open dbr_Saint-Lézer <dbo_intercommunality> var_a brack_close
+what is the intercommunality of lisle-sur-tarn	select var_a where brack_open dbr_Lisle-sur-Tarn <dbo_intercommunality> var_a brack_close
+what is the intercommunality of herlincourt	select var_a where brack_open dbr_Herlincourt <dbo_intercommunality> var_a brack_close
+what is the intercommunality of reclinghem	select var_a where brack_open dbr_Reclinghem <dbo_intercommunality> var_a brack_close
+what is the intercommunality of bagneux	select var_a where brack_open dbr_Bagneux,_Allier <dbo_intercommunality> var_a brack_close
+what is the intercommunality of gamarthe	select var_a where brack_open dbr_Gamarthe <dbo_intercommunality> var_a brack_close
+what is the located in area of mount phillips	select var_a where brack_open dbr_Mount_Phillips_(Canada) <dbo_locatedInArea> var_a brack_close
+what is the located in area of traverse peak	select var_a where brack_open dbr_Traverse_Peak <dbo_locatedInArea> var_a brack_close
+what is the located in area of leaman's place covered bridge	select var_a where brack_open dbr_Leaman's_Place_Covered_Bridge <dbo_locatedInArea> var_a brack_close
+what is the located in area of k12	select var_a where brack_open dbr_K12_(mountain) <dbo_locatedInArea> var_a brack_close
+what is the located in area of klausenstein	select var_a where brack_open dbr_Klausenstein_(Bavaria) <dbo_locatedInArea> var_a brack_close
+what is the located in area of twin sisters peaks	select var_a where brack_open dbr_Twin_Sisters_Peaks <dbo_locatedInArea> var_a brack_close
+what is the located in area of roque de los muchachos	select var_a where brack_open dbr_Roque_de_los_Muchachos <dbo_locatedInArea> var_a brack_close
+what is the located in area of south table mountain	select var_a where brack_open dbr_South_Table_Mountain_(Colorado) <dbo_locatedInArea> var_a brack_close
+what is the located in area of three sisters lakes provincial park	select var_a where brack_open dbr_Three_Sisters_Lakes_Provincial_Park <dbo_locatedInArea> var_a brack_close
+what is the located in area of monte stella	select var_a where brack_open dbr_Monte_Stella_(Cilento) <dbo_locatedInArea> var_a brack_close
+what is the located in area of gjelhøi	select var_a where brack_open dbr_Gjelhøi <dbo_locatedInArea> var_a brack_close
+what is the located in area of garden bay marine provincial park	select var_a where brack_open dbr_Garden_Bay_Marine_Provincial_Park <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount bona	select var_a where brack_open dbr_Mount_Bona <dbo_locatedInArea> var_a brack_close
+what is the located in area of jordanshöhe	select var_a where brack_open dbr_Jordanshöhe <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount galwey	select var_a where brack_open dbr_Mount_Galwey <dbo_locatedInArea> var_a brack_close
+what is the located in area of juch'uy llallawa	select var_a where brack_open dbr_Juch'uy_Llallawa <dbo_locatedInArea> var_a brack_close
+what is the located in area of specimen ridge	select var_a where brack_open dbr_Specimen_Ridge <dbo_locatedInArea> var_a brack_close
+what is the located in area of qutañani	select var_a where brack_open dbr_Qutañani <dbo_locatedInArea> var_a brack_close
+what is the located in area of sky pilot mountain	select var_a where brack_open dbr_Sky_Pilot_Mountain <dbo_locatedInArea> var_a brack_close
+what is the located in area of q'atawini	select var_a where brack_open dbr_Q'atawini <dbo_locatedInArea> var_a brack_close
+what is the located in area of edelweißlahnerkopf	select var_a where brack_open dbr_Edelweißlahnerkopf <dbo_locatedInArea> var_a brack_close
+what is the located in area of wila jaqhi	select var_a where brack_open dbr_Wila_Jaqhi_(Punata) <dbo_locatedInArea> var_a brack_close
+what is the located in area of bennachie	select var_a where brack_open dbr_Bennachie <dbo_locatedInArea> var_a brack_close
+what is the located in area of st. michael volcanic field	select var_a where brack_open dbr_St._Michael_volcanic_field <dbo_locatedInArea> var_a brack_close
+what is the located in area of peak 5390	select var_a where brack_open dbr_Peak_5390 <dbo_locatedInArea> var_a brack_close
+what is the located in area of hound's tooth	select var_a where brack_open dbr_Hound's_Tooth_(mountain) <dbo_locatedInArea> var_a brack_close
+what is the located in area of kotcho lake village provincial park	select var_a where brack_open dbr_Kotcho_Lake_Village_Provincial_Park <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount athabasca	select var_a where brack_open dbr_Mount_Athabasca <dbo_locatedInArea> var_a brack_close
+what is the located in area of veleta	select var_a where brack_open dbr_Veleta_(Sierra_Nevada) <dbo_locatedInArea> var_a brack_close
+what is the located in area of bordeaux railway bridge	select var_a where brack_open dbr_Bordeaux_Railway_Bridge <dbo_locatedInArea> var_a brack_close
+what is the located in area of chu chua cottonwood provincial park	select var_a where brack_open dbr_Chu_Chua_Cottonwood_Provincial_Park <dbo_locatedInArea> var_a brack_close
+what is the located in area of p'utu p'utu	select var_a where brack_open dbr_P'utu_P'utu <dbo_locatedInArea> var_a brack_close
+what is the located in area of puig de la mola	select var_a where brack_open dbr_Puig_de_la_Mola <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount columbia	select var_a where brack_open dbr_Mount_Columbia_(Canada) <dbo_locatedInArea> var_a brack_close
+what is the located in area of brackendale eagles provincial park	select var_a where brack_open dbr_Brackendale_Eagles_Provincial_Park <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount rhondda	select var_a where brack_open dbr_Mount_Rhondda <dbo_locatedInArea> var_a brack_close
+what is the located in area of furnace mountain	select var_a where brack_open dbr_Furnace_Mountain_(Virginia) <dbo_locatedInArea> var_a brack_close
+what is the located in area of revenant mountain	select var_a where brack_open dbr_Revenant_Mountain <dbo_locatedInArea> var_a brack_close
+what is the located in area of watergate	select var_a where brack_open dbr_Watergate,_Chester <dbo_locatedInArea> var_a brack_close
+what is the located in area of lone cone	select var_a where brack_open dbr_Lone_Cone <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount tengu	select var_a where brack_open dbr_Mount_Tengu_(Samani) <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount drum	select var_a where brack_open dbr_Mount_Drum <dbo_locatedInArea> var_a brack_close
+what is the located in area of morrone	select var_a where brack_open dbr_Morrone <dbo_locatedInArea> var_a brack_close
+what is the located in area of mountain view park	select var_a where brack_open dbr_Mountain_View_Park_(North_Vancouver) <dbo_locatedInArea> var_a brack_close
+what is the located in area of ch'iyar qullu	select var_a where brack_open dbr_Ch'iyar_Qullu_(Larecaja) <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount san antonio	select var_a where brack_open dbr_Mount_San_Antonio <dbo_locatedInArea> var_a brack_close
+what is the located in area of alzenberg	select var_a where brack_open dbr_Alzenberg <dbo_locatedInArea> var_a brack_close
+what is the located in area of brauneck	select var_a where brack_open dbr_Brauneck <dbo_locatedInArea> var_a brack_close
+what is the located in area of wila qullu	select var_a where brack_open dbr_Wila_Qullu_(Potosí) <dbo_locatedInArea> var_a brack_close
+what is the located in area of sgiath chùil	select var_a where brack_open dbr_Sgiath_Chùil <dbo_locatedInArea> var_a brack_close
+what is the located in area of equinox mountain	select var_a where brack_open dbr_Equinox_Mountain <dbo_locatedInArea> var_a brack_close
+what is the located in area of schwarzkopf	select var_a where brack_open dbr_Schwarzkopf_(Bavarian_Forest) <dbo_locatedInArea> var_a brack_close
+what is the located in area of neubrügg	select var_a where brack_open dbr_Neubrügg <dbo_locatedInArea> var_a brack_close
+what is the located in area of levski peak	select var_a where brack_open dbr_Levski_Peak_(Bulgaria) <dbo_locatedInArea> var_a brack_close
+what is the located in area of mount pétain	select var_a where brack_open dbr_Mount_Pétain <dbo_locatedInArea> var_a brack_close
+what is the lowest place of pilot mountain state park	select var_a where brack_open dbr_Pilot_Mountain_State_Park <dbo_lowestPlace> var_a brack_close
+what is the lowest place of santo antão	select var_a where brack_open dbr_Santo_Antão_(Calheta) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of são mateus	select var_a where brack_open dbr_São_Mateus_(Madalena) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of sugar island	select var_a where brack_open dbr_Sugar_Island,_Illinois <dbo_lowestPlace> var_a brack_close
+what is the lowest place of bütschwil	select var_a where brack_open dbr_Bütschwil <dbo_lowestPlace> var_a brack_close
+what is the lowest place of texas panhandle	select var_a where brack_open dbr_Texas_Panhandle <dbo_lowestPlace> var_a brack_close
+what is the lowest place of lajes das flores	select var_a where brack_open dbr_Lajes_das_Flores_(parish) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of beaver valley	select var_a where brack_open dbr_Beaver_Valley_(Utah) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of trans-pecos	select var_a where brack_open dbr_Trans-Pecos <dbo_lowestPlace> var_a brack_close
+what is the lowest place of norte grande	select var_a where brack_open dbr_Norte_Grande_(Azores) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of adirondack park	select var_a where brack_open dbr_Adirondack_Park <dbo_lowestPlace> var_a brack_close
+what is the lowest place of south downs national park	select var_a where brack_open dbr_South_Downs_National_Park <dbo_lowestPlace> var_a brack_close
+what is the lowest place of bern	select var_a where brack_open dbr_Bern <dbo_lowestPlace> var_a brack_close
+what is the lowest place of praia do norte	select var_a where brack_open dbr_Praia_do_Norte <dbo_lowestPlace> var_a brack_close
+what is the lowest place of matriz	select var_a where brack_open dbr_Matriz_(Horta) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of candelária	select var_a where brack_open dbr_Candelária_(Madalena) <dbo_lowestPlace> var_a brack_close
+what is the lowest place of piedade	select var_a where brack_open dbr_Piedade_(Lajes_do_Pico) <dbo_lowestPlace> var_a brack_close
+what is the management place of blackdown hills	select var_a where brack_open dbr_Blackdown_Hills <dbo_managementPlace> var_a brack_close
+what is the management place of hutsulshchyna national park	select var_a where brack_open dbr_Hutsulshchyna_National_Park <dbo_managementPlace> var_a brack_close
+what is the municipality of aliso canyon	select var_a where brack_open dbr_Aliso_Canyon <dbo_municipality> var_a brack_close
+what is the municipality of guadalupe	select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) <dbo_municipality> var_a brack_close
+what is the municipality of helfštýn	select var_a where brack_open dbr_Helfštýn <dbo_municipality> var_a brack_close
+what is the municipality of raminho	select var_a where brack_open dbr_Raminho <dbo_municipality> var_a brack_close
+what is the municipality of são mateus	select var_a where brack_open dbr_São_Mateus_(Madalena) <dbo_municipality> var_a brack_close
+what is the municipality of topo	select var_a where brack_open dbr_Topo_(Calheta) <dbo_municipality> var_a brack_close
+what is the municipality of cugnasco	select var_a where brack_open dbr_Cugnasco <dbo_municipality> var_a brack_close
+what is the municipality of shakotan peninsula	select var_a where brack_open dbr_Shakotan_Peninsula <dbo_municipality> var_a brack_close
+what is the municipality of sandy creek	select var_a where brack_open dbr_Sandy_Creek_(Richmond_Valley) <dbo_municipality> var_a brack_close
+what is the municipality of schwiederstorf	select var_a where brack_open dbr_Schwiederstorf <dbo_municipality> var_a brack_close
+what is the municipality of nemegos	select var_a where brack_open dbr_Nemegos,_Ontario <dbo_municipality> var_a brack_close
+what is the municipality of næstved	select var_a where brack_open dbr_Næstved <dbo_municipality> var_a brack_close
+what is the municipality of åker's canal	select var_a where brack_open dbr_Åker's_Canal <dbo_municipality> var_a brack_close
+what is the municipality of rocky ponds creek	select var_a where brack_open dbr_Rocky_Ponds_Creek <dbo_municipality> var_a brack_close
+what is the municipality of aldeburgh lifeboat station	select var_a where brack_open dbr_Aldeburgh_Lifeboat_Station <dbo_municipality> var_a brack_close
+what is the municipality of laucha	select var_a where brack_open dbr_Laucha,_Thuringia <dbo_municipality> var_a brack_close
+what is the municipality of großtreben-zwethau	select var_a where brack_open dbr_Großtreben-Zwethau <dbo_municipality> var_a brack_close
+what is the municipality of tarfala valley	select var_a where brack_open dbr_Tarfala_Valley <dbo_municipality> var_a brack_close
+what is the municipality of bourne brook	select var_a where brack_open dbr_Bourne_Brook <dbo_municipality> var_a brack_close
+what is the municipality of teal creek	select var_a where brack_open dbr_Teal_Creek <dbo_municipality> var_a brack_close
+what is the municipality of convent of são boaventura	select var_a where brack_open dbr_Convent_of_São_Boaventura <dbo_municipality> var_a brack_close
+what is the municipality of vítkovice	select var_a where brack_open dbr_Vítkovice_(Ostrava) <dbo_municipality> var_a brack_close
+what is the municipality of castle of silves	select var_a where brack_open dbr_Castle_of_Silves <dbo_municipality> var_a brack_close
+what is the municipality of kharaa river	select var_a where brack_open dbr_Kharaa_River <dbo_municipality> var_a brack_close
+what is the municipality of mount tom state reservation	select var_a where brack_open dbr_Mount_Tom_State_Reservation <dbo_municipality> var_a brack_close
+what is the municipality of bellevue	select var_a where brack_open dbr_Bellevue,_Schenectady,_New_York <dbo_municipality> var_a brack_close
+what is the municipality of quassaick creek	select var_a where brack_open dbr_Quassaick_Creek <dbo_municipality> var_a brack_close
+what is the municipality of cagayan river	select var_a where brack_open dbr_Cagayan_River <dbo_municipality> var_a brack_close
+what is the municipality of doyles river	select var_a where brack_open dbr_Doyles_River_(New_South_Wales) <dbo_municipality> var_a brack_close
+what is the municipality of devlins creek	select var_a where brack_open dbr_Devlins_Creek <dbo_municipality> var_a brack_close
+what is the municipality of pötzschau	select var_a where brack_open dbr_Pötzschau <dbo_municipality> var_a brack_close
+what is the municipality of kempraten	select var_a where brack_open dbr_Kempraten <dbo_municipality> var_a brack_close
+what is the municipality of convent of beato antónio	select var_a where brack_open dbr_Convent_of_Beato_António <dbo_municipality> var_a brack_close
+what is the municipality of i street bridge	select var_a where brack_open dbr_I_Street_Bridge <dbo_municipality> var_a brack_close
+what is the municipality of morgenröthe-rautenkranz	select var_a where brack_open dbr_Morgenröthe-Rautenkranz <dbo_municipality> var_a brack_close
+what is the municipality of forksville covered bridge	select var_a where brack_open dbr_Forksville_Covered_Bridge <dbo_municipality> var_a brack_close
+what is the municipality of rottleberode	select var_a where brack_open dbr_Rottleberode <dbo_municipality> var_a brack_close
+what is the municipality of middle harbour creek	select var_a where brack_open dbr_Middle_Harbour_Creek <dbo_municipality> var_a brack_close
+what is the municipality of quassaick creek	select var_a where brack_open dbr_Quassaick_Creek <dbo_municipality> var_a brack_close
+what is the municipality of černá	select var_a where brack_open dbr_Černá <dbo_municipality> var_a brack_close
+what is the municipality of burnham area rescue boat	select var_a where brack_open dbr_Burnham_Area_Rescue_Boat <dbo_municipality> var_a brack_close
+what is the municipality of tossens	select var_a where brack_open dbr_Tossens <dbo_municipality> var_a brack_close
+what is the municipality of delta de la dranse national nature reserve	select var_a where brack_open dbr_Delta_de_la_Dranse_National_Nature_Reserve <dbo_municipality> var_a brack_close
+what is the municipality of aldeia de paio pires	select var_a where brack_open dbr_Aldeia_de_Paio_Pires <dbo_municipality> var_a brack_close
+what is the municipality of jakobselva	select var_a where brack_open dbr_Jakobselva_(Vadsø) <dbo_municipality> var_a brack_close
+what is the municipality of biberbrugg	select var_a where brack_open dbr_Biberbrugg <dbo_municipality> var_a brack_close
+what is the municipality of church of santa bárbara	select var_a where brack_open dbr_Church_of_Santa_Bárbara_(Vila_do_Porto) <dbo_municipality> var_a brack_close
+what is the municipality of berkeley	select var_a where brack_open dbr_Berkeley,_Ontario <dbo_municipality> var_a brack_close
+what is the municipality of langå	select var_a where brack_open dbr_Langå <dbo_municipality> var_a brack_close
+what is the municipality of maria fold and thrust belt	select var_a where brack_open dbr_Maria_fold_and_thrust_belt <dbo_municipality> var_a brack_close
+what is the municipality of convent of carmo	select var_a where brack_open dbr_Convent_of_Carmo_(Horta) <dbo_municipality> var_a brack_close
+what is the municipality of arcos	select var_a where brack_open dbr_Arcos_(Vila_do_Conde) <dbo_municipality> var_a brack_close
+what is the municipality of gothemsån	select var_a where brack_open dbr_Gothemsån <dbo_municipality> var_a brack_close
+what is the municipality of ilfracombe lifeboat station	select var_a where brack_open dbr_Ilfracombe_Lifeboat_Station <dbo_municipality> var_a brack_close
+what is the municipality of bimberamala river	select var_a where brack_open dbr_Bimberamala_River <dbo_municipality> var_a brack_close
+what is the municipality of jack river	select var_a where brack_open dbr_Jack_River_(Wellington,_Victoria) <dbo_municipality> var_a brack_close
+what is the municipality of daerstorf	select var_a where brack_open dbr_Daerstorf <dbo_municipality> var_a brack_close
+what is the municipality of považský hrad	select var_a where brack_open dbr_Považský_hrad <dbo_municipality> var_a brack_close
+what is the nearest city of billies bay wilderness	select var_a where brack_open dbr_Billies_Bay_Wilderness <dbo_nearestCity> var_a brack_close
+what is the nearest city of orang national park	select var_a where brack_open dbr_Orang_National_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of lac deschênes	select var_a where brack_open dbr_Lac_Deschênes <dbo_nearestCity> var_a brack_close
+what is the nearest city of ayamaru lakes	select var_a where brack_open dbr_Ayamaru_Lakes <dbo_nearestCity> var_a brack_close
+what is the nearest city of lake maggiore	select var_a where brack_open dbr_Lake_Maggiore <dbo_nearestCity> var_a brack_close
+what is the nearest city of hunting lodge farm	select var_a where brack_open dbr_Hunting_Lodge_Farm <dbo_nearestCity> var_a brack_close
+what is the nearest city of osisko lake	select var_a where brack_open dbr_Osisko_Lake <dbo_nearestCity> var_a brack_close
+what is the nearest city of owens peak wilderness	select var_a where brack_open dbr_Owens_Peak_Wilderness <dbo_nearestCity> var_a brack_close
+what is the nearest city of lake pontchartrain	select var_a where brack_open dbr_Lake_Pontchartrain <dbo_nearestCity> var_a brack_close
+what is the nearest city of sunset lake	select var_a where brack_open dbr_Sunset_Lake_(Braintree,_Massachusetts) <dbo_nearestCity> var_a brack_close
+what is the nearest city of sonny bono salton sea national wildlife refuge	select var_a where brack_open dbr_Sonny_Bono_Salton_Sea_National_Wildlife_Refuge <dbo_nearestCity> var_a brack_close
+what is the nearest city of initao–libertad protected landscape and seascape	select var_a where brack_open dbr_Initao–Libertad_Protected_Landscape_and_Seascape <dbo_nearestCity> var_a brack_close
+what is the nearest city of oak grove missionary baptist church	select var_a where brack_open dbr_Oak_Grove_Missionary_Baptist_Church <dbo_nearestCity> var_a brack_close
+what is the nearest city of bennington battlefield state historic site	select var_a where brack_open dbr_Bennington_Battlefield_State_Historic_Site <dbo_nearestCity> var_a brack_close
+what is the nearest city of william and mary seerley barn and milkhouse-smokehouse	select var_a where brack_open dbr_William_and_Mary_(Messersmith) _Seerley_Barn_and_Milkhouse-Smokehouse <dbo_nearestCity> var_a brack_close
+what is the nearest city of shiloh indian mounds site	select var_a where brack_open dbr_Shiloh_Indian_Mounds_Site <dbo_nearestCity> var_a brack_close
+what is the nearest city of beth eden chapel	select var_a where brack_open dbr_Beth_Eden_Chapel <dbo_nearestCity> var_a brack_close
+what is the nearest city of tuolumne meadows ranger stations and comfort stations	select var_a where brack_open dbr_Tuolumne_Meadows_Ranger_Stations_and_Comfort_Stations <dbo_nearestCity> var_a brack_close
+what is the nearest city of hiram bell farmstead	select var_a where brack_open dbr_Hiram_Bell_Farmstead <dbo_nearestCity> var_a brack_close
+what is the nearest city of mount tabor good samaritan lodge no. 59	select var_a where brack_open dbr_Mount_Tabor_Good_Samaritan_Lodge_No._59 <dbo_nearestCity> var_a brack_close
+what is the nearest city of fort okanogan	select var_a where brack_open dbr_Fort_Okanogan <dbo_nearestCity> var_a brack_close
+what is the nearest city of union meeting house	select var_a where brack_open dbr_Union_Meeting_House_(Whiting,_Maine) <dbo_nearestCity> var_a brack_close
+what is the nearest city of swithland reservoir	select var_a where brack_open dbr_Swithland_Reservoir <dbo_nearestCity> var_a brack_close
+what is the nearest city of austin creek state recreation area	select var_a where brack_open dbr_Austin_Creek_State_Recreation_Area <dbo_nearestCity> var_a brack_close
+what is the nearest city of band-e amir national park	select var_a where brack_open dbr_Band-e_Amir_National_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of campina do encantado state park	select var_a where brack_open dbr_Campina_do_Encantado_State_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of falls of the ohio state park	select var_a where brack_open dbr_Falls_of_the_Ohio_State_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of tysfjorden	select var_a where brack_open dbr_Tysfjorden <dbo_nearestCity> var_a brack_close
+what is the nearest city of tippecanoe battlefield park	select var_a where brack_open dbr_Tippecanoe_Battlefield_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of t e ranch headquarters	select var_a where brack_open dbr_T_E_Ranch_Headquarters <dbo_nearestCity> var_a brack_close
+what is the nearest city of nahuel huapi lake	select var_a where brack_open dbr_Nahuel_Huapi_Lake <dbo_nearestCity> var_a brack_close
+what is the nearest city of turracher see	select var_a where brack_open dbr_Turracher_See <dbo_nearestCity> var_a brack_close
+what is the nearest city of rapidan camp	select var_a where brack_open dbr_Rapidan_Camp <dbo_nearestCity> var_a brack_close
+what is the nearest city of buffalo lake	select var_a where brack_open dbr_Buffalo_Lake_(Alberta) <dbo_nearestCity> var_a brack_close
+what is the nearest city of trekanten	select var_a where brack_open dbr_Trekanten_(Stockholm) <dbo_nearestCity> var_a brack_close
+what is the nearest city of ewing-snell ranch	select var_a where brack_open dbr_Ewing-Snell_Ranch <dbo_nearestCity> var_a brack_close
+what is the nearest city of iligan bay	select var_a where brack_open dbr_Iligan_Bay <dbo_nearestCity> var_a brack_close
+what is the nearest city of forge pond	select var_a where brack_open dbr_Forge_Pond_(Plymouth,_Massachusetts) <dbo_nearestCity> var_a brack_close
+what is the nearest city of bass pond site	select var_a where brack_open dbr_Bass_Pond_Site <dbo_nearestCity> var_a brack_close
+what is the nearest city of färnebofjärden national park	select var_a where brack_open dbr_Färnebofjärden_National_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of great egg harbor bay	select var_a where brack_open dbr_Great_Egg_Harbor_Bay <dbo_nearestCity> var_a brack_close
+what is the nearest city of sumidero canyon	select var_a where brack_open dbr_Sumidero_Canyon <dbo_nearestCity> var_a brack_close
+what is the nearest city of ejz bridge over shoshone river	select var_a where brack_open dbr_EJZ_Bridge_over_Shoshone_River <dbo_nearestCity> var_a brack_close
+what is the nearest city of bonneville speedway	select var_a where brack_open dbr_Bonneville_Speedway <dbo_nearestCity> var_a brack_close
+what is the nearest city of el yunque national forest	select var_a where brack_open dbr_El_Yunque_National_Forest <dbo_nearestCity> var_a brack_close
+what is the nearest city of black pond wildlife management area	select var_a where brack_open dbr_Black_Pond_Wildlife_Management_Area <dbo_nearestCity> var_a brack_close
+what is the nearest city of rocky branch school	select var_a where brack_open dbr_Rocky_Branch_School <dbo_nearestCity> var_a brack_close
+what is the nearest city of point of rocks stage station state historic site	select var_a where brack_open dbr_Point_of_Rocks_Stage_Station_State_Historic_Site <dbo_nearestCity> var_a brack_close
+what is the nearest city of trinchera cave archeological district	select var_a where brack_open dbr_Trinchera_Cave_Archeological_District <dbo_nearestCity> var_a brack_close
+what is the nearest city of mount sunapee resort	select var_a where brack_open dbr_Mount_Sunapee_Resort <dbo_nearestCity> var_a brack_close
+what is the nearest city of andrew hunter house	select var_a where brack_open dbr_Andrew_Hunter_House <dbo_nearestCity> var_a brack_close
+what is the nearest city of lake alexandrina	select var_a where brack_open dbr_Lake_Alexandrina_(South_Australia) <dbo_nearestCity> var_a brack_close
+what is the nearest city of alfred b. maclay gardens state park	select var_a where brack_open dbr_Alfred_B._Maclay_Gardens_State_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of triangle x barn	select var_a where brack_open dbr_Triangle_X_Barn <dbo_nearestCity> var_a brack_close
+what is the nearest city of mccauley and meyer barns	select var_a where brack_open dbr_McCauley_and_Meyer_Barns <dbo_nearestCity> var_a brack_close
+what is the nearest city of inns on the national road	select var_a where brack_open dbr_Inns_on_the_National_Road <dbo_nearestCity> var_a brack_close
+what is the nearest city of guilford courthouse national military park	select var_a where brack_open dbr_Guilford_Courthouse_National_Military_Park <dbo_nearestCity> var_a brack_close
+what is the nearest city of harry f. wentz studio	select var_a where brack_open dbr_Harry_F._Wentz_Studio <dbo_nearestCity> var_a brack_close
+what is the nearest city of stocks reservoir	select var_a where brack_open dbr_Stocks_Reservoir <dbo_nearestCity> var_a brack_close
+what is the nearest city of baltic sea	select var_a where brack_open dbr_Baltic_Sea <dbo_nearestCity> var_a brack_close
+what is the nearest city of william seabrook house	select var_a where brack_open dbr_William_Seabrook_House <dbo_nearestCity> var_a brack_close
+what is the origin of bsa buccaneer air rifle	select var_a where brack_open dbr_BSA_Buccaneer_Air_Rifle <dbo_origin> var_a brack_close
+what is the origin of cvt1 zigolo	select var_a where brack_open dbr_CVT1_Zigolo <dbo_origin> var_a brack_close
+what is the region of willerval	select var_a where brack_open dbr_Willerval <dbo_region> var_a brack_close
+what is the region of white rock river	select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_region> var_a brack_close
+what is the region of wollomombi river	select var_a where brack_open dbr_Wollomombi_River <dbo_region> var_a brack_close
+what is the region of noire river	select var_a where brack_open dbr_Noire_River <dbo_region> var_a brack_close
+what is the region of montagnac-sur-lède	select var_a where brack_open dbr_Montagnac-sur-Lède <dbo_region> var_a brack_close
+what is the region of ostroměř	select var_a where brack_open dbr_Ostroměř <dbo_region> var_a brack_close
+what is the region of charleville	select var_a where brack_open dbr_Charleville,_Marne <dbo_region> var_a brack_close
+what is the region of leycester creek	select var_a where brack_open dbr_Leycester_Creek <dbo_region> var_a brack_close
+what is the region of mulwaree river	select var_a where brack_open dbr_Mulwaree_River <dbo_region> var_a brack_close
+what is the region of labeyrie	select var_a where brack_open dbr_Labeyrie,_Pyrénées-Atlantiques <dbo_region> var_a brack_close
+what is the region of turtle lake	select var_a where brack_open dbr_Turtle_Lake_(Temagami) <dbo_region> var_a brack_close
+what is the region of buffalo lake national wildlife refuge	select var_a where brack_open dbr_Buffalo_Lake_National_Wildlife_Refuge <dbo_region> var_a brack_close
+what is the region of roaring plains west wilderness	select var_a where brack_open dbr_Roaring_Plains_West_Wilderness <dbo_region> var_a brack_close
+what is the region of mées	select var_a where brack_open dbr_Mées <dbo_region> var_a brack_close
+what is the region of malaunay	select var_a where brack_open dbr_Malaunay <dbo_region> var_a brack_close
+what is the region of coolumbooka river	select var_a where brack_open dbr_Coolumbooka_River <dbo_region> var_a brack_close
+what is the region of palacette mayer	select var_a where brack_open dbr_Palacette_Mayer <dbo_region> var_a brack_close
+what is the region of lake valley	select var_a where brack_open dbr_Lake_Valley_(Nevada) <dbo_region> var_a brack_close
+what is the region of tingry	select var_a where brack_open dbr_Tingry <dbo_region> var_a brack_close
+what is the region of bourne brook	select var_a where brack_open dbr_Bourne_Brook <dbo_region> var_a brack_close
+what is the region of taillebourg	select var_a where brack_open dbr_Taillebourg,_Lot-et-Garonne <dbo_region> var_a brack_close
+what is the region of villers-campsart	select var_a where brack_open dbr_Villers-Campsart <dbo_region> var_a brack_close
+what is the region of malá úpa	select var_a where brack_open dbr_Malá_Úpa <dbo_region> var_a brack_close
+what is the region of blicks river	select var_a where brack_open dbr_Blicks_River <dbo_region> var_a brack_close
+what is the region of beaumetz-lès-loges	select var_a where brack_open dbr_Beaumetz-lès-Loges <dbo_region> var_a brack_close
+what is the region of semice	select var_a where brack_open dbr_Semice <dbo_region> var_a brack_close
+what is the region of moravská třebová	select var_a where brack_open dbr_Moravská_Třebová <dbo_region> var_a brack_close
+what is the region of radonice	select var_a where brack_open dbr_Radonice_(Chomutov_District) <dbo_region> var_a brack_close
+what is the region of royal ottawa mental health centre	select var_a where brack_open dbr_Royal_Ottawa_Mental_Health_Centre <dbo_region> var_a brack_close
+what is the region of lanuvio	select var_a where brack_open dbr_Lanuvio <dbo_region> var_a brack_close
+what is the region of shokotsu river	select var_a where brack_open dbr_Shokotsu_River <dbo_region> var_a brack_close
+what is the region of sierra de la demanda	select var_a where brack_open dbr_Sierra_de_la_Demanda <dbo_region> var_a brack_close
+what is the region of berville	select var_a where brack_open dbr_Berville,_Val-d'Oise <dbo_region> var_a brack_close
+what is the region of barcoongere river	select var_a where brack_open dbr_Barcoongere_River <dbo_region> var_a brack_close
+what is the region of acton vale	select var_a where brack_open dbr_Acton_Vale,_London <dbo_region> var_a brack_close
+what is the region of aboño	select var_a where brack_open dbr_Aboño <dbo_region> var_a brack_close
+what is the region of sury-en-vaux	select var_a where brack_open dbr_Sury-en-Vaux <dbo_region> var_a brack_close
+what is the region of jasenie	select var_a where brack_open dbr_Jasenie <dbo_region> var_a brack_close
+what is the region of castelnuovo di val di cecina	select var_a where brack_open dbr_Castelnuovo_di_Val_di_Cecina <dbo_region> var_a brack_close
+what is the region of croissy-beaubourg	select var_a where brack_open dbr_Croissy-Beaubourg <dbo_region> var_a brack_close
+what is the region of almese	select var_a where brack_open dbr_Almese <dbo_region> var_a brack_close
+what is the region of montebello vicentino	select var_a where brack_open dbr_Montebello_Vicentino <dbo_region> var_a brack_close
+what is the region of mercato saraceno	select var_a where brack_open dbr_Mercato_Saraceno <dbo_region> var_a brack_close
+what is the region of pontecorvo	select var_a where brack_open dbr_Pontecorvo <dbo_region> var_a brack_close
+what is the region of santo stefano lodigiano	select var_a where brack_open dbr_Santo_Stefano_Lodigiano <dbo_region> var_a brack_close
+what is the region of salisano	select var_a where brack_open dbr_Salisano <dbo_region> var_a brack_close
+what is the region of tobin lake	select var_a where brack_open dbr_Tobin_Lake <dbo_region> var_a brack_close
+what is the region of rubiera	select var_a where brack_open dbr_Rubiera <dbo_region> var_a brack_close
+what is the region of königstein	select var_a where brack_open dbr_Königstein,_Bavaria <dbo_region> var_a brack_close
+what is the region of san vincenzo	select var_a where brack_open dbr_San_Vincenzo,_Tuscany <dbo_region> var_a brack_close
+what is the region of st. joe	select var_a where brack_open dbr_St._Joe,_Illinois <dbo_region> var_a brack_close
+what is the region of horšovský týn	select var_a where brack_open dbr_Horšovský_Týn <dbo_region> var_a brack_close
+what is the region of ligny-saint-flochel	select var_a where brack_open dbr_Ligny-Saint-Flochel <dbo_region> var_a brack_close
+what is the region of mercin-et-vaux	select var_a where brack_open dbr_Mercin-et-Vaux <dbo_region> var_a brack_close
+what is the region of runkel	select var_a where brack_open dbr_Runkel <dbo_region> var_a brack_close
+what is the region of vallinfreda	select var_a where brack_open dbr_Vallinfreda <dbo_region> var_a brack_close
+what is the region of námestovo	select var_a where brack_open dbr_Námestovo <dbo_region> var_a brack_close
+what is the region of favières	select var_a where brack_open dbr_Favières,_Seine-et-Marne <dbo_region> var_a brack_close
+what is the region of vaulx-vraucourt	select var_a where brack_open dbr_Vaulx-Vraucourt <dbo_region> var_a brack_close
+what is the region of haplincourt	select var_a where brack_open dbr_Haplincourt <dbo_region> var_a brack_close
+what is the region of magnolia projects	select var_a where brack_open dbr_Magnolia_Projects <dbo_region> var_a brack_close
+what is the region of boone's lick state historic site	select var_a where brack_open dbr_Boone's_Lick_State_Historic_Site <dbo_region> var_a brack_close
+what is the region of domegge di cadore	select var_a where brack_open dbr_Domegge_di_Cadore <dbo_region> var_a brack_close
+what is the region of caselle landi	select var_a where brack_open dbr_Caselle_Landi <dbo_region> var_a brack_close
+what is the region of fossa	select var_a where brack_open dbr_Fossa,_Abruzzo <dbo_region> var_a brack_close
+what is the region of sainte-geneviève	select var_a where brack_open dbr_Sainte-Geneviève,_Seine-Maritime <dbo_region> var_a brack_close
+what is the region of tarlo river	select var_a where brack_open dbr_Tarlo_River <dbo_region> var_a brack_close
+what is the region of palgrave pond	select var_a where brack_open dbr_Palgrave_Pond <dbo_region> var_a brack_close
+what is the region of lužany	select var_a where brack_open dbr_Lužany_(Hradec_Králové_District) <dbo_region> var_a brack_close
+what is the region of cutting	select var_a where brack_open dbr_Cutting,_Moselle <dbo_region> var_a brack_close
+what is the source place of yalmy river	select var_a where brack_open dbr_Yalmy_River <dbo_sourcePlace> var_a brack_close
+what is the source place of coeymans creek	select var_a where brack_open dbr_Coeymans_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of brusturoasa river	select var_a where brack_open dbr_Brusturoasa_River <dbo_sourcePlace> var_a brack_close
+what is the source place of cagayan river	select var_a where brack_open dbr_Cagayan_River <dbo_sourcePlace> var_a brack_close
+what is the source place of brea creek	select var_a where brack_open dbr_Brea_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of saw mill river	select var_a where brack_open dbr_Saw_Mill_River <dbo_sourcePlace> var_a brack_close
+what is the source place of keiskamma river	select var_a where brack_open dbr_Keiskamma_River <dbo_sourcePlace> var_a brack_close
+what is the source place of isabella river	select var_a where brack_open dbr_Isabella_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+what is the source place of white lick creek	select var_a where brack_open dbr_White_Lick_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of târgului river	select var_a where brack_open dbr_Târgului_River_(Argeș) <dbo_sourcePlace> var_a brack_close
+what is the source place of goose creek	select var_a where brack_open dbr_Goose_Creek_(Snake_River) <dbo_sourcePlace> var_a brack_close
+what is the source place of pârâul stânei mari	select var_a where brack_open dbr_Pârâul_Stânei_Mari <dbo_sourcePlace> var_a brack_close
+what is the source place of surna	select var_a where brack_open dbr_Surna_(Norway) <dbo_sourcePlace> var_a brack_close
+what is the source place of avon river	select var_a where brack_open dbr_Avon_River_(Wollongong) <dbo_sourcePlace> var_a brack_close
+what is the source place of perișani river	select var_a where brack_open dbr_Perișani_River_(Băiașu) <dbo_sourcePlace> var_a brack_close
+what is the source place of stâna mare river	select var_a where brack_open dbr_Stâna_Mare_River <dbo_sourcePlace> var_a brack_close
+what is the source place of perișani river	select var_a where brack_open dbr_Perișani_River_(Băiașu) <dbo_sourcePlace> var_a brack_close
+what is the source place of tuglow river	select var_a where brack_open dbr_Tuglow_River <dbo_sourcePlace> var_a brack_close
+what is the source place of mulwaree river	select var_a where brack_open dbr_Mulwaree_River <dbo_sourcePlace> var_a brack_close
+what is the source place of lespezea river	select var_a where brack_open dbr_Lespezea_River <dbo_sourcePlace> var_a brack_close
+what is the source place of valea hotarului river	select var_a where brack_open dbr_Valea_Hotarului_River_(Bădeni) <dbo_sourcePlace> var_a brack_close
+what is the source place of oude maas	select var_a where brack_open dbr_Oude_Maas <dbo_sourcePlace> var_a brack_close
+what is the source place of bulimba creek	select var_a where brack_open dbr_Bulimba_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of glimboca river	select var_a where brack_open dbr_Glimboca_River <dbo_sourcePlace> var_a brack_close
+what is the source place of silha river	select var_a where brack_open dbr_Silha_River <dbo_sourcePlace> var_a brack_close
+what is the source place of slana river	select var_a where brack_open dbr_Slana_River <dbo_sourcePlace> var_a brack_close
+what is the source place of chico martinez creek	select var_a where brack_open dbr_Chico_Martinez_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of pacific creek	select var_a where brack_open dbr_Pacific_Creek_(Sweetwater_County,_Wyoming) <dbo_sourcePlace> var_a brack_close
+what is the source place of poiana river	select var_a where brack_open dbr_Poiana_River_(Stracoș) <dbo_sourcePlace> var_a brack_close
+what is the source place of somme	select var_a where brack_open dbr_Somme_(river) <dbo_sourcePlace> var_a brack_close
+what is the source place of tisoasa river	select var_a where brack_open dbr_Tisoasa_River <dbo_sourcePlace> var_a brack_close
+what is the source place of valea grecilor river	select var_a where brack_open dbr_Valea_Grecilor_River <dbo_sourcePlace> var_a brack_close
+what is the source place of curmătura river	select var_a where brack_open dbr_Curmătura_River_(Latorița) <dbo_sourcePlace> var_a brack_close
+what is the source place of vâlcelul clinului river	select var_a where brack_open dbr_Vâlcelul_Clinului_River <dbo_sourcePlace> var_a brack_close
+what is the source place of mlaca river	select var_a where brack_open dbr_Mlaca_River <dbo_sourcePlace> var_a brack_close
+what is the source place of izbuc river	select var_a where brack_open dbr_Izbuc_River <dbo_sourcePlace> var_a brack_close
+what is the source place of valea mare river	select var_a where brack_open dbr_Valea_Mare_River_(Sebeș) <dbo_sourcePlace> var_a brack_close
+what is the source place of river avon	select var_a where brack_open dbr_River_Avon,_Warwickshire <dbo_sourcePlace> var_a brack_close
+what is the source place of fundoaia river	select var_a where brack_open dbr_Fundoaia_River_(Sălăuța) <dbo_sourcePlace> var_a brack_close
+what is the source place of valea cărbunarilor river	select var_a where brack_open dbr_Valea_Cărbunarilor_River <dbo_sourcePlace> var_a brack_close
+what is the source place of blue river	select var_a where brack_open dbr_Blue_River_(Oregon) <dbo_sourcePlace> var_a brack_close
+what is the source place of râul sărăturii	select var_a where brack_open dbr_Râul_Sărăturii_(Olt) <dbo_sourcePlace> var_a brack_close
+what is the source place of bonang river	select var_a where brack_open dbr_Bonang_River <dbo_sourcePlace> var_a brack_close
+what is the source place of yūbetsu river	select var_a where brack_open dbr_Yūbetsu_River <dbo_sourcePlace> var_a brack_close
+what is the source place of gauley river	select var_a where brack_open dbr_Gauley_River <dbo_sourcePlace> var_a brack_close
+what is the source place of veneția river	select var_a where brack_open dbr_Veneția_River <dbo_sourcePlace> var_a brack_close
+what is the source place of izvorul roșu river	select var_a where brack_open dbr_Izvorul_Roșu_River_(Văsălatu) <dbo_sourcePlace> var_a brack_close
+what is the source place of cottonwood creek	select var_a where brack_open dbr_Cottonwood_Creek_(Guadalupe_County) <dbo_sourcePlace> var_a brack_close
+what is the source place of toplița river	select var_a where brack_open dbr_Toplița_River_(Crișul_Negru) <dbo_sourcePlace> var_a brack_close
+what is the source place of ghiurca river	select var_a where brack_open dbr_Ghiurca_River <dbo_sourcePlace> var_a brack_close
+what is the source place of rocky river	select var_a where brack_open dbr_Rocky_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+what is the source place of țepeșeni river	select var_a where brack_open dbr_Țepeșeni_River <dbo_sourcePlace> var_a brack_close
+what is the source place of valea cu genune river	select var_a where brack_open dbr_Valea_cu_Genune_River <dbo_sourcePlace> var_a brack_close
+what is the source place of nucet river	select var_a where brack_open dbr_Nucet_River_(Ialomița) <dbo_sourcePlace> var_a brack_close
+what is the source place of bolovăniș river	select var_a where brack_open dbr_Bolovăniș_River_(Tarcău) <dbo_sourcePlace> var_a brack_close
+what is the source place of kura river	select var_a where brack_open dbr_Kura_River_(Russia) <dbo_sourcePlace> var_a brack_close
+what is the source place of beaver creek	select var_a where brack_open dbr_Beaver_Creek_(Alaska) <dbo_sourcePlace> var_a brack_close
+what is the source place of arkansas river	select var_a where brack_open dbr_Arkansas_River <dbo_sourcePlace> var_a brack_close
+what is the source place of galbenu river	select var_a where brack_open dbr_Galbenu_River_(Vâja) <dbo_sourcePlace> var_a brack_close
+what is the source place of valea lazului river	select var_a where brack_open dbr_Valea_Lazului_River_(Chiuzbaia) <dbo_sourcePlace> var_a brack_close
+what is the source place of river terrig	select var_a where brack_open dbr_River_Terrig <dbo_sourcePlace> var_a brack_close
+what is the source place of coast fork willamette river	select var_a where brack_open dbr_Coast_Fork_Willamette_River <dbo_sourcePlace> var_a brack_close
+what is the source place of rocky river	select var_a where brack_open dbr_Rocky_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+what is the source place of rusca river	select var_a where brack_open dbr_Rusca_River_(Timiș) <dbo_sourcePlace> var_a brack_close
+what is the source place of eighteen mile creek	select var_a where brack_open dbr_Eighteen_Mile_Creek_(Niagara_County) <dbo_sourcePlace> var_a brack_close
+what is the source place of gălăoaia mică river	select var_a where brack_open dbr_Gălăoaia_Mică_River <dbo_sourcePlace> var_a brack_close
+what is the source place of bonaventure river	select var_a where brack_open dbr_Bonaventure_River <dbo_sourcePlace> var_a brack_close
+what is the source place of myrtle creek	select var_a where brack_open dbr_Myrtle_Creek_(South_Umpqua_River) <dbo_sourcePlace> var_a brack_close
+what is the source place of north fork clearwater river	select var_a where brack_open dbr_North_Fork_Clearwater_River <dbo_sourcePlace> var_a brack_close
+what is the source place of șișești river	select var_a where brack_open dbr_Șișești_River <dbo_sourcePlace> var_a brack_close
+what is the source place of graham creek	select var_a where brack_open dbr_Graham_Creek <dbo_sourcePlace> var_a brack_close
+what is the source place of urlătoarea river	select var_a where brack_open dbr_Urlătoarea_River_(Pănicerul) <dbo_sourcePlace> var_a brack_close
+what is the source place of liddel water	select var_a where brack_open dbr_Liddel_Water <dbo_sourcePlace> var_a brack_close
+what is the source region of love river	select var_a where brack_open dbr_Love_River <dbo_sourceRegion> var_a brack_close
+what is the source region of south yamhill river	select var_a where brack_open dbr_South_Yamhill_River <dbo_sourceRegion> var_a brack_close
+what is the source region of silver creek	select var_a where brack_open dbr_Silver_Creek_(Harney_County,_Oregon) <dbo_sourceRegion> var_a brack_close
+what is the source region of orkhon river	select var_a where brack_open dbr_Orkhon_River <dbo_sourceRegion> var_a brack_close
+what is the source region of chowchilla river	select var_a where brack_open dbr_Chowchilla_River <dbo_sourceRegion> var_a brack_close
+what is the source region of asheldham brook	select var_a where brack_open dbr_Asheldham_Brook <dbo_sourceRegion> var_a brack_close
+what is the source region of jennings run	select var_a where brack_open dbr_Jennings_Run <dbo_sourceRegion> var_a brack_close
+what is the source region of columbia slough	select var_a where brack_open dbr_Columbia_Slough <dbo_sourceRegion> var_a brack_close
+what is the source region of river exe	select var_a where brack_open dbr_River_Exe <dbo_sourceRegion> var_a brack_close
+what is the source region of river tame	select var_a where brack_open dbr_River_Tame,_West_Midlands <dbo_sourceRegion> var_a brack_close
+what is the source region of gauze brook	select var_a where brack_open dbr_Gauze_Brook <dbo_sourceRegion> var_a brack_close
+what is the source region of woodbridge brook	select var_a where brack_open dbr_Woodbridge_Brook <dbo_sourceRegion> var_a brack_close
+what is the source region of willamette river	select var_a where brack_open dbr_Willamette_River <dbo_sourceRegion> var_a brack_close
+what is the source region of crocodile river	select var_a where brack_open dbr_Crocodile_River_(Limpopo) <dbo_sourceRegion> var_a brack_close
+what is the source region of mary river	select var_a where brack_open dbr_Mary_River_(Queensland) <dbo_sourceRegion> var_a brack_close
+what is the source region of clackamas river	select var_a where brack_open dbr_Clackamas_River <dbo_sourceRegion> var_a brack_close
+what is the source region of shamkirchay	select var_a where brack_open dbr_Shamkirchay <dbo_sourceRegion> var_a brack_close
+what is the source region of st. mary river	select var_a where brack_open dbr_St._Mary_River_(Alberta–Montana) <dbo_sourceRegion> var_a brack_close
+what is the source region of rivière des rochers	select var_a where brack_open dbr_Rivière_des_Rochers <dbo_sourceRegion> var_a brack_close
+what is the source region of cregg river	select var_a where brack_open dbr_Cregg_River <dbo_sourceRegion> var_a brack_close
+what is the source region of mojave river	select var_a where brack_open dbr_Mojave_River <dbo_sourceRegion> var_a brack_close
+what is the source region of uncompahgre river	select var_a where brack_open dbr_Uncompahgre_River <dbo_sourceRegion> var_a brack_close
+what is the source region of congost	select var_a where brack_open dbr_Congost_(river) <dbo_sourceRegion> var_a brack_close
+what is the source region of murrieta creek	select var_a where brack_open dbr_Murrieta_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of mckale river	select var_a where brack_open dbr_McKale_River <dbo_sourceRegion> var_a brack_close
+what is the source region of clover creek	select var_a where brack_open dbr_Clover_Creek_(Bruneau_River) <dbo_sourceRegion> var_a brack_close
+what is the source region of selizharovka river	select var_a where brack_open dbr_Selizharovka_River <dbo_sourceRegion> var_a brack_close
+what is the source region of kiah creek	select var_a where brack_open dbr_Kiah_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of llano river	select var_a where brack_open dbr_Llano_River <dbo_sourceRegion> var_a brack_close
+what is the source region of seco creek	select var_a where brack_open dbr_Seco_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of shibetsu river	select var_a where brack_open dbr_Shibetsu_River <dbo_sourceRegion> var_a brack_close
+what is the source region of salmon falls creek	select var_a where brack_open dbr_Salmon_Falls_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of ozama river	select var_a where brack_open dbr_Ozama_River <dbo_sourceRegion> var_a brack_close
+what is the source region of oil creek	select var_a where brack_open dbr_Oil_Creek_(Allegheny_River) <dbo_sourceRegion> var_a brack_close
+what is the source region of nanny	select var_a where brack_open dbr_Nanny_(river) <dbo_sourceRegion> var_a brack_close
+what is the source region of karmanasa river	select var_a where brack_open dbr_Karmanasa_River <dbo_sourceRegion> var_a brack_close
+what is the source region of pico river	select var_a where brack_open dbr_Pico_River <dbo_sourceRegion> var_a brack_close
+what is the source region of kettle river	select var_a where brack_open dbr_Kettle_River_(Columbia_River) <dbo_sourceRegion> var_a brack_close
+what is the source region of keowee river	select var_a where brack_open dbr_Keowee_River <dbo_sourceRegion> var_a brack_close
+what is the source region of mutha river	select var_a where brack_open dbr_Mutha_River <dbo_sourceRegion> var_a brack_close
+what is the source region of willoughby river	select var_a where brack_open dbr_Willoughby_River <dbo_sourceRegion> var_a brack_close
+what is the source region of grave creek	select var_a where brack_open dbr_Grave_Creek_(Oregon) <dbo_sourceRegion> var_a brack_close
+what is the source region of black creek	select var_a where brack_open dbr_Black_Creek_(Toronto) <dbo_sourceRegion> var_a brack_close
+what is the source region of big spring	select var_a where brack_open dbr_Big_Spring_(Missouri) <dbo_sourceRegion> var_a brack_close
+what is the source region of etivluk river	select var_a where brack_open dbr_Etivluk_River <dbo_sourceRegion> var_a brack_close
+what is the source region of north fork bull run river	select var_a where brack_open dbr_North_Fork_Bull_Run_River <dbo_sourceRegion> var_a brack_close
+what is the source region of sturgeon river	select var_a where brack_open dbr_Sturgeon_River_(Manitoba) <dbo_sourceRegion> var_a brack_close
+what is the source region of parbati river	select var_a where brack_open dbr_Parbati_River_(Rajasthan) <dbo_sourceRegion> var_a brack_close
+what is the source region of incline creek	select var_a where brack_open dbr_Incline_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of tuloma river	select var_a where brack_open dbr_Tuloma_River <dbo_sourceRegion> var_a brack_close
+what is the source region of little butte creek	select var_a where brack_open dbr_Little_Butte_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of sheep creek	select var_a where brack_open dbr_Sheep_Creek_(Bruneau_River) <dbo_sourceRegion> var_a brack_close
+what is the source region of subangdaku river	select var_a where brack_open dbr_Subangdaku_River <dbo_sourceRegion> var_a brack_close
+what is the source region of río verde	select var_a where brack_open dbr_Río_Verde_(Oaxaca) <dbo_sourceRegion> var_a brack_close
+what is the source region of nith river	select var_a where brack_open dbr_Nith_River <dbo_sourceRegion> var_a brack_close
+what is the source region of bighorn river	select var_a where brack_open dbr_Bighorn_River <dbo_sourceRegion> var_a brack_close
+what is the source region of abra river	select var_a where brack_open dbr_Abra_River <dbo_sourceRegion> var_a brack_close
+what is the source region of poso creek	select var_a where brack_open dbr_Poso_Creek <dbo_sourceRegion> var_a brack_close
+what is the source region of st. johns river	select var_a where brack_open dbr_St._Johns_River <dbo_sourceRegion> var_a brack_close
+what is the source region of elk creek	select var_a where brack_open dbr_Elk_Creek_(Umpqua_River) <dbo_sourceRegion> var_a brack_close
+what is the start point of liskeard and looe union canal	select var_a where brack_open dbr_Liskeard_and_Looe_Union_Canal <dbo_startPoint> var_a brack_close
+what is the start point of royal canal	select var_a where brack_open dbr_Royal_Canal <dbo_startPoint> var_a brack_close
+what is the start point of stratford-upon-avon canal	select var_a where brack_open dbr_Stratford-upon-Avon_Canal <dbo_startPoint> var_a brack_close
+what is the start point of beverley beck	select var_a where brack_open dbr_Beverley_Beck <dbo_startPoint> var_a brack_close
+what is the start point of andover canal	select var_a where brack_open dbr_Andover_Canal <dbo_startPoint> var_a brack_close
+what is the start point of nutbrook canal	select var_a where brack_open dbr_Nutbrook_Canal <dbo_startPoint> var_a brack_close
+what is the start point of wey and godalming navigations	select var_a where brack_open dbr_Wey_and_Godalming_Navigations <dbo_startPoint> var_a brack_close
+what is the start point of wyoming division canal	select var_a where brack_open dbr_Wyoming_Division_Canal <dbo_startPoint> var_a brack_close
+what is the start point of south forty-foot drain	select var_a where brack_open dbr_South_Forty-Foot_Drain <dbo_startPoint> var_a brack_close
+what is the start point of heywood branch canal	select var_a where brack_open dbr_Heywood_Branch_Canal <dbo_startPoint> var_a brack_close
+what is the start point of windawski canal	select var_a where brack_open dbr_Windawski_Canal <dbo_startPoint> var_a brack_close
+what is the start point of bald eagle and spring creek navigation	select var_a where brack_open dbr_Bald_Eagle_and_Spring_Creek_Navigation <dbo_startPoint> var_a brack_close
+what is the start point of caldon canal	select var_a where brack_open dbr_Caldon_Canal <dbo_startPoint> var_a brack_close
+what is the start point of ulster canal	select var_a where brack_open dbr_Ulster_Canal <dbo_startPoint> var_a brack_close
+what is the start point of augustów canal	select var_a where brack_open dbr_Augustów_Canal <dbo_startPoint> var_a brack_close
+what is the start point of haddiscoe cut	select var_a where brack_open dbr_Haddiscoe_Cut <dbo_startPoint> var_a brack_close
+what is the start point of oakham canal	select var_a where brack_open dbr_Oakham_Canal <dbo_startPoint> var_a brack_close
+what is the start point of windawski canal	select var_a where brack_open dbr_Windawski_Canal <dbo_startPoint> var_a brack_close
+what is the start point of delaware and hudson canal	select var_a where brack_open dbr_Delaware_and_Hudson_Canal <dbo_startPoint> var_a brack_close
+what is the start point of tralee ship canal	select var_a where brack_open dbr_Tralee_Ship_Canal <dbo_startPoint> var_a brack_close
+what is the start point of middlewich branch	select var_a where brack_open dbr_Middlewich_Branch <dbo_startPoint> var_a brack_close
+what is the start point of beatrix canal	select var_a where brack_open dbr_Beatrix_Canal <dbo_startPoint> var_a brack_close
+what is the start point of bentley canal	select var_a where brack_open dbr_Bentley_Canal <dbo_startPoint> var_a brack_close
+what is the state of bemboka river	select var_a where brack_open dbr_Bemboka_River <dbo_state> var_a brack_close
+what is the state of green route	select var_a where brack_open dbr_Green_Route <dbo_state> var_a brack_close
+what is the state of salt creek	select var_a where brack_open dbr_Salt_Creek_(Platte_River) <dbo_state> var_a brack_close
+what is the state of wilson river	select var_a where brack_open dbr_Wilson_River_(New_South_Wales) <dbo_state> var_a brack_close
+what is the state of blakeney windmill	select var_a where brack_open dbr_Blakeney_Windmill <dbo_state> var_a brack_close
+what is the state of desertas islands	select var_a where brack_open dbr_Desertas_Islands <dbo_state> var_a brack_close
+what is the state of bound brook	select var_a where brack_open dbr_Bound_Brook_(Raritan_River) <dbo_state> var_a brack_close
+what is the state of myrtle creek	select var_a where brack_open dbr_Myrtle_Creek_(South_Umpqua_River) <dbo_state> var_a brack_close
+what is the state of aliso canyon	select var_a where brack_open dbr_Aliso_Canyon <dbo_state> var_a brack_close
+what is the state of mill creek	select var_a where brack_open dbr_Mill_Creek_(White_Clay_Creek) <dbo_state> var_a brack_close
+what is the state of boone's lick state historic site	select var_a where brack_open dbr_Boone's_Lick_State_Historic_Site <dbo_state> var_a brack_close
+what is the state of sandon river	select var_a where brack_open dbr_Sandon_River <dbo_state> var_a brack_close
+what is the state of whitefish river	select var_a where brack_open dbr_Whitefish_River_(Night_Hawk_Lake) <dbo_state> var_a brack_close
+what is the state of wilsons river	select var_a where brack_open dbr_Wilsons_River_(New_South_Wales) <dbo_state> var_a brack_close
+what is the state of erie bluffs state park	select var_a where brack_open dbr_Erie_Bluffs_State_Park <dbo_state> var_a brack_close
+what is the state of narran river	select var_a where brack_open dbr_Narran_River <dbo_state> var_a brack_close
+what is the state of tooma river	select var_a where brack_open dbr_Tooma_River <dbo_state> var_a brack_close
+what is the state of rio brazos	select var_a where brack_open dbr_Rio_Brazos_(New_Mexico) <dbo_state> var_a brack_close
+what is the state of black creek	select var_a where brack_open dbr_Black_Creek_(Toronto) <dbo_state> var_a brack_close
+what is the state of goose lake valley	select var_a where brack_open dbr_Goose_Lake_Valley <dbo_state> var_a brack_close
+what is the state of spencer state forest	select var_a where brack_open dbr_Spencer_State_Forest <dbo_state> var_a brack_close
+what is the state of rush creek	select var_a where brack_open dbr_Rush_Creek_(New_South_Wales) <dbo_state> var_a brack_close
+what is the state of myles standish state forest	select var_a where brack_open dbr_Myles_Standish_State_Forest <dbo_state> var_a brack_close
+what is the state of bad deutsch-altenburg	select var_a where brack_open dbr_Bad_Deutsch-Altenburg <dbo_state> var_a brack_close
+what is the state of verkeerder kill	select var_a where brack_open dbr_Verkeerder_Kill <dbo_state> var_a brack_close
+what is the state of castle of valongo	select var_a where brack_open dbr_Castle_of_Valongo <dbo_state> var_a brack_close
+what is the state of birrie river	select var_a where brack_open dbr_Birrie_River <dbo_state> var_a brack_close
+what is the state of big sugar creek	select var_a where brack_open dbr_Big_Sugar_Creek <dbo_state> var_a brack_close
+what is the state of sugar island	select var_a where brack_open dbr_Sugar_Island,_Illinois <dbo_state> var_a brack_close
+what is the state of swanson	select var_a where brack_open dbr_Swanson,_Ontario <dbo_state> var_a brack_close
+what is the state of sager creek	select var_a where brack_open dbr_Sager_Creek <dbo_state> var_a brack_close
+what is the state of ohio river	select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+what is the state of firehole river	select var_a where brack_open dbr_Firehole_River <dbo_state> var_a brack_close
+what is the state of delaware river	select var_a where brack_open dbr_Delaware_River <dbo_state> var_a brack_close
+what is the state of pond creek	select var_a where brack_open dbr_Pond_Creek_(West_Virginia) <dbo_state> var_a brack_close
+what is the state of franklin river	select var_a where brack_open dbr_Franklin_River_(Victoria) <dbo_state> var_a brack_close
+what is the state of ponds subiaco creek	select var_a where brack_open dbr_Ponds_Subiaco_Creek <dbo_state> var_a brack_close
+what is the state of shokotsu river	select var_a where brack_open dbr_Shokotsu_River <dbo_state> var_a brack_close
+what is the state of tokoro river	select var_a where brack_open dbr_Tokoro_River <dbo_state> var_a brack_close
+what is the state of rindler creek	select var_a where brack_open dbr_Rindler_Creek <dbo_state> var_a brack_close
+what is the state of wind river	select var_a where brack_open dbr_Wind_River_(Washington) <dbo_state> var_a brack_close
+what is the state of rietvlei river	select var_a where brack_open dbr_Rietvlei_River <dbo_state> var_a brack_close
+what is the state of a'becketts creek	select var_a where brack_open dbr_A'Becketts_Creek <dbo_state> var_a brack_close
+what is the state of phillips covered bridge	select var_a where brack_open dbr_Phillips_Covered_Bridge <dbo_state> var_a brack_close
+what is the state of papakating creek	select var_a where brack_open dbr_Papakating_Creek <dbo_state> var_a brack_close
+what is the state of mount everett state reservation	select var_a where brack_open dbr_Mount_Everett_State_Reservation <dbo_state> var_a brack_close
+what is the state of little applegate river	select var_a where brack_open dbr_Little_Applegate_River <dbo_state> var_a brack_close
+what is the state of delaware river	select var_a where brack_open dbr_Delaware_River <dbo_state> var_a brack_close
+what is the state of j. a. skinner state park	select var_a where brack_open dbr_J._A._Skinner_State_Park <dbo_state> var_a brack_close
+what is the state of kayaderosseras	select var_a where brack_open dbr_Kayaderosseras <dbo_state> var_a brack_close
+what is the state of shiribeshi-toshibetsu river	select var_a where brack_open dbr_Shiribeshi-Toshibetsu_River <dbo_state> var_a brack_close
+what is the state of roman villa of quinta da bolacha	select var_a where brack_open dbr_Roman_villa_of_Quinta_da_Bolacha <dbo_state> var_a brack_close
+what is the state of forbes river	select var_a where brack_open dbr_Forbes_River_(New_South_Wales) <dbo_state> var_a brack_close
+what is the state of elands river	select var_a where brack_open dbr_Elands_River_(Olifants) <dbo_state> var_a brack_close
+what is the state of tonalli river	select var_a where brack_open dbr_Tonalli_River <dbo_state> var_a brack_close
+what is the state of pravara river	select var_a where brack_open dbr_Pravara_River <dbo_state> var_a brack_close
+what is the state of latrobe river	select var_a where brack_open dbr_Latrobe_River <dbo_state> var_a brack_close
+what is the state of bitter lake	select var_a where brack_open dbr_Bitter_Lake_(Ontario) <dbo_state> var_a brack_close
+what is the state of blicks river	select var_a where brack_open dbr_Blicks_River <dbo_state> var_a brack_close
+what is the state of blueberry river	select var_a where brack_open dbr_Blueberry_River_(Minnesota) <dbo_state> var_a brack_close
+what is the state of kowmung river	select var_a where brack_open dbr_Kowmung_River <dbo_state> var_a brack_close
+what is the state of new fork river	select var_a where brack_open dbr_New_Fork_River <dbo_state> var_a brack_close
+what is the state of beaver creek	select var_a where brack_open dbr_Beaver_Creek_(York_Region) <dbo_state> var_a brack_close
+what is the state of highway 1	select var_a where brack_open dbr_Highway_1_(New_South_Wales) <dbo_state> var_a brack_close
+what is the state of hawthorne canal	select var_a where brack_open dbr_Hawthorne_Canal <dbo_state> var_a brack_close
+what is the state of ringarooma river	select var_a where brack_open dbr_Ringarooma_River <dbo_state> var_a brack_close
+what is the state of pfarrwerfen	select var_a where brack_open dbr_Pfarrwerfen <dbo_state> var_a brack_close
+what is the state of jalan tanjung tuan	select var_a where brack_open dbr_Jalan_Tanjung_Tuan <dbo_state> var_a brack_close
+what is the state of island lake	select var_a where brack_open dbr_Island_Lake,_Algoma_District <dbo_state> var_a brack_close
+what is the state of lynx	select var_a where brack_open dbr_Lynx,_Ontario <dbo_state> var_a brack_close
+what is the state of black river	select var_a where brack_open dbr_Black_River_(Lake_Memphremagog) <dbo_state> var_a brack_close
+what is the state of liao river	select var_a where brack_open dbr_Liao_River <dbo_state> var_a brack_close
+what is the state of montauk state park	select var_a where brack_open dbr_Montauk_State_Park <dbo_state> var_a brack_close
+what is the state of crookwell river	select var_a where brack_open dbr_Crookwell_River <dbo_state> var_a brack_close
+what is the state of bear river mountains	select var_a where brack_open dbr_Bear_River_Mountains <dbo_state> var_a brack_close
+what is the state of regions hospital	select var_a where brack_open dbr_Regions_Hospital <dbo_state> var_a brack_close
+what is the state of big river	select var_a where brack_open dbr_Big_River_(Washington) <dbo_state> var_a brack_close
+what is the state of prospect	select var_a where brack_open dbr_Prospect,_Louisiana <dbo_state> var_a brack_close
+what is the state of kathmore	select var_a where brack_open dbr_Kathmore,_Ontario <dbo_state> var_a brack_close
+what is the state of dammasch state hospital	select var_a where brack_open dbr_Dammasch_State_Hospital <dbo_state> var_a brack_close
+what is the state of graham cave state park	select var_a where brack_open dbr_Graham_Cave_State_Park <dbo_state> var_a brack_close
+what is the state of cedar creek	select var_a where brack_open dbr_Cedar_Creek_(South_Fork_Eel_River) <dbo_state> var_a brack_close
+what is the state of eagle river	select var_a where brack_open dbr_Eagle_River_(Bradfield_Canal) <dbo_state> var_a brack_close
+what is the state of toronto general hospital	select var_a where brack_open dbr_Toronto_General_Hospital <dbo_state> var_a brack_close
+what is the state of back river	select var_a where brack_open dbr_Back_River <dbo_state> var_a brack_close
+what is the state of sierra san luis	select var_a where brack_open dbr_Sierra_San_Luis <dbo_state> var_a brack_close
+what is the state of sixth affiliated hospital of xmu	select var_a where brack_open dbr_Sixth_Affiliated_Hospital_of_XMU <dbo_state> var_a brack_close
+what is the state of marais des cygnes river	select var_a where brack_open dbr_Marais_des_Cygnes_River <dbo_state> var_a brack_close
+what is the subregion of napa valley ava	select var_a where brack_open dbr_Napa_Valley_AVA <dbo_subregion> var_a brack_close
+what is the subregion of lake county wine	select var_a where brack_open dbr_Lake_County_wine <dbo_subregion> var_a brack_close
+what is the subregion of napa valley ava	select var_a where brack_open dbr_Napa_Valley_AVA <dbo_subregion> var_a brack_close
+what is the subregion of arkansas wine	select var_a where brack_open dbr_Arkansas_wine <dbo_subregion> var_a brack_close
+what is the subregion of mendocino ava	select var_a where brack_open dbr_Mendocino_AVA <dbo_subregion> var_a brack_close
+what is the subregion of long island ava	select var_a where brack_open dbr_Long_Island_AVA <dbo_subregion> var_a brack_close
+what is the subregion of northern sonoma ava	select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+what is the subregion of oregon wine	select var_a where brack_open dbr_Oregon_wine <dbo_subregion> var_a brack_close
+what is the subregion of finger lakes ava	select var_a where brack_open dbr_Finger_Lakes_AVA <dbo_subregion> var_a brack_close
+what is the subregion of azerbaijani wine	select var_a where brack_open dbr_Azerbaijani_wine <dbo_subregion> var_a brack_close
+what is the subregion of maryland wine	select var_a where brack_open dbr_Maryland_wine <dbo_subregion> var_a brack_close
+what is the subregion of haut-médoc aoc	select var_a where brack_open dbr_Haut-Médoc_AOC <dbo_subregion> var_a brack_close
+what is the subregion of napa county wine	select var_a where brack_open dbr_Napa_County_wine <dbo_subregion> var_a brack_close
+what is the subregion of lake county wine	select var_a where brack_open dbr_Lake_County_wine <dbo_subregion> var_a brack_close
+what is the subregion of north east victoria	select var_a where brack_open dbr_North_East_Victoria <dbo_subregion> var_a brack_close
+what is the subregion of sonoma county wine	select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+what is the subregion of south west france	select var_a where brack_open dbr_South_West_France_(wine_region) <dbo_subregion> var_a brack_close
+what is the subregion of burgundy wine	select var_a where brack_open dbr_Burgundy_wine <dbo_subregion> var_a brack_close
+what is the subregion of south west france	select var_a where brack_open dbr_South_West_France_(wine_region) <dbo_subregion> var_a brack_close
+what is the subregion of napa county wine	select var_a where brack_open dbr_Napa_County_wine <dbo_subregion> var_a brack_close
+what is the subregion of oregon wine	select var_a where brack_open dbr_Oregon_wine <dbo_subregion> var_a brack_close
+what is the subregion of ohio wine	select var_a where brack_open dbr_Ohio_wine <dbo_subregion> var_a brack_close
+what is the subregion of burgundy wine	select var_a where brack_open dbr_Burgundy_wine <dbo_subregion> var_a brack_close
+what is the subregion of texas wine	select var_a where brack_open dbr_Texas_wine <dbo_subregion> var_a brack_close
+what is the subregion of lodi ava	select var_a where brack_open dbr_Lodi_AVA <dbo_subregion> var_a brack_close
+what is the subregion of maryland wine	select var_a where brack_open dbr_Maryland_wine <dbo_subregion> var_a brack_close
+what is the subregion of northern sonoma ava	select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+what is the subregion of northern sonoma ava	select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+what is the subregion of châteauneuf-du-pape aoc	select var_a where brack_open dbr_Châteauneuf-du-Pape_AOC <dbo_subregion> var_a brack_close
+what is the subregion of sonoma coast ava	select var_a where brack_open dbr_Sonoma_Coast_AVA <dbo_subregion> var_a brack_close
+what is the subregion of northern sonoma ava	select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+what is the subregion of southern oregon ava	select var_a where brack_open dbr_Southern_Oregon_AVA <dbo_subregion> var_a brack_close
+what is the subregion of washington wine	select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+what is the subregion of médoc aoc	select var_a where brack_open dbr_Médoc_AOC <dbo_subregion> var_a brack_close
+what is the subregion of balaton wine region	select var_a where brack_open dbr_Balaton_wine_region <dbo_subregion> var_a brack_close
+what is the subregion of mendocino ava	select var_a where brack_open dbr_Mendocino_AVA <dbo_subregion> var_a brack_close
+what is the subregion of quebec wine	select var_a where brack_open dbr_Quebec_wine <dbo_subregion> var_a brack_close
+what is the subregion of mount lofty ranges zone	select var_a where brack_open dbr_Mount_Lofty_Ranges_zone_(wine) <dbo_subregion> var_a brack_close
+what is the subregion of washington wine	select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+what is the subregion of sonoma county wine	select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+where is the county of aird located in	select var_a where brack_open dbr_Aird,_County_Antrim dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of acton located in	select var_a where brack_open dbr_Acton,_County_Armagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e763 located in	select var_a where brack_open dbr_European_route_E763 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of lisnaskea located in	select var_a where brack_open dbr_Lisnaskea dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of banbridge located in	select var_a where brack_open dbr_Banbridge dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of derryneill located in	select var_a where brack_open dbr_Derryneill dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of kilcoo located in	select var_a where brack_open dbr_Kilcoo,_County_Down dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of maze located in	select var_a where brack_open dbr_Maze_(electoral_ward) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of pottinger located in	select var_a where brack_open dbr_Pottinger_(District_Electoral_Area) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballyharry located in	select var_a where brack_open dbr_Ballyharry dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of islandahoe located in	select var_a where brack_open dbr_Islandahoe dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e45 located in	select var_a where brack_open dbr_European_route_E45 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballycregagh upper located in	select var_a where brack_open dbr_Ballycregagh_Upper dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of bessbrook located in	select var_a where brack_open dbr_Bessbrook dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e79 located in	select var_a where brack_open dbr_European_route_E79 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ah3 located in	select var_a where brack_open dbr_AH3 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballinloughan located in	select var_a where brack_open dbr_Ballinloughan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballywalter located in	select var_a where brack_open dbr_Ballywalter dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of grange of nilteen located in	select var_a where brack_open dbr_Grange_of_Nilteen dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of tynan located in	select var_a where brack_open dbr_Tynan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of knockloughrim located in	select var_a where brack_open dbr_Knockloughrim dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of maydown located in	select var_a where brack_open dbr_Maydown dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e66 located in	select var_a where brack_open dbr_European_route_E66 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e263 located in	select var_a where brack_open dbr_European_route_E263 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of rathdrumgran located in	select var_a where brack_open dbr_Rathdrumgran dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of derrymacash located in	select var_a where brack_open dbr_Derrymacash dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of salry located in	select var_a where brack_open dbr_Salry dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of burnfoot located in	select var_a where brack_open dbr_Burnfoot,_County_Londonderry dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e15 located in	select var_a where brack_open dbr_European_route_E15 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of cookstown located in	select var_a where brack_open dbr_Cookstown dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of unshinagh mountain located in	select var_a where brack_open dbr_Unshinagh_Mountain dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e97 located in	select var_a where brack_open dbr_European_route_E97 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of belgrade–bar motorway located in	select var_a where brack_open dbr_Belgrade–Bar_motorway dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e55 located in	select var_a where brack_open dbr_European_route_E55 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballysheil located in	select var_a where brack_open dbr_Ballysheil,_County_Down dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e272 located in	select var_a where brack_open dbr_European_route_E272 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e68 located in	select var_a where brack_open dbr_European_route_E68 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballycloghan located in	select var_a where brack_open dbr_Ballycloghan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of artnagullian located in	select var_a where brack_open dbr_Artnagullian dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e015 located in	select var_a where brack_open dbr_European_route_E015 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of dungiven located in	select var_a where brack_open dbr_Dungiven dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballsallagh located in	select var_a where brack_open dbr_Ballsallagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of hillsborough located in	select var_a where brack_open dbr_Hillsborough,_County_Down dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of carnteel located in	select var_a where brack_open dbr_Carnteel dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballydonaghy located in	select var_a where brack_open dbr_Ballydonaghy dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e75 located in	select var_a where brack_open dbr_European_route_E75 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of millisle located in	select var_a where brack_open dbr_Millisle dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e07 located in	select var_a where brack_open dbr_European_route_E07 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e63 located in	select var_a where brack_open dbr_European_route_E63 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of derryvullan located in	select var_a where brack_open dbr_Derryvullan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ardclinis located in	select var_a where brack_open dbr_Ardclinis dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of fintona located in	select var_a where brack_open dbr_Fintona dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballyclogh located in	select var_a where brack_open dbr_Ballyclogh_(South_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of derriaghy located in	select var_a where brack_open dbr_Derriaghy dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of aghagheigh located in	select var_a where brack_open dbr_Aghagheigh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e117 located in	select var_a where brack_open dbr_European_route_E117 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballybollen located in	select var_a where brack_open dbr_Ballybollen dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e713 located in	select var_a where brack_open dbr_European_route_E713 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of greyabbey located in	select var_a where brack_open dbr_Greyabbey dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e951 located in	select var_a where brack_open dbr_European_route_E951 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of boho located in	select var_a where brack_open dbr_Boho,_County_Fermanagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of layd located in	select var_a where brack_open dbr_Layd dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of templepatrick located in	select var_a where brack_open dbr_Templepatrick dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of strabane located in	select var_a where brack_open dbr_Strabane dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of ballydown located in	select var_a where brack_open dbr_Ballydown,_County_Down dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of mullanasilla located in	select var_a where brack_open dbr_Mullanasilla dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of tamnaherin located in	select var_a where brack_open dbr_Tamnaherin dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the county of european route e57 located in	select var_a where brack_open dbr_European_route_E57 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of saint lawrence seaway located in	select var_a where brack_open dbr_Saint_Lawrence_Seaway dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of shannon–erne waterway located in	select var_a where brack_open dbr_Shannon–Erne_Waterway dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of leven canal located in	select var_a where brack_open dbr_Leven_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of haddiscoe cut located in	select var_a where brack_open dbr_Haddiscoe_Cut dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of neath and tennant canal located in	select var_a where brack_open dbr_Neath_and_Tennant_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of grand surrey canal located in	select var_a where brack_open dbr_Grand_Surrey_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of junction canal located in	select var_a where brack_open dbr_Junction_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of lagan canal located in	select var_a where brack_open dbr_Lagan_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of swansea canal located in	select var_a where brack_open dbr_Swansea_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of middle level navigations located in	select var_a where brack_open dbr_Middle_Level_Navigations dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of bridgwater and taunton canal located in	select var_a where brack_open dbr_Bridgwater_and_Taunton_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of sheffield and south yorkshire navigation located in	select var_a where brack_open dbr_Sheffield_and_South_Yorkshire_Navigation dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of kennet and avon canal located in	select var_a where brack_open dbr_Kennet_and_Avon_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of salisbury and southampton canal located in	select var_a where brack_open dbr_Salisbury_and_Southampton_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of woodeaves canal located in	select var_a where brack_open dbr_Woodeaves_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of moscow canal located in	select var_a where brack_open dbr_Moscow_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of melton mowbray navigation located in	select var_a where brack_open dbr_Melton_Mowbray_Navigation dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of south forty-foot drain located in	select var_a where brack_open dbr_South_Forty-Foot_Drain dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the end point of beaver and erie canal located in	select var_a where brack_open dbr_Beaver_and_Erie_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of přerov nad labem located in	select var_a where brack_open dbr_Přerov_nad_Labem dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of angra do heroísmo located in	select var_a where brack_open dbr_Angra_do_Heroísmo dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of hanging rock state park located in	select var_a where brack_open dbr_Hanging_Rock_State_Park dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of duck mountain provincial park located in	select var_a where brack_open dbr_Duck_Mountain_Provincial_Park_(Manitoba) dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of cornwall located in	select var_a where brack_open dbr_Cornwall,_New_York dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of ayent located in	select var_a where brack_open dbr_Ayent dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of santa maria island located in	select var_a where brack_open dbr_Santa_Maria_Island dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of big bend national park located in	select var_a where brack_open dbr_Big_Bend_National_Park dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of tujetsch located in	select var_a where brack_open dbr_Tujetsch dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of doze ribeiras located in	select var_a where brack_open dbr_Doze_Ribeiras dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of winterthur located in	select var_a where brack_open dbr_Winterthur dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of palatinate forest located in	select var_a where brack_open dbr_Palatinate_Forest dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of great basin located in	select var_a where brack_open dbr_Great_Basin dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of kalahari desert located in	select var_a where brack_open dbr_Kalahari_Desert dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the highest place of tech valley located in	select var_a where brack_open dbr_Tech_Valley dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of sauguis-saint-étienne located in	select var_a where brack_open dbr_Sauguis-Saint-Étienne dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of dammarie-sur-loing located in	select var_a where brack_open dbr_Dammarie-sur-Loing dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of le grand-quevilly located in	select var_a where brack_open dbr_Le_Grand-Quevilly dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of fontaine-fourches located in	select var_a where brack_open dbr_Fontaine-Fourches dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of mées located in	select var_a where brack_open dbr_Mées dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of fontaine-l'étalon located in	select var_a where brack_open dbr_Fontaine-l'Étalon dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of bischheim located in	select var_a where brack_open dbr_Bischheim,_Bas-Rhin dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of custines located in	select var_a where brack_open dbr_Custines dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of éterpigny located in	select var_a where brack_open dbr_Éterpigny,_Somme dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of beaumetz-lès-loges located in	select var_a where brack_open dbr_Beaumetz-lès-Loges dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of marolles located in	select var_a where brack_open dbr_Marolles,_Marne dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of enguinegatte located in	select var_a where brack_open dbr_Enguinegatte dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of saint-aubin-épinay located in	select var_a where brack_open dbr_Saint-Aubin-Épinay dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of rivière-saas-et-gourby located in	select var_a where brack_open dbr_Rivière-Saas-et-Gourby dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of mesnil-en-arrouaise located in	select var_a where brack_open dbr_Mesnil-en-Arrouaise dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of villers-au-bois located in	select var_a where brack_open dbr_Villers-au-Bois dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of les essarts-lès-sézanne located in	select var_a where brack_open dbr_Les_Essarts-lès-Sézanne dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of fleury-en-bière located in	select var_a where brack_open dbr_Fleury-en-Bière dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of coquelles located in	select var_a where brack_open dbr_Coquelles dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of inchy-en-artois located in	select var_a where brack_open dbr_Inchy-en-Artois dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of raves located in	select var_a where brack_open dbr_Raves,_Vosges dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of le plessis-l'évêque located in	select var_a where brack_open dbr_Le_Plessis-l'Évêque dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of clenleu located in	select var_a where brack_open dbr_Clenleu dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of argagnon located in	select var_a where brack_open dbr_Argagnon dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of montigny-le-bretonneux located in	select var_a where brack_open dbr_Montigny-le-Bretonneux dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of ville-la-grand located in	select var_a where brack_open dbr_Ville-la-Grand dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of humbercamps located in	select var_a where brack_open dbr_Humbercamps dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of nogent-sur-vernisson located in	select var_a where brack_open dbr_Nogent-sur-Vernisson dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of marsac-en-livradois located in	select var_a where brack_open dbr_Marsac-en-Livradois dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of polincove located in	select var_a where brack_open dbr_Polincove dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of guinecourt located in	select var_a where brack_open dbr_Guinecourt dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of faverolles located in	select var_a where brack_open dbr_Faverolles,_Somme dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of caffiers located in	select var_a where brack_open dbr_Caffiers dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of hébuterne located in	select var_a where brack_open dbr_Hébuterne dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of illkirch-graffenstaden located in	select var_a where brack_open dbr_Illkirch-Graffenstaden dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of montereau-sur-le-jard located in	select var_a where brack_open dbr_Montereau-sur-le-Jard dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of saint-romain located in	select var_a where brack_open dbr_Saint-Romain,_Puy-de-Dôme dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of mandres-les-roses located in	select var_a where brack_open dbr_Mandres-les-Roses dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of hardinghen located in	select var_a where brack_open dbr_Hardinghen dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of mouguerre located in	select var_a where brack_open dbr_Mouguerre dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of puisieux located in	select var_a where brack_open dbr_Puisieux,_Pas-de-Calais dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of rebreuviette located in	select var_a where brack_open dbr_Rebreuviette dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of moulins-le-carbonnel located in	select var_a where brack_open dbr_Moulins-le-Carbonnel dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of cressensac located in	select var_a where brack_open dbr_Cressensac dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of hours located in	select var_a where brack_open dbr_Hours,_Pyrénées-Atlantiques dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of saint-genis-l'argentière located in	select var_a where brack_open dbr_Saint-Genis-l'Argentière dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of corcelles-en-beaujolais located in	select var_a where brack_open dbr_Corcelles-en-Beaujolais dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of estréelles located in	select var_a where brack_open dbr_Estréelles dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of villetaneuse located in	select var_a where brack_open dbr_Villetaneuse dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of beaulieu located in	select var_a where brack_open dbr_Beaulieu,_Hérault dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of bussy-lès-poix located in	select var_a where brack_open dbr_Bussy-lès-Poix dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the intercommunality of ver located in	select var_a where brack_open dbr_Ver,_Manche dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of schlossberg located in	select var_a where brack_open dbr_Schlossberg_(Uri) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount julian located in	select var_a where brack_open dbr_Mount_Julian_(Alberta) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of lägern located in	select var_a where brack_open dbr_Lägern dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of dudley b. menzies bridge located in	select var_a where brack_open dbr_Dudley_B._Menzies_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of don river bridge located in	select var_a where brack_open dbr_Don_River_Bridge,_Rannes dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of sugarloaf hill located in	select var_a where brack_open dbr_Sugarloaf_Hill_(Putnam_County,_New_York) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of austre høgvagltinden located in	select var_a where brack_open dbr_Austre_Høgvagltinden dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of baumgartenschneid located in	select var_a where brack_open dbr_Baumgartenschneid dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of rakaposhi located in	select var_a where brack_open dbr_Rakaposhi dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount rundle located in	select var_a where brack_open dbr_Mount_Rundle dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount lendenfeld located in	select var_a where brack_open dbr_Mount_Lendenfeld dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of equinox mountain located in	select var_a where brack_open dbr_Equinox_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of traverse peak located in	select var_a where brack_open dbr_Traverse_Peak dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of kuntur ikiña located in	select var_a where brack_open dbr_Kuntur_Ikiña_(Puno) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount ruchishi located in	select var_a where brack_open dbr_Mount_Ruchishi dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of skarvemellen located in	select var_a where brack_open dbr_Skarvemellen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount tutoko located in	select var_a where brack_open dbr_Mount_Tutoko dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of longs peak located in	select var_a where brack_open dbr_Longs_Peak dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of prospect mountain located in	select var_a where brack_open dbr_Prospect_Mountain_(Vermont) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of baldy mountain located in	select var_a where brack_open dbr_Baldy_Mountain_(Manitoba) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of svartnuten located in	select var_a where brack_open dbr_Svartnuten dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of battleship mountain located in	select var_a where brack_open dbr_Battleship_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of kornbühl located in	select var_a where brack_open dbr_Kornbühl dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of putauaki located in	select var_a where brack_open dbr_Putauaki dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of gråhøi located in	select var_a where brack_open dbr_Gråhøi_(Øystre_Slidre) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of wenkchemna peak located in	select var_a where brack_open dbr_Wenkchemna_Peak dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of san mateo peak located in	select var_a where brack_open dbr_San_Mateo_Peak dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of sant alís located in	select var_a where brack_open dbr_Sant_Alís dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of jichu qullu located in	select var_a where brack_open dbr_Jichu_Qullu_(Bolivia-Peru) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of raja pemaisuri bainun bridge located in	select var_a where brack_open dbr_Raja_Pemaisuri_Bainun_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of uei-tepui located in	select var_a where brack_open dbr_Uei-tepui dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of bremnestua located in	select var_a where brack_open dbr_Bremnestua dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of south mountain located in	select var_a where brack_open dbr_South_Mountain_(Nova_Scotia) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of eagle ribs mountain located in	select var_a where brack_open dbr_Eagle_Ribs_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount lady macdonald located in	select var_a where brack_open dbr_Mount_Lady_Macdonald dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of cimon del froppa located in	select var_a where brack_open dbr_Cimon_del_Froppa dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of immenstädter horn located in	select var_a where brack_open dbr_Immenstädter_Horn dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount nakano located in	select var_a where brack_open dbr_Mount_Nakano dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of monarch mountain located in	select var_a where brack_open dbr_Monarch_Mountain_(Alberta) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of monte iulio located in	select var_a where brack_open dbr_Monte_Iulio dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount sarbach located in	select var_a where brack_open dbr_Mount_Sarbach dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of svilaja located in	select var_a where brack_open dbr_Svilaja dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of jawahar setu located in	select var_a where brack_open dbr_Jawahar_Setu dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount kapaz located in	select var_a where brack_open dbr_Mount_Kapaz dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of teufelstisch located in	select var_a where brack_open dbr_Teufelstisch_(Bavarian_Forest) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of conestoga creek viaduct located in	select var_a where brack_open dbr_Conestoga_Creek_Viaduct dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of maling river shankun expressway bridge located in	select var_a where brack_open dbr_Maling_River_Shankun_Expressway_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of mount aeolus located in	select var_a where brack_open dbr_Mount_Aeolus_(Alberta) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of baldpate mountain located in	select var_a where brack_open dbr_Baldpate_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of puig campana located in	select var_a where brack_open dbr_Puig_Campana dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of red run covered bridge located in	select var_a where brack_open dbr_Red_Run_Covered_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of danville mountain located in	select var_a where brack_open dbr_Danville_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the located in area of großer auersberg located in	select var_a where brack_open dbr_Großer_Auersberg dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of denning located in	select var_a where brack_open dbr_Denning,_New_York dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of monongahela national forest located in	select var_a where brack_open dbr_Monongahela_National_Forest dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of desertas islands located in	select var_a where brack_open dbr_Desertas_Islands dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of antelope island located in	select var_a where brack_open dbr_Antelope_Island dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of west doubtful canyon located in	select var_a where brack_open dbr_West_Doubtful_Canyon dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of santa catarina located in	select var_a where brack_open dbr_Santa_Catarina_(Lisbon) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of santo antónio located in	select var_a where brack_open dbr_Santo_António_(São_Roque_do_Pico) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of delaware and lehigh national heritage corridor located in	select var_a where brack_open dbr_Delaware_and_Lehigh_National_Heritage_Corridor dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of three ridges wilderness located in	select var_a where brack_open dbr_Three_Ridges_Wilderness dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of gränichen located in	select var_a where brack_open dbr_Gränichen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of horta located in	select var_a where brack_open dbr_Horta,_Azores dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of criação velha located in	select var_a where brack_open dbr_Criação_Velha dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of basel located in	select var_a where brack_open dbr_Basel dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of água de pau located in	select var_a where brack_open dbr_Água_de_Pau dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of lucerne located in	select var_a where brack_open dbr_Lucerne dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of trans-pecos located in	select var_a where brack_open dbr_Trans-Pecos dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of escalante desert located in	select var_a where brack_open dbr_Escalante_Desert dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the lowest place of guadalupe located in	select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the management place of sam a. baker state park located in	select var_a where brack_open dbr_Sam_A._Baker_State_Park dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the management place of duke of terceira garden located in	select var_a where brack_open dbr_Duke_of_Terceira_Garden dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the management place of theodore roosevelt state natural area located in	select var_a where brack_open dbr_Theodore_Roosevelt_State_Natural_Area dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of gila valley located in	select var_a where brack_open dbr_Gila_Valley_(Graham_County) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of nevins covered bridge located in	select var_a where brack_open dbr_Nevins_Covered_Bridge dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of langå located in	select var_a where brack_open dbr_Langå dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of church of nossa senhora da encarnação located in	select var_a where brack_open dbr_Church_of_Nossa_Senhora_da_Encarnação_(Lagoa) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of karasjohka located in	select var_a where brack_open dbr_Karasjohka dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of osek located in	select var_a where brack_open dbr_Osek_(Jičín_District) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of kharaa river located in	select var_a where brack_open dbr_Kharaa_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of jamel located in	select var_a where brack_open dbr_Jamel,_Germany dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of ichtershausen located in	select var_a where brack_open dbr_Ichtershausen dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of castle of aljustrel located in	select var_a where brack_open dbr_Castle_of_Aljustrel dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of são roque located in	select var_a where brack_open dbr_São_Roque,_Ponta_Delgada dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of makomanai river located in	select var_a where brack_open dbr_Makomanai_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of černá located in	select var_a where brack_open dbr_Černá dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of lerderderg river located in	select var_a where brack_open dbr_Lerderderg_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of tommarp river located in	select var_a where brack_open dbr_Tommarp_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of convent of carmo located in	select var_a where brack_open dbr_Convent_of_Carmo_(Horta) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of považský hrad located in	select var_a where brack_open dbr_Považský_hrad dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of back river located in	select var_a where brack_open dbr_Back_River_(Tamworth) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of bellevue located in	select var_a where brack_open dbr_Bellevue,_Schenectady,_New_York dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of karner located in	select var_a where brack_open dbr_Karner,_New_York dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of worondi rivulet located in	select var_a where brack_open dbr_Worondi_Rivulet dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of arcos located in	select var_a where brack_open dbr_Arcos_(Vila_do_Conde) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of wooli wooli river located in	select var_a where brack_open dbr_Wooli_Wooli_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of roman bridge of chaves located in	select var_a where brack_open dbr_Roman_Bridge_of_Chaves dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of osted located in	select var_a where brack_open dbr_Osted dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of ramsey located in	select var_a where brack_open dbr_Ramsey,_Ontario dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of gull river located in	select var_a where brack_open dbr_Gull_River_(Balsam_Lake) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of urzelina located in	select var_a where brack_open dbr_Urzelina dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of královec located in	select var_a where brack_open dbr_Královec dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of großpaschleben located in	select var_a where brack_open dbr_Großpaschleben dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of bellinger river located in	select var_a where brack_open dbr_Bellinger_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of bimberamala river located in	select var_a where brack_open dbr_Bimberamala_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of kilrush located in	select var_a where brack_open dbr_Kilrush,_Ontario dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of jacobs river located in	select var_a where brack_open dbr_Jacobs_River_(New_South_Wales) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of prainha located in	select var_a where brack_open dbr_Prainha_(São_Roque_do_Pico) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of kiosk located in	select var_a where brack_open dbr_Kiosk,_Ontario dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of são bartolomeu de regatos located in	select var_a where brack_open dbr_São_Bartolomeu_de_Regatos dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of turtle lake located in	select var_a where brack_open dbr_Turtle_Lake_(Temagami) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of coopers creek located in	select var_a where brack_open dbr_Coopers_Creek_(New_South_Wales) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of behnsdorf located in	select var_a where brack_open dbr_Behnsdorf dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of otter creek located in	select var_a where brack_open dbr_Otter_Creek_(Hastings_County) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of customshouse of angra do heroísmo located in	select var_a where brack_open dbr_Customshouse_of_Angra_do_Heroísmo dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of althorp located in	select var_a where brack_open dbr_Althorp_(lost_settlement) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of cala d’hort located in	select var_a where brack_open dbr_Cala_d’Hort dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of fajã dos cubres located in	select var_a where brack_open dbr_Fajã_dos_Cubres dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of bellaire bridge located in	select var_a where brack_open dbr_Bellaire_Bridge dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of suldalslågen located in	select var_a where brack_open dbr_Suldalslågen dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of oyabe river located in	select var_a where brack_open dbr_Oyabe_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of moe river located in	select var_a where brack_open dbr_Moe_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of abrigo do lagar velho located in	select var_a where brack_open dbr_Abrigo_do_Lagar_Velho dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the municipality of rufus river located in	select var_a where brack_open dbr_Rufus_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the origin of bombardier global express located in	select var_a where brack_open dbr_Bombardier_Global_Express dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the origin of bsa mercury air rifle located in	select var_a where brack_open dbr_BSA_Mercury_Air_Rifle dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the origin of ksp m/39 machine gun located in	select var_a where brack_open dbr_Ksp_m/39_machine_gun dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of los angeles river located in	select var_a where brack_open dbr_Los_Angeles_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of little river located in	select var_a where brack_open dbr_Little_River_(New_River) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of french creek located in	select var_a where brack_open dbr_French_Creek_(Allegheny_River) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of wind river located in	select var_a where brack_open dbr_Wind_River_(Washington) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of trnava located in	select var_a where brack_open dbr_Trnava_(Međimurje) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of south fork burnt river located in	select var_a where brack_open dbr_South_Fork_Burnt_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of whychus creek located in	select var_a where brack_open dbr_Whychus_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of wahweap creek located in	select var_a where brack_open dbr_Wahweap_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of boesmans river located in	select var_a where brack_open dbr_Boesmans_River_(Eastern_Cape) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of west canada creek located in	select var_a where brack_open dbr_West_Canada_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of natchaug river located in	select var_a where brack_open dbr_Natchaug_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of sharga river located in	select var_a where brack_open dbr_Sharga_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of zapato chino creek located in	select var_a where brack_open dbr_Zapato_Chino_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of north fork eel river located in	select var_a where brack_open dbr_North_Fork_Eel_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of oak orchard creek located in	select var_a where brack_open dbr_Oak_Orchard_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of ramena river located in	select var_a where brack_open dbr_Ramena_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of galena river located in	select var_a where brack_open dbr_Galena_River_(Indiana) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of agusan river located in	select var_a where brack_open dbr_Agusan_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of llano river located in	select var_a where brack_open dbr_Llano_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of abashiri river located in	select var_a where brack_open dbr_Abashiri_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of poso creek located in	select var_a where brack_open dbr_Poso_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of ripoll located in	select var_a where brack_open dbr_Ripoll_(river) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of salmon falls creek located in	select var_a where brack_open dbr_Salmon_Falls_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of sailor creek located in	select var_a where brack_open dbr_Sailor_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of incomappleux river located in	select var_a where brack_open dbr_Incomappleux_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of rahmat khali canal located in	select var_a where brack_open dbr_Rahmat_Khali_Canal dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of little malheur river located in	select var_a where brack_open dbr_Little_Malheur_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of new fork river located in	select var_a where brack_open dbr_New_Fork_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of temecula creek located in	select var_a where brack_open dbr_Temecula_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of kunur river located in	select var_a where brack_open dbr_Kunur_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of wiscoy creek located in	select var_a where brack_open dbr_Wiscoy_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of san joaquin river located in	select var_a where brack_open dbr_San_Joaquin_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of geum river located in	select var_a where brack_open dbr_Geum_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of saru river located in	select var_a where brack_open dbr_Saru_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of sun river located in	select var_a where brack_open dbr_Sun_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of karasjohka located in	select var_a where brack_open dbr_Karasjohka dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of gauze brook located in	select var_a where brack_open dbr_Gauze_Brook dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of bear creek located in	select var_a where brack_open dbr_Bear_Creek_(Kansas) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of lazaretto creek located in	select var_a where brack_open dbr_Lazaretto_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of afon clywedog located in	select var_a where brack_open dbr_Afon_Clywedog dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of dairy creek located in	select var_a where brack_open dbr_Dairy_Creek_(Oregon) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of east fork millicoma river located in	select var_a where brack_open dbr_East_Fork_Millicoma_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of samur river located in	select var_a where brack_open dbr_Samur_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of humboldt river located in	select var_a where brack_open dbr_Humboldt_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of cantua creek located in	select var_a where brack_open dbr_Cantua_Creek_(Fresno_Slough) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of mirna located in	select var_a where brack_open dbr_Mirna_(Croatia) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of khanui river located in	select var_a where brack_open dbr_Khanui_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of ernée located in	select var_a where brack_open dbr_Ernée_(river) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of narmada river located in	select var_a where brack_open dbr_Narmada_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of skellefte river located in	select var_a where brack_open dbr_Skellefte_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of jacalitos creek located in	select var_a where brack_open dbr_Jacalitos_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of crab creek located in	select var_a where brack_open dbr_Crab_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of amu darya located in	select var_a where brack_open dbr_Amu_Darya dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of shiribeshi-toshibetsu river located in	select var_a where brack_open dbr_Shiribeshi-Toshibetsu_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the source region of paria river located in	select var_a where brack_open dbr_Paria_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of greasbrough canal located in	select var_a where brack_open dbr_Greasbrough_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of derby canal located in	select var_a where brack_open dbr_Derby_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of rother link located in	select var_a where brack_open dbr_Rother_Link dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of herefordshire and gloucestershire canal located in	select var_a where brack_open dbr_Herefordshire_and_Gloucestershire_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of welland canal located in	select var_a where brack_open dbr_Welland_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of birmingham and fazeley canal located in	select var_a where brack_open dbr_Birmingham_and_Fazeley_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of trent and mersey canal located in	select var_a where brack_open dbr_Trent_and_Mersey_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of braunton canal located in	select var_a where brack_open dbr_Braunton_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of new bedford river located in	select var_a where brack_open dbr_New_Bedford_River dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of hamilton canal located in	select var_a where brack_open dbr_Hamilton_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of thames and severn canal located in	select var_a where brack_open dbr_Thames_and_Severn_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of codorus navigation located in	select var_a where brack_open dbr_Codorus_Navigation dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the start point of moscow canal located in	select var_a where brack_open dbr_Moscow_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of delegate river located in	select var_a where brack_open dbr_Delegate_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of rio brazos located in	select var_a where brack_open dbr_Rio_Brazos_(New_Mexico) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of rainbow babies & children's hospital located in	select var_a where brack_open dbr_Rainbow_Babies_&_Children's_Hospital dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of royal ottawa mental health centre located in	select var_a where brack_open dbr_Royal_Ottawa_Mental_Health_Centre dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of marchington river located in	select var_a where brack_open dbr_Marchington_River_(Ontario) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of san antonio creek located in	select var_a where brack_open dbr_San_Antonio_Creek_(Vandenberg_Air_Force_Base) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of plenty river located in	select var_a where brack_open dbr_Plenty_River_(Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of batten kill located in	select var_a where brack_open dbr_Batten_Kill dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of goyder river located in	select var_a where brack_open dbr_Goyder_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of wayne national forest located in	select var_a where brack_open dbr_Wayne_National_Forest dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of tappan zee located in	select var_a where brack_open dbr_Tappan_Zee dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of rhine located in	select var_a where brack_open dbr_Rhine dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of little lost river located in	select var_a where brack_open dbr_Little_Lost_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of alewife brook reservation located in	select var_a where brack_open dbr_Alewife_Brook_Reservation dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of bemboka river located in	select var_a where brack_open dbr_Bemboka_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of clackamas river located in	select var_a where brack_open dbr_Clackamas_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of saru river located in	select var_a where brack_open dbr_Saru_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of little river located in	select var_a where brack_open dbr_Little_River_(Moroka_River,_Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of morses creek located in	select var_a where brack_open dbr_Morses_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of colonie located in	select var_a where brack_open dbr_Colonie_(village) ,_New_York dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of manadas located in	select var_a where brack_open dbr_Manadas dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of bunyip river located in	select var_a where brack_open dbr_Bunyip_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of eel river located in	select var_a where brack_open dbr_Eel_River_(California) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of leycester creek located in	select var_a where brack_open dbr_Leycester_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of hoh river located in	select var_a where brack_open dbr_Hoh_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of sun river located in	select var_a where brack_open dbr_Sun_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of indian creek located in	select var_a where brack_open dbr_Indian_Creek_(Boise_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of tualatin river located in	select var_a where brack_open dbr_Tualatin_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of river hor located in	select var_a where brack_open dbr_River_Hor dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of canoe creek located in	select var_a where brack_open dbr_Canoe_Creek_(Upper_Iowa_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of customshouse of angra do heroísmo located in	select var_a where brack_open dbr_Customshouse_of_Angra_do_Heroísmo dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of raminho located in	select var_a where brack_open dbr_Raminho dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of chetco river located in	select var_a where brack_open dbr_Chetco_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of nevill hall hospital located in	select var_a where brack_open dbr_Nevill_Hall_Hospital dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of cibolo creek located in	select var_a where brack_open dbr_Cibolo_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of tenmile creek located in	select var_a where brack_open dbr_Tenmile_Creek_(Lane_County,_Oregon) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of graham cave state park located in	select var_a where brack_open dbr_Graham_Cave_State_Park dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of kilrush located in	select var_a where brack_open dbr_Kilrush,_Ontario dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of compton located in	select var_a where brack_open dbr_Compton,_Illinois dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of berlengas located in	select var_a where brack_open dbr_Berlengas dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of salmon falls creek located in	select var_a where brack_open dbr_Salmon_Falls_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of salão located in	select var_a where brack_open dbr_Salão dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of ringarooma river located in	select var_a where brack_open dbr_Ringarooma_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of delhi located in	select var_a where brack_open dbr_Delhi,_Illinois dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of defiance plateau located in	select var_a where brack_open dbr_Defiance_Plateau dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of klutina river located in	select var_a where brack_open dbr_Klutina_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of niddrie located in	select var_a where brack_open dbr_Niddrie,_Ontario dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of raft river located in	select var_a where brack_open dbr_Raft_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of assunpink creek located in	select var_a where brack_open dbr_Assunpink_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of purbach am neusiedlersee located in	select var_a where brack_open dbr_Purbach_am_Neusiedlersee dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of dalzell located in	select var_a where brack_open dbr_Dalzell,_Illinois dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of firehole river located in	select var_a where brack_open dbr_Firehole_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of aliso creek located in	select var_a where brack_open dbr_Aliso_Creek_(Los_Angeles_County) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of north esk river located in	select var_a where brack_open dbr_North_Esk_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of madalena located in	select var_a where brack_open dbr_Madalena,_Azores dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of cumberland county located in	select var_a where brack_open dbr_Cumberland_County,_Pennsylvania dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of tuul river located in	select var_a where brack_open dbr_Tuul_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of flores island located in	select var_a where brack_open dbr_Flores_Island_(Azores) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of sandisfield state forest located in	select var_a where brack_open dbr_Sandisfield_State_Forest dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of multnomah channel located in	select var_a where brack_open dbr_Multnomah_Channel dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of gettysburg battlefield located in	select var_a where brack_open dbr_Gettysburg_Battlefield dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of island creek located in	select var_a where brack_open dbr_Island_Creek_(West_Virginia) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of noire river located in	select var_a where brack_open dbr_Noire_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of corral hollow creek located in	select var_a where brack_open dbr_Corral_Hollow_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of cache creek located in	select var_a where brack_open dbr_Cache_Creek_(Sacramento_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of lehigh valley hospital located in	select var_a where brack_open dbr_Lehigh_Valley_Hospital dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of albany located in	select var_a where brack_open dbr_Albany,_New_York dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of new fork river located in	select var_a where brack_open dbr_New_Fork_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of river exe located in	select var_a where brack_open dbr_River_Exe dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of ingeegoodbee river located in	select var_a where brack_open dbr_Ingeegoodbee_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of baldwin located in	select var_a where brack_open dbr_Baldwin,_Illinois dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the state of panoche creek located in	select var_a where brack_open dbr_Panoche_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of mount lofty ranges zone located in	select var_a where brack_open dbr_Mount_Lofty_Ranges_zone_(wine) dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of minnesota wine located in	select var_a where brack_open dbr_Minnesota_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of north carolina wine located in	select var_a where brack_open dbr_North_Carolina_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of quebec wine located in	select var_a where brack_open dbr_Quebec_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of napa county wine located in	select var_a where brack_open dbr_Napa_County_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of postup located in	select var_a where brack_open dbr_Postup dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of loire valley located in	select var_a where brack_open dbr_Loire_Valley_(wine) dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of lodi ava located in	select var_a where brack_open dbr_Lodi_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of priorat located in	select var_a where brack_open dbr_Priorat_(DOQ) dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of tennessee wine located in	select var_a where brack_open dbr_Tennessee_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of barossa zone located in	select var_a where brack_open dbr_Barossa_zone_(wine) dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the subregion of sierra pelona valley ava located in	select var_a where brack_open dbr_Sierra_Pelona_Valley_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close

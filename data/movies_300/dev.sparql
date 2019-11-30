@@ -1,0 +1,420 @@
+select var_x where brack_open dbr_7_Años dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Tane_Topia dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Angelo_Parona dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jack_Kinney sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jesse_V._Johnson sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Valentino_Orsini brack_close
+select var_x where brack_open dbr_Their_Eyes_Were_Watching_God_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Norman_Lloyd_(actor par_close brack_close
+select var_x where brack_open dbr_Farid_Dosayev dbo_abstract var_x brack_close
+select var_x where brack_open dbr_The_Mad_Martindales dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_James_Glickenhaus sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Shomu_Mukherjee brack_close
+select var_x where brack_open dbr_Maleficent_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Juan_Lladó sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Shu_Qi brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Brian_Trenchard-Smith sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Dorf_Goes_Auto_Racing dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Harry_Thomason brack_close
+select var_x where brack_open dbr_Justus_Strid dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Perfect_Friday dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Yaremis_Mendaro dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Shon_Hopwood dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Bassui_Tokushō dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Uptown_Saturday_Night dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Carol_Reed sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Shyam_Benegal sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Nadeem_Baig_(actor par_close brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Adolescent_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Leslie_Grantham brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Robert_Stephens brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Yamato_(film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Wan_Chaochen sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Busby_Berkeley sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Margery_Hinton dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Monica_Mok brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Charitraheen dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Giorgi_Ovashvili sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Ivan_Botha brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Jason_Schwartzman brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Work sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Avdhoot_Gupte brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Zazie_dans_le_Métro dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Preetam_Gubbi sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Otakar_Vávra sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Jacques_Brel_Is_Alive_and_Well_and_Living_in_Paris_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Branko_Tomovic sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_B.J._Thomas brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jose_Javier_Reyes sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Yoko_Kando dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Christopher_Bureros dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Sheridan_Smith brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_James_W._Horne brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_John_Boorman sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Nuremberg_Trials_(film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Sonja_Henie brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Hanging_Up dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Siddalingaiah sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Gilbert_Pratt sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Boyapati_Srinu brack_close
+select var_x where brack_open dbr_Cry_Vengeance dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Harry_Finch_(cricketer par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_William_Castle sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Lara_González_Ortega dbo_abstract var_x brack_close
+select var_x where brack_open dbr_The_Frontier_Gandhi dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Tomoko_Nakajima brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_David_T._Hardy brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_La_mosca_d'oro dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Swordsman_(1948_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Deliver_Us_from_Evil_(2014_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Menna_Shalabi brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Adam_West brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Richard_Foster_Baker sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Cheran_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Work sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_No_Limit_Kids:_Much_Ado_About_Middle_School dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Eleonora_Schmidt dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Mark_Blankfield brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Douglas_Fairbanks brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Rob_Dickerman dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Louisa_Krause brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Side_Street_(1950_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Sidney_Lanfield sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Red_(2016_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Dracula:_Prince_of_Darkness dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Arielle_Dombasle brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Bridge_in_the_Jungle dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Mahesh_Manjrekar sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Irfan_Habib dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Dele_Odule brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Abbey_(film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Godzilla_1985 dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Harry_Piel sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Brother's_Keeper_(1992_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Onye_Ozi dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Swapan_Saha sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Diana_Lynn brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Thorsten_Görke dbo_abstract var_x brack_close
+select var_x where brack_open dbr_The_Misfits_(2011_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Shayron_Curiel dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_George_Black_(producer par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_David_DeCoteau sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_William_Hertling dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Mike_Newell_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Way_Through_the_Night dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Krsto_Papić sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Scott_Colcombe dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Peter's_Friends dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Max_Reinhardt dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Unishe_April dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Murders_in_the_Zoo dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Jamie_Doran brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Matt_Bomer brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Chelsea_Field brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Michael_Curtiz sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Frank_Reid_Murphy dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Louis_Leterrier sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Albert_Band sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Régis_Wargnier sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Girl_Who_Had_Everything dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Julia_Saly brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Ruth_Baffoe dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Ludwig_Stössel brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Dhansika brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_David_Kestenbaum dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Graham_Greene_(actor par_close brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Monta_Bell brack_close
+select var_x where brack_open dbr_JeruZalem dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Lianhua_Symphony dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Work sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Amy_Isabella_Johnston dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Frank_McDonald_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Ti_Oluwa_Ni_Ile dbo_abstract var_x brack_close
+select var_x where brack_open dbr_DC_Showcase:_Catwoman dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Sei_Kawahara dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Cliff_Owen brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Kunal_Kohli sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_High_Fidelity_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Work sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_T._K._Rajeev_Kumar sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Mikio_Naruse sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Kurt_Maetzig brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Guillermo_del_Toro sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Aleksandr_Tsybikov dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Patrick_Cutrone dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Deepak_Tijori brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Suresh_Oberoi brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Sound_Barrier dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Francis_McDonald brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_A._L._Vijay sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Hikaru_Phoebe_Minato dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Irving_Cummings sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Juzo_Itami sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_A_Cool,_Dry_Place dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Tonino_Valerii sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_David_Schwimmer sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Jacques_Servin brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Frank_Villard brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jean_Dréville sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Geri_Halliwell brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Patrick_Kaufusi dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Victoria_Beckham brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Martin_Donovan brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Edward_Zwick sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Bharathi_Kannamma dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Every_Which_Way_but_Loose_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Hussein_Fatal dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Priest_(1994_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Dag_Detter dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Death_Proof dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Giuseppe_Tornatore brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Graduation_Party_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Santa_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Mahesh_Manjrekar sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Danniel_Danniel brack_close
+select var_x where brack_open dbr_Early_Spring_(1956_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Scott_Shaw sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Ali_Hamadeh dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Shehar_Aur_Sapna dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Mohammad_Habibul_Alam dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Trader_Faulkner dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Work sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Jin_Qiaoqiao brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Aces_High_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Marcelo_Gomes_(director par_close brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jean-Paul_Le_Chanois sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Mario_Regueiro dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Shinobu_Otake brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Blackie_Whiteford brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Kristin_Scott_Thomas brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_David_Mamet brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Ravikant_Nagaich sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Shadow_(2013_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Sadgati dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_David_S._Goyer brack_close
+select var_x where brack_open dbr_The_Barbarians_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_John_Milius sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_My_First_Mister dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Ernst_Laemmle sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Wendy_Kaplan brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Anaswara_Kumar brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Roy_Mack_(director par_close brack_close
+select var_x where brack_open dbr_As_Time_Goes_By_(1988_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Justin_Herman sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Del_Lord sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Hugh_Wilson_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Rob_Zombie brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Mildred_Natwick brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Parrish_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Tarek_Al_Eryan sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_The_Trouble_Shooter dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Macunaíma_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Pierre_Montazel brack_close
+select var_x where brack_open dbr_Isaac_Okoronkwo dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Jandhyala_Subramanya_Sastry brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Maurice_Cloche sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_The_Congress_Dances_(1955_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Morgan_O'Neill brack_close
+select var_x where brack_open dbr_Josef_Geryk dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Des_McAnuff sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Vinay_Sapru sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Thurl_Ravenscroft brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Edward_LeSaint sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Shu_Watanabe_(actor par_close brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_John_Guillermin sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Kudla_Cafe dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Tatsuya_Nakadai brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_George_Dewhurst_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_The_Mambo_Kings dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Open_Season_(1974_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Gary_Nelson_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_The_Street_with_No_Name dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Adolphe_Menjou dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Disorder_(1962_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Michael_Cachagee dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Robin_Harris brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Finn_Taylor sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Adam_Thielen dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Prakash_Jha sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Fred_Olen_Ray sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_Sundar_C. brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_John_Aprea brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Stacy_Woodard sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Terrorists_Among_Us:_Jihad_in_America dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Leslie_Howard_(actor par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Michael_Corrente sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Lynn_Lynch dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Edward_F._Cline brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Obi_Emelonye sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_TelevisionShow sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Ella_Rae_Peck brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Stefano_Pellegrini_(footballer,_born_1953 par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Nicolas_Cage brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Peaceable_Kingdom_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Ray_Rothrock dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Yu_Xu dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Paul_Feig sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x dbo_director dbr_T._Hariharan brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Children_Underground dbo_runtime var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Tim_Burstall sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Christian_Altamirano dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Kam_Heskin brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Maurice_Tourneur sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Joseph_Hardy_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Terence_Young_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Nas brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Santa_Fe_Trail_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Michel_Blanc sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Astride_N'Gouan dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Chitra_Dansuputra dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Heinz_Paul sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Josh_Risdon dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Oliver_Hardy sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Area_51_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Roman_Balayan sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Matt_Damon brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Catherine_Demongeot brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Avdhoot_Gupte sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Roberto_Benigni sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jayanth_C._Paranjee sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_The_Gaucho dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Contraband_(1980_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Fred_Olen_Ray brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Charles_Grodin brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Pierre_Caland dbo_abstract var_x brack_close
+select var_x where brack_open dbr_The_Sorcerer_and_the_White_Snake dbo_runtime var_x brack_close
+select var_x where brack_open dbr_Victor_Muffat-Jeandet dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Bhakta_Ramadas_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Emilio_Gutiérrez_Caba brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Bhakta_Kumbara_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_She's_My_Weakness dbo_abstract var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Tom_DiCillo brack_close
+select var_x where brack_open dbr_Destination_Inner_Space dbo_runtime var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jacques_Deray sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Alan_Johnson dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Amen_(2013_film par_close dbo_runtime var_x brack_close
+select var_x where brack_open var_x dbo_director dbr_Dennis_Hopper brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Simone_Singh brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Roland_Joffé sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Herschell_Gordon_Lewis sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Chen_Kuo-fu sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Edward_LeSaint sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Hiroshi_Inagaki sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Big_Girls_Don't_Cry..._They_Get_Even dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open dbr_Bugs_(2003_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Miguel_Aceves_Mejía brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Analía_Gadé brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Sam_Liu brack_close
+select var_x where brack_open var_x rdf_type dbo_Work sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Marissa_Stott brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Marc_Didden sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 3  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Rudolf_Prack brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Nadira_(actress par_close brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Matthew_Scott_Krentz sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open dbr_Delicate_Sound_of_Thunder_(film par_close dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Sergio_Garrone sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Kevin_Connor_(director par_close sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 4  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1
+select var_x where brack_open var_x dbo_director dbr_Michael_Ritchie_(film_director par_close brack_close
+select var_x where brack_open dbr_Richard_Garcia dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Madge_Gill dbo_abstract var_x brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_director dbr_Jean_Yarborough sep_dot var_x dbo_runtime var_y sep_dot filter par_open var_y math_gt 2  math_mult  3600 par_close brack_close
+select var_x where brack_open var_x rdf_type dbo_Film sep_dot var_x dbo_runtime var_y sep_dot var_x dbo_starring dbr_Ernest_Lawrence brack_close order by desc par_open var_y par_close limit 1
+select var_x where brack_open dbr_Thomas_Espin dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Syazwan_Andik dbo_abstract var_x brack_close
+select var_x where brack_open dbr_Shotgun_Wedding_(1993_film par_close dbo_abstract var_x brack_close
+select var_x where brack_open dbr_55_Days_at_Peking dbo_abstract var_x brack_close
+select var_x where brack_open var_y rdf_type dbo_Film sep_dot var_y dbo_runtime var_x brack_close order by desc par_open var_x par_close limit 1

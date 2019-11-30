@@ -1,0 +1,1 @@
+select ?a where{dbo:intercommunality dbo:sourceRegion ?b . ?b <dbo:location> ?a }

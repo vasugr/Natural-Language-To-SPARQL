@@ -1,0 +1,450 @@
+where is the district of camden haven river located in	select var_a where brack_open dbr_Camden_Haven_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of boldog located in	select var_a where brack_open dbr_Boldog,_Slovakia dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul pietrele lacului located in	select var_a where brack_open dbr_Pârâul_Pietrele_Lacului dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of březí located in	select var_a where brack_open dbr_Březí_(Břeclav_District) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of northampton st. john's street railway station located in	select var_a where brack_open dbr_Northampton_St._John's_Street_railway_station dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of corogea river located in	select var_a where brack_open dbr_Corogea_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bâsca chiojdului river located in	select var_a where brack_open dbr_Bâsca_Chiojdului_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of topolog river located in	select var_a where brack_open dbr_Topolog_River_(Olt) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of balerna located in	select var_a where brack_open dbr_Balerna dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of göhren-lebbin located in	select var_a where brack_open dbr_Göhren-Lebbin dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of rufus river located in	select var_a where brack_open dbr_Rufus_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bârsa lui bucur river located in	select var_a where brack_open dbr_Bârsa_lui_Bucur_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of râul câinelui located in	select var_a where brack_open dbr_Râul_Câinelui dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of morsleben located in	select var_a where brack_open dbr_Morsleben dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of topologel river located in	select var_a where brack_open dbr_Topologel_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of aluniș river located in	select var_a where brack_open dbr_Aluniș_River_(Brașov) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of wollomombi river located in	select var_a where brack_open dbr_Wollomombi_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of buchholterberg located in	select var_a where brack_open dbr_Buchholterberg dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of șușița river located in	select var_a where brack_open dbr_Șușița_River_(Siret) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bartensleben located in	select var_a where brack_open dbr_Bartensleben dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bredenfelde located in	select var_a where brack_open dbr_Bredenfelde dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of crescent beach state park located in	select var_a where brack_open dbr_Crescent_Beach_State_Park dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of osek located in	select var_a where brack_open dbr_Osek_(Jičín_District) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea lui stere river located in	select var_a where brack_open dbr_Valea_lui_Stere_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cârțișoara river located in	select var_a where brack_open dbr_Cârțișoara_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of preluci river located in	select var_a where brack_open dbr_Preluci_River_(Someșul_Mare) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of malá úpa located in	select var_a where brack_open dbr_Malá_Úpa dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea cu apă river located in	select var_a where brack_open dbr_Valea_cu_Apă_River_(Șcheiu) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of fălțuian river located in	select var_a where brack_open dbr_Fălțuian_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea măgurii river located in	select var_a where brack_open dbr_Valea_Măgurii_River_(Topa) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of divaia river located in	select var_a where brack_open dbr_Divaia_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cells river located in	select var_a where brack_open dbr_Cells_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of helions bumpstead located in	select var_a where brack_open dbr_Helions_Bumpstead dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of beliș river located in	select var_a where brack_open dbr_Beliș_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of galbena river located in	select var_a where brack_open dbr_Galbena_River_(Strei) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea putredă river located in	select var_a where brack_open dbr_Valea_Putredă_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bad deutsch-altenburg located in	select var_a where brack_open dbr_Bad_Deutsch-Altenburg dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of beardy river located in	select var_a where brack_open dbr_Beardy_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of horní slavkov located in	select var_a where brack_open dbr_Horní_Slavkov dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of barcoongere river located in	select var_a where brack_open dbr_Barcoongere_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of hořice located in	select var_a where brack_open dbr_Hořice_(Jičín_District) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul posăzii located in	select var_a where brack_open dbr_Pârâul_Posăzii dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of luncoiu river located in	select var_a where brack_open dbr_Luncoiu_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of tumtum river located in	select var_a where brack_open dbr_Tumtum_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul boului located in	select var_a where brack_open dbr_Pârâul_Boului_(Crișul_Văratecului) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of râul mare located in	select var_a where brack_open dbr_Râul_Mare_(Strei) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cisna located in	select var_a where brack_open dbr_Cisna dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of izvorul mare river located in	select var_a where brack_open dbr_Izvorul_Mare_River_(Anieș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of ostroměř located in	select var_a where brack_open dbr_Ostroměř dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of kerswell green located in	select var_a where brack_open dbr_Kerswell_Green dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of blicks river located in	select var_a where brack_open dbr_Blicks_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of dridif river located in	select var_a where brack_open dbr_Dridif_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of lăzăroaie river located in	select var_a where brack_open dbr_Lăzăroaie_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of oaky river located in	select var_a where brack_open dbr_Oaky_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of etivluk river located in	select var_a where brack_open dbr_Etivluk_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of j. a. skinner state park located in	select var_a where brack_open dbr_J._A._Skinner_State_Park dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bowman river located in	select var_a where brack_open dbr_Bowman_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bäretswil located in	select var_a where brack_open dbr_Bäretswil dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of coacăza river located in	select var_a where brack_open dbr_Coacăza_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of jerome mine located in	select var_a where brack_open dbr_Jerome_Mine,_Ontario dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of velký vřešťov located in	select var_a where brack_open dbr_Velký_Vřešťov dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of káranice located in	select var_a where brack_open dbr_Káranice dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bebertal located in	select var_a where brack_open dbr_Bebertal dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of nissequogue river located in	select var_a where brack_open dbr_Nissequogue_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of vârciorog river located in	select var_a where brack_open dbr_Vârciorog_River_(Peștiș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of elsau located in	select var_a where brack_open dbr_Elsau dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea coacăzei river located in	select var_a where brack_open dbr_Valea_Coacăzei_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of netheli aru located in	select var_a where brack_open dbr_Netheli_Aru dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of plodda located in	select var_a where brack_open dbr_Plodda dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of boul river located in	select var_a where brack_open dbr_Boul_River_(Buzău) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of ena lake located in	select var_a where brack_open dbr_Ena_Lake,_Ontario dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul stânei located in	select var_a where brack_open dbr_Pârâul_Stânei_(Cucuieți) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of vysoké veselí located in	select var_a where brack_open dbr_Vysoké_Veselí dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of brumovice located in	select var_a where brack_open dbr_Brumovice_(Břeclav_District) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of plai river located in	select var_a where brack_open dbr_Plai_River_(Crișul_Alb) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of rottmersleben located in	select var_a where brack_open dbr_Rottmersleben dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of potoci river located in	select var_a where brack_open dbr_Potoci_River_(Tarcău) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pappinbarra river located in	select var_a where brack_open dbr_Pappinbarra_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bârsa fierului river located in	select var_a where brack_open dbr_Bârsa_Fierului_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of ferenți river located in	select var_a where brack_open dbr_Ferenți_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of nottingham london road railway station located in	select var_a where brack_open dbr_Nottingham_London_Road_railway_station dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cungrea river located in	select var_a where brack_open dbr_Cungrea_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of narran river located in	select var_a where brack_open dbr_Narran_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bendeleben located in	select var_a where brack_open dbr_Bendeleben dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of arco da porta nova located in	select var_a where brack_open dbr_Arco_da_Porta_Nova dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of căpățâna river located in	select var_a where brack_open dbr_Căpățâna_River_(Schit) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of făncica river located in	select var_a where brack_open dbr_Făncica_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of spencer state forest located in	select var_a where brack_open dbr_Spencer_State_Forest dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cupaș river located in	select var_a where brack_open dbr_Cupaș_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of foss river located in	select var_a where brack_open dbr_Foss_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pâncești river located in	select var_a where brack_open dbr_Pâncești_River_(Fulgeriș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea lui mihai river located in	select var_a where brack_open dbr_Valea_lui_Mihai_River_(Leorda) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of iauna river located in	select var_a where brack_open dbr_Iauna_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of canoe creek located in	select var_a where brack_open dbr_Canoe_Creek_(Upper_Iowa_River) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of kempraten located in	select var_a where brack_open dbr_Kempraten dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of kushiro river located in	select var_a where brack_open dbr_Kushiro_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of mastník located in	select var_a where brack_open dbr_Mastník dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of clifton-upon-teme located in	select var_a where brack_open dbr_Clifton-upon-Teme dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bevaix located in	select var_a where brack_open dbr_Bevaix dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of volovăț river located in	select var_a where brack_open dbr_Volovăț_River_(Prut) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea dracului river located in	select var_a where brack_open dbr_Valea_Dracului_River_(Șcheiu) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cavnic river located in	select var_a where brack_open dbr_Cavnic_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of râul rece located in	select var_a where brack_open dbr_Râul_Rece dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of kampar river located in	select var_a where brack_open dbr_Kampar_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of târgului river located in	select var_a where brack_open dbr_Târgului_River_(Argeș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of afon clywedog located in	select var_a where brack_open dbr_Afon_Clywedog dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of laița river located in	select var_a where brack_open dbr_Laița_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of castel san pietro located in	select var_a where brack_open dbr_Castel_San_Pietro dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of mitaci river located in	select var_a where brack_open dbr_Mitaci_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul lui băloi located in	select var_a where brack_open dbr_Pârâul_lui_Băloi dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of frasinu river located in	select var_a where brack_open dbr_Frasinu_River_(Tarcău) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of biberbrugg located in	select var_a where brack_open dbr_Biberbrugg dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of nadișa river located in	select var_a where brack_open dbr_Nadișa_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of st. adalbert parish located in	select var_a where brack_open dbr_St._Adalbert_Parish,_Hyde_Park dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bovenden located in	select var_a where brack_open dbr_Bovenden dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bistra river located in	select var_a where brack_open dbr_Bistra_River_(Mureș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of râul scurt located in	select var_a where brack_open dbr_Râul_Scurt dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of ballyrory located in	select var_a where brack_open dbr_Ballyrory,_County_Londonderry dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of leșunțul mare located in	select var_a where brack_open dbr_Leșunțul_Mare dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of miletín located in	select var_a where brack_open dbr_Miletín dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of marchington river located in	select var_a where brack_open dbr_Marchington_River_(Ontario) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of tarlo river located in	select var_a where brack_open dbr_Tarlo_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of mandekal aru located in	select var_a where brack_open dbr_Mandekal_Aru dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of edelstal located in	select var_a where brack_open dbr_Edelstal dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of vruseasca river located in	select var_a where brack_open dbr_Vruseasca_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea rugului river located in	select var_a where brack_open dbr_Valea_Rugului_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bâlca located in	select var_a where brack_open dbr_Bâlca_(river) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of cregg river located in	select var_a where brack_open dbr_Cregg_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of toplița river located in	select var_a where brack_open dbr_Toplița_River_(Tazlăul_Sărat) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of negoescu located in	select var_a where brack_open dbr_Negoescu dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of náměšť nad oslavou located in	select var_a where brack_open dbr_Náměšť_nad_Oslavou dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of raciu river located in	select var_a where brack_open dbr_Raciu_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of tobins river located in	select var_a where brack_open dbr_Tobins_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of frăsinet river located in	select var_a where brack_open dbr_Frăsinet_River_(Săsar) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bütschwil located in	select var_a where brack_open dbr_Bütschwil dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of dyke river located in	select var_a where brack_open dbr_Dyke_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of alvega located in	select var_a where brack_open dbr_Alvega dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of gebenstorf located in	select var_a where brack_open dbr_Gebenstorf dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of râoaia river located in	select var_a where brack_open dbr_Râoaia_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of lișava river located in	select var_a where brack_open dbr_Lișava_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bourne brook located in	select var_a where brack_open dbr_Bourne_Brook dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of frumoasa river located in	select var_a where brack_open dbr_Frumoasa_River_(Tazlăul_Mare) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of lauenstein located in	select var_a where brack_open dbr_Lauenstein_(Salzhemmendorf) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of köchelstorf located in	select var_a where brack_open dbr_Köchelstorf dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of runc river located in	select var_a where brack_open dbr_Runc_River_(Criș) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of sâmbăta river located in	select var_a where brack_open dbr_Sâmbăta_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of socolău located in	select var_a where brack_open dbr_Socolău dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of funicular dos guindais located in	select var_a where brack_open dbr_Funicular_dos_Guindais dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of elgg located in	select var_a where brack_open dbr_Elgg dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of behnsdorf located in	select var_a where brack_open dbr_Behnsdorf dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of northampton bridge street railway station located in	select var_a where brack_open dbr_Northampton_Bridge_Street_railway_station dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of schwinkendorf located in	select var_a where brack_open dbr_Schwinkendorf dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bistra river located in	select var_a where brack_open dbr_Bistra_River_(Bistrița) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of großpaschleben located in	select var_a where brack_open dbr_Großpaschleben dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of row river located in	select var_a where brack_open dbr_Row_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of galați river located in	select var_a where brack_open dbr_Galați_River_(Olt) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of aliso canyon located in	select var_a where brack_open dbr_Aliso_Canyon dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of hakenstedt located in	select var_a where brack_open dbr_Hakenstedt dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of tocilița river located in	select var_a where brack_open dbr_Tocilița_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of crișul pietros river located in	select var_a where brack_open dbr_Crișul_Pietros_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul lui bălan located in	select var_a where brack_open dbr_Pârâul_lui_Bălan dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of mlékosrby located in	select var_a where brack_open dbr_Mlékosrby dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of ciocânea river located in	select var_a where brack_open dbr_Ciocânea_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of câinele river located in	select var_a where brack_open dbr_Câinele_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of finiș river located in	select var_a where brack_open dbr_Finiș_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of apsley river located in	select var_a where brack_open dbr_Apsley_River_(New_South_Wales) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of șipot river located in	select var_a where brack_open dbr_Șipot_River_(Brașov) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of big round top located in	select var_a where brack_open dbr_Big_Round_Top dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea mușuroiului river located in	select var_a where brack_open dbr_Valea_Mușuroiului_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of semice located in	select var_a where brack_open dbr_Semice dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul padeșului located in	select var_a where brack_open dbr_Pârâul_Padeșului dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of erie bluffs state park located in	select var_a where brack_open dbr_Erie_Bluffs_State_Park dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of rapperswil located in	select var_a where brack_open dbr_Rapperswil dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of sebișel river located in	select var_a where brack_open dbr_Sebișel_River_(Aleu) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of dederstedt located in	select var_a where brack_open dbr_Dederstedt dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of black moshannon state park located in	select var_a where brack_open dbr_Black_Moshannon_State_Park dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of longdon located in	select var_a where brack_open dbr_Longdon,_Staffordshire dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of forbes river located in	select var_a where brack_open dbr_Forbes_River_(New_South_Wales) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of perișani river located in	select var_a where brack_open dbr_Perișani_River_(Băiașu) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of pârâul străjii located in	select var_a where brack_open dbr_Pârâul_Străjii dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of fleșcuța river located in	select var_a where brack_open dbr_Fleșcuța_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of avegno located in	select var_a where brack_open dbr_Avegno,_Switzerland dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of prigor river located in	select var_a where brack_open dbr_Prigor_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea vladului river located in	select var_a where brack_open dbr_Valea_Vladului_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of radonice located in	select var_a where brack_open dbr_Radonice_(Chomutov_District) dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of brebina mare river located in	select var_a where brack_open dbr_Brebina_Mare_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of valea iugii river located in	select var_a where brack_open dbr_Valea_Iugii_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of tokachi river located in	select var_a where brack_open dbr_Tokachi_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of drosa located in	select var_a where brack_open dbr_Drosa dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of slănicel river located in	select var_a where brack_open dbr_Slănicel_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of bodeasa river located in	select var_a where brack_open dbr_Bodeasa_River dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the district of jona located in	select var_a where brack_open dbr_Jona dbo_district var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of toro negro state forest located in	select var_a where brack_open dbr_Toro_Negro_State_Forest dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ostroměř located in	select var_a where brack_open dbr_Ostroměř dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-omer-capelle located in	select var_a where brack_open dbr_Saint-Omer-Capelle dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hernicourt located in	select var_a where brack_open dbr_Hernicourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of phillips covered bridge located in	select var_a where brack_open dbr_Phillips_Covered_Bridge dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-thibault-des-vignes located in	select var_a where brack_open dbr_Saint-Thibault-des-Vignes dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bousse located in	select var_a where brack_open dbr_Bousse,_Sarthe dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of estables located in	select var_a where brack_open dbr_Estables dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of arlay located in	select var_a where brack_open dbr_Arlay dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of camden haven river located in	select var_a where brack_open dbr_Camden_Haven_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-andré-de-lancize located in	select var_a where brack_open dbr_Saint-André-de-Lancize dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cametours located in	select var_a where brack_open dbr_Cametours dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of malá úpa located in	select var_a where brack_open dbr_Malá_Úpa dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sager creek located in	select var_a where brack_open dbr_Sager_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of peyrelongue-abos located in	select var_a where brack_open dbr_Peyrelongue-Abos dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bourne brook located in	select var_a where brack_open dbr_Bourne_Brook dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of crudine river located in	select var_a where brack_open dbr_Crudine_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of gauchin-verloingt located in	select var_a where brack_open dbr_Gauchin-Verloingt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-martin-sur-cojeul located in	select var_a where brack_open dbr_Saint-Martin-sur-Cojeul dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sandon river located in	select var_a where brack_open dbr_Sandon_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of serques located in	select var_a where brack_open dbr_Serques dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of leycester creek located in	select var_a where brack_open dbr_Leycester_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cavron-saint-martin located in	select var_a where brack_open dbr_Cavron-Saint-Martin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of beldon burn located in	select var_a where brack_open dbr_Beldon_Burn dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of virgin valley located in	select var_a where brack_open dbr_Virgin_Valley dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of næstved located in	select var_a where brack_open dbr_Næstved dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of reclinghem located in	select var_a where brack_open dbr_Reclinghem dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of crescent beach state park located in	select var_a where brack_open dbr_Crescent_Beach_State_Park dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-folquin located in	select var_a where brack_open dbr_Saint-Folquin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of dommartin-sous-amance located in	select var_a where brack_open dbr_Dommartin-sous-Amance dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of colembert located in	select var_a where brack_open dbr_Colembert dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mlékosrby located in	select var_a where brack_open dbr_Mlékosrby dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tuglow river located in	select var_a where brack_open dbr_Tuglow_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of prague 10 located in	select var_a where brack_open dbr_Prague_10 dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of asao-ku located in	select var_a where brack_open dbr_Asao-ku,_Kawasaki dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of j. a. skinner state park located in	select var_a where brack_open dbr_J._A._Skinner_State_Park dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la celle-sous-chantemerle located in	select var_a where brack_open dbr_La_Celle-sous-Chantemerle dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of framecourt located in	select var_a where brack_open dbr_Framecourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of lières located in	select var_a where brack_open dbr_Lières dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of antraigues-sur-volane located in	select var_a where brack_open dbr_Antraigues-sur-Volane dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of miletín located in	select var_a where brack_open dbr_Miletín dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of villedieu-lès-bailleul located in	select var_a where brack_open dbr_Villedieu-lès-Bailleul dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la celle located in	select var_a where brack_open dbr_La_Celle,_Cher dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-martin-choquel located in	select var_a where brack_open dbr_Saint-Martin-Choquel dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of vendargues located in	select var_a where brack_open dbr_Vendargues dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of three ridges wilderness located in	select var_a where brack_open dbr_Three_Ridges_Wilderness dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saulty located in	select var_a where brack_open dbr_Saulty dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of laguna creek located in	select var_a where brack_open dbr_Laguna_Creek_(Santa_Cruz_County) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hénu located in	select var_a where brack_open dbr_Hénu dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of perreux located in	select var_a where brack_open dbr_Perreux,_Loire dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tobins river located in	select var_a where brack_open dbr_Tobins_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of coullemont located in	select var_a where brack_open dbr_Coullemont dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-tricat located in	select var_a where brack_open dbr_Saint-Tricat dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of eckartswiller located in	select var_a where brack_open dbr_Eckartswiller dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of radonice located in	select var_a where brack_open dbr_Radonice_(Chomutov_District) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of martin lake located in	select var_a where brack_open dbr_Martin_Lake_(Saskatchewan) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of dyke river located in	select var_a where brack_open dbr_Dyke_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of salt creek located in	select var_a where brack_open dbr_Salt_Creek_(Little_Calumet_River) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of frankland river located in	select var_a where brack_open dbr_Frankland_River_(Western_Australia) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of blocher's run located in	select var_a where brack_open dbr_Blocher's_Run dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tarlo river located in	select var_a where brack_open dbr_Tarlo_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cagnicourt located in	select var_a where brack_open dbr_Cagnicourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bimberamala river located in	select var_a where brack_open dbr_Bimberamala_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cambligneul located in	select var_a where brack_open dbr_Cambligneul dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of west union covered bridge located in	select var_a where brack_open dbr_West_Union_Covered_Bridge_(Indiana) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of arcore located in	select var_a where brack_open dbr_Arcore dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of chelers located in	select var_a where brack_open dbr_Chelers dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of febvin-palfart located in	select var_a where brack_open dbr_Febvin-Palfart dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of courset located in	select var_a where brack_open dbr_Courset dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tourrettes located in	select var_a where brack_open dbr_Tourrettes,_Var dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wierre-au-bois located in	select var_a where brack_open dbr_Wierre-au-Bois dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of leubringhen located in	select var_a where brack_open dbr_Leubringhen dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of henry river located in	select var_a where brack_open dbr_Henry_River_(New_South_Wales) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of coupelle-neuve located in	select var_a where brack_open dbr_Coupelle-Neuve dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of dommartin located in	select var_a where brack_open dbr_Dommartin,_Somme dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of viry located in	select var_a where brack_open dbr_Viry,_Haute-Savoie dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bassan located in	select var_a where brack_open dbr_Bassan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of siracourt located in	select var_a where brack_open dbr_Siracourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of grévillers located in	select var_a where brack_open dbr_Grévillers dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la valette-du-var located in	select var_a where brack_open dbr_La_Valette-du-Var dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of west virginia state wildlife center located in	select var_a where brack_open dbr_West_Virginia_State_Wildlife_Center dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-martin-des-champs located in	select var_a where brack_open dbr_Saint-Martin-des-Champs,_Manche dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of káranice located in	select var_a where brack_open dbr_Káranice dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mowamba river located in	select var_a where brack_open dbr_Mowamba_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of pappinbarra river located in	select var_a where brack_open dbr_Pappinbarra_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of quéant located in	select var_a where brack_open dbr_Quéant dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of náměšť nad oslavou located in	select var_a where brack_open dbr_Náměšť_nad_Oslavou dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of rufus river located in	select var_a where brack_open dbr_Rufus_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of estrée-cauchy located in	select var_a where brack_open dbr_Estrée-Cauchy dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of little plains river located in	select var_a where brack_open dbr_Little_Plains_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of rené located in	select var_a where brack_open dbr_René,_Sarthe dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of brumovice located in	select var_a where brack_open dbr_Brumovice_(Břeclav_District) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la villedieu located in	select var_a where brack_open dbr_La_Villedieu,_Creuse dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of kushiro river located in	select var_a where brack_open dbr_Kushiro_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of nesles located in	select var_a where brack_open dbr_Nesles dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of le plessis-macé located in	select var_a where brack_open dbr_Le_Plessis-Macé dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of patna dental college located in	select var_a where brack_open dbr_Patna_Dental_College dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of herlincourt located in	select var_a where brack_open dbr_Herlincourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of lacres located in	select var_a where brack_open dbr_Lacres dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hermin located in	select var_a where brack_open dbr_Hermin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of le bouscat located in	select var_a where brack_open dbr_Le_Bouscat dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of březí located in	select var_a where brack_open dbr_Březí_(Břeclav_District) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of boesmans river located in	select var_a where brack_open dbr_Boesmans_River_(Eastern_Cape) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of noyelle-vion located in	select var_a where brack_open dbr_Noyelle-Vion dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of calabria located in	select var_a where brack_open dbr_Calabria dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of custines located in	select var_a where brack_open dbr_Custines dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of herbelles located in	select var_a where brack_open dbr_Herbelles dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of les ayvelles located in	select var_a where brack_open dbr_Les_Ayvelles dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of haibara located in	select var_a where brack_open dbr_Haibara,_Shizuoka dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of forbes river located in	select var_a where brack_open dbr_Forbes_River_(New_South_Wales) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wooli wooli river located in	select var_a where brack_open dbr_Wooli_Wooli_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of paint creek located in	select var_a where brack_open dbr_Paint_Creek_(Johnson_County,_Kentucky) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of vermelles located in	select var_a where brack_open dbr_Vermelles dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of horní slavkov located in	select var_a where brack_open dbr_Horní_Slavkov dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tilques located in	select var_a where brack_open dbr_Tilques dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hambye located in	select var_a where brack_open dbr_Hambye dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of festubert located in	select var_a where brack_open dbr_Festubert dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of narran river located in	select var_a where brack_open dbr_Narran_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of salt creek located in	select var_a where brack_open dbr_Salt_Creek_(Platte_River) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la celle-sous-gouzon located in	select var_a where brack_open dbr_La_Celle-sous-Gouzon dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of camblain-l'abbé located in	select var_a where brack_open dbr_Camblain-l'Abbé dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sharp memorial hospital located in	select var_a where brack_open dbr_Sharp_Memorial_Hospital dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of semice located in	select var_a where brack_open dbr_Semice dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of willencourt located in	select var_a where brack_open dbr_Willencourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ourton located in	select var_a where brack_open dbr_Ourton dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hocquigny located in	select var_a where brack_open dbr_Hocquigny dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wards river located in	select var_a where brack_open dbr_Wards_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of pinehouse lake located in	select var_a where brack_open dbr_Pinehouse_Lake dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saugnacq-et-muret located in	select var_a where brack_open dbr_Saugnacq-et-Muret dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mecca covered bridge located in	select var_a where brack_open dbr_Mecca_Covered_Bridge dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bylong river located in	select var_a where brack_open dbr_Bylong_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of temecula creek located in	select var_a where brack_open dbr_Temecula_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tonalli river located in	select var_a where brack_open dbr_Tonalli_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-cyprien located in	select var_a where brack_open dbr_Saint-Cyprien,_Lot dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of pommiers located in	select var_a where brack_open dbr_Pommiers,_Rhône dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mastník located in	select var_a where brack_open dbr_Mastník dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of séricourt located in	select var_a where brack_open dbr_Séricourt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saskatchewan beach located in	select var_a where brack_open dbr_Saskatchewan_Beach,_Saskatchewan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of geehi river located in	select var_a where brack_open dbr_Geehi_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of spice run wilderness located in	select var_a where brack_open dbr_Spice_Run_Wilderness dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of alvega located in	select var_a where brack_open dbr_Alvega dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of a'becketts creek located in	select var_a where brack_open dbr_A'Becketts_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hesdigneul-lès-béthune located in	select var_a where brack_open dbr_Hesdigneul-lès-Béthune dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of islais creek located in	select var_a where brack_open dbr_Islais_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of vysoké veselí located in	select var_a where brack_open dbr_Vysoké_Veselí dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of chocques located in	select var_a where brack_open dbr_Chocques dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-sauveur-d'aunis located in	select var_a where brack_open dbr_Saint-Sauveur-d'Aunis dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of knob noster state park located in	select var_a where brack_open dbr_Knob_Noster_State_Park dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hénin-sur-cojeul located in	select var_a where brack_open dbr_Hénin-sur-Cojeul dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ligny-thilloy located in	select var_a where brack_open dbr_Ligny-Thilloy dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hattmatt located in	select var_a where brack_open dbr_Hattmatt dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of coin-sur-seille located in	select var_a where brack_open dbr_Coin-sur-Seille dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of lohra located in	select var_a where brack_open dbr_Lohra dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of montrodat located in	select var_a where brack_open dbr_Montrodat dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bouquehault located in	select var_a where brack_open dbr_Bouquehault dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of velký vřešťov located in	select var_a where brack_open dbr_Velký_Vřešťov dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ternas located in	select var_a where brack_open dbr_Ternas dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of roseville-coxville covered bridge located in	select var_a where brack_open dbr_Roseville-Coxville_Covered_Bridge dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of crépy located in	select var_a where brack_open dbr_Crépy,_Aisne dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sibiville located in	select var_a where brack_open dbr_Sibiville dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sullivans creek located in	select var_a where brack_open dbr_Sullivans_Creek dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of taillebourg located in	select var_a where brack_open dbr_Taillebourg,_Lot-et-Garonne dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of berles-monchel located in	select var_a where brack_open dbr_Berles-Monchel dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of moringhem located in	select var_a where brack_open dbr_Moringhem dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of taylor beach located in	select var_a where brack_open dbr_Taylor_Beach dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of nevins covered bridge located in	select var_a where brack_open dbr_Nevins_Covered_Bridge dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of couin located in	select var_a where brack_open dbr_Couin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of leading creek located in	select var_a where brack_open dbr_Leading_Creek_(Tygart_Valley_River) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of glen harbour located in	select var_a where brack_open dbr_Glen_Harbour,_Saskatchewan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wollomombi river located in	select var_a where brack_open dbr_Wollomombi_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of pierremont located in	select var_a where brack_open dbr_Pierremont dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of gobi desert located in	select var_a where brack_open dbr_Gobi_Desert dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bowman river located in	select var_a where brack_open dbr_Bowman_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of apsley river located in	select var_a where brack_open dbr_Apsley_River_(New_South_Wales) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of vendin-lès-béthune located in	select var_a where brack_open dbr_Vendin-lès-Béthune dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tokachi river located in	select var_a where brack_open dbr_Tokachi_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-rome-de-dolan located in	select var_a where brack_open dbr_Saint-Rome-de-Dolan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-brice located in	select var_a where brack_open dbr_Saint-Brice,_Seine-et-Marne dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of épinoy located in	select var_a where brack_open dbr_Épinoy dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ervillers located in	select var_a where brack_open dbr_Ervillers dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of beardy river located in	select var_a where brack_open dbr_Beardy_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of felletin located in	select var_a where brack_open dbr_Felletin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of exmes located in	select var_a where brack_open dbr_Exmes dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of parañaque river located in	select var_a where brack_open dbr_Parañaque_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of nissequogue river located in	select var_a where brack_open dbr_Nissequogue_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of doyles river located in	select var_a where brack_open dbr_Doyles_River_(New_South_Wales) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of abetone located in	select var_a where brack_open dbr_Abetone dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of martinpuich located in	select var_a where brack_open dbr_Martinpuich dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cells river located in	select var_a where brack_open dbr_Cells_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of providence willamette falls medical center located in	select var_a where brack_open dbr_Providence_Willamette_Falls_Medical_Center dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mulwaree river located in	select var_a where brack_open dbr_Mulwaree_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mas-saint-chély located in	select var_a where brack_open dbr_Mas-Saint-Chély dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of mercatel located in	select var_a where brack_open dbr_Mercatel dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of le grand-quevilly located in	select var_a where brack_open dbr_Le_Grand-Quevilly dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of bainghen located in	select var_a where brack_open dbr_Bainghen dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of coyecques located in	select var_a where brack_open dbr_Coyecques dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of atascadero creek located in	select var_a where brack_open dbr_Atascadero_Creek_(Sonoma_County,_California) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wyong river located in	select var_a where brack_open dbr_Wyong_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tingry located in	select var_a where brack_open dbr_Tingry dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of labourse located in	select var_a where brack_open dbr_Labourse dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cressy located in	select var_a where brack_open dbr_Cressy,_Seine-Maritime dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sombrin located in	select var_a where brack_open dbr_Sombrin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of kowmung river located in	select var_a where brack_open dbr_Kowmung_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of canlers located in	select var_a where brack_open dbr_Canlers dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of vialas located in	select var_a where brack_open dbr_Vialas dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of balaruc-le-vieux located in	select var_a where brack_open dbr_Balaruc-le-Vieux dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of rich hole wilderness located in	select var_a where brack_open dbr_Rich_Hole_Wilderness dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of rocky arbor state park located in	select var_a where brack_open dbr_Rocky_Arbor_State_Park dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-sauveur located in	select var_a where brack_open dbr_Saint-Sauveur,_Somme dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of andé located in	select var_a where brack_open dbr_Andé dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of arco da porta nova located in	select var_a where brack_open dbr_Arco_da_Porta_Nova dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of narrows covered bridge located in	select var_a where brack_open dbr_Narrows_Covered_Bridge dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of spencer state forest located in	select var_a where brack_open dbr_Spencer_State_Forest dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of arboretum sofiyivka located in	select var_a where brack_open dbr_Arboretum_Sofiyivka dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of abidos located in	select var_a where brack_open dbr_Abidos,_Pyrénées-Atlantiques dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sainte-opportune-la-mare located in	select var_a where brack_open dbr_Sainte-Opportune-la-Mare dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of kampar river located in	select var_a where brack_open dbr_Kampar_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of hořice located in	select var_a where brack_open dbr_Hořice_(Jičín_District) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of holy trinity church located in	select var_a where brack_open dbr_Holy_Trinity_Church,_Kamianets-Podilskyi dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of aliso canyon located in	select var_a where brack_open dbr_Aliso_Canyon dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of calvary wakefield hospital located in	select var_a where brack_open dbr_Calvary_Wakefield_Hospital dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of yarrow river located in	select var_a where brack_open dbr_Yarrow_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of salperwick located in	select var_a where brack_open dbr_Salperwick dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of albissola marina located in	select var_a where brack_open dbr_Albissola_Marina dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of osek located in	select var_a where brack_open dbr_Osek_(Jičín_District) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of offrethun located in	select var_a where brack_open dbr_Offrethun dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of saint-inglevert located in	select var_a where brack_open dbr_Saint-Inglevert dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of willerval located in	select var_a where brack_open dbr_Willerval dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of germignac located in	select var_a where brack_open dbr_Germignac dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of worondi rivulet located in	select var_a where brack_open dbr_Worondi_Rivulet dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of muncq-nieurlet located in	select var_a where brack_open dbr_Muncq-Nieurlet dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of barcoongere river located in	select var_a where brack_open dbr_Barcoongere_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of boyd river located in	select var_a where brack_open dbr_Boyd_River_(Tasmania) dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of river gwaun located in	select var_a where brack_open dbr_River_Gwaun dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of l'hôpital located in	select var_a where brack_open dbr_L'Hôpital,_Moselle dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of tourneville located in	select var_a where brack_open dbr_Tourneville dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of peace arch hospital located in	select var_a where brack_open dbr_Peace_Arch_Hospital dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of le vieil-évreux located in	select var_a where brack_open dbr_Le_Vieil-Évreux dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ivergny located in	select var_a where brack_open dbr_Ivergny dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of st. isidore-de-bellevue located in	select var_a where brack_open dbr_St._Isidore-de-Bellevue,_Saskatchewan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of walsall wood located in	select var_a where brack_open dbr_Walsall_Wood dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of ligny-saint-flochel located in	select var_a where brack_open dbr_Ligny-Saint-Flochel dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of gaudiempré located in	select var_a where brack_open dbr_Gaudiempré dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of le sars located in	select var_a where brack_open dbr_Le_Sars dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of telegherry river located in	select var_a where brack_open dbr_Telegherry_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of wollangambe river located in	select var_a where brack_open dbr_Wollangambe_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of lorquin located in	select var_a where brack_open dbr_Lorquin dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of sars-le-bois located in	select var_a where brack_open dbr_Sars-le-Bois dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of la tourette located in	select var_a where brack_open dbr_La_Tourette dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of beaumetz-lès-loges located in	select var_a where brack_open dbr_Beaumetz-lès-Loges dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of campigneulles-les-grandes located in	select var_a where brack_open dbr_Campigneulles-les-Grandes dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of west chatfield beach located in	select var_a where brack_open dbr_West_Chatfield_Beach,_Saskatchewan dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of funicular dos guindais located in	select var_a where brack_open dbr_Funicular_dos_Guindais dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of cuinchy located in	select var_a where brack_open dbr_Cuinchy dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of zuglio located in	select var_a where brack_open dbr_Zuglio dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of blicks river located in	select var_a where brack_open dbr_Blicks_River dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of foufflin-ricametz located in	select var_a where brack_open dbr_Foufflin-Ricametz dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close
+where is the region of amanty located in	select var_a where brack_open dbr_Amanty dbo_region var_b sep_dot var_b <dbo_location> var_a brack_close

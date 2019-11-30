@@ -1,0 +1,46 @@
+DEBUG:root:1. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a dbo:Architect . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbo:architect ?a . ?x dbp:locationTown ?uri . ?uri a dbo:City }
+DEBUG:root:2. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a dbo:Architect . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbo:architect ?a . ?x dbp:locationTown ?uri . ?uri a dbo:City }
+DEBUG:root:3. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?x dbo:architect ?a . ?x dbp:locationTown ?uri . ?uri a dbo:City }
+DEBUG:root:2 matches for 901504aad5414f9b8ea3323d9f9f9e3a
+DEBUG:root:1. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a dbo:ComicsCreator . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?uri dbp:creators ?a . ?uri a dbo:ComicsCharacter }
+DEBUG:root:2. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a a dbo:ComicsCreator . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?uri dbp:creators ?a . ?uri a dbo:ComicsCharacter }
+DEBUG:root:3. attempt generator_query: select distinct ?a  (str(?laba) as ?la) where { ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?uri dbp:creators ?a . ?uri a dbo:ComicsCharacter }
+DEBUG:root:123 matches for d5eec8fa9c454d71af0be385eb6d2193
+DEBUG:root:1. attempt generator_query: select distinct ?a, ?b  (str(?laba) as ?la)  (str(?labb) as ?lb) where { ?b a dbo:WrittenWork . ?b rdfs:label ?labb . FILTER(lang(?labb) = 'en') . ?a a ?t . VALUES (?t) { (<http://dbpedia.org/class/yago/Wikicat21st-centuryActors>) (<http://dbpedia.org/class/yago/WikicatEnglishMusicians>) (<http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>) (<http://dbpedia.org/class/yago/Honoree110183757>) (dbo:LacrossePlayer) } . ?a rdfs:label ?laba . FILTER(lang(?laba) = 'en') . ?b dbo:previousWork ?a }
+ERROR:root:template 11122ef7a8fb46d89a3d6b4d6757b990 caused exception Traceback (most recent call last):
+  File "/home/prakhar/Desktop/NSpM/generator_utils.py", line 62, in query_dbpedia
+    resp = urlopen(request)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/home/prakhar/anaconda3/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "generator.py", line 177, in generate_dataset
+    results = get_results_of_generator_query(cache, template)
+  File "generator.py", line 229, in get_results_of_generator_query
+    results = query_dbpedia(query)
+  File "/home/prakhar/Desktop/NSpM/generator_utils.py", line 65, in query_dbpedia
+    except (urllib.HTTPError, httplib.BadStatusLine):
+AttributeError: module 'urllib' has no attribute 'HTTPError'
+
+INFO:root:1. fix problem
+2. remove templates until the exception template in the template file
+3. restart with `--continue` parameter
+INFO:root:   125 used resources in 625 placeholder positions
+INFO:root:   125 resources occur 	     5 times 	(100.00 %) 
+INFO:root:dbo:Person contains: <http://dbpedia.org/class/yago/Wikicat21st-centuryActors>, <http://dbpedia.org/class/yago/WikicatEnglishMusicians>, <http://dbpedia.org/class/yago/Wikicat20th-centuryNovelists>, <http://dbpedia.org/class/yago/Honoree110183757>, dbo:LacrossePlayer
+INFO:root:dbo:Athlete contains: dbo:LacrossePlayer
+INFO:root:dbo:SportsTeam contains: dboBasketballTeam
+INFO:root:     0 not instanciated templates:

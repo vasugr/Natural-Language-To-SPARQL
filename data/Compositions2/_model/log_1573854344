@@ -1,0 +1,14 @@
+# log_file=../data/Compositions2/_model/log_1573854344
+# Start step 0, lr 1, Sat Nov 16 03:15:46 2019
+  global step 100 lr 1 step-time 0.27s wps 8.71K ppl 21.31 bleu 0.00
+  global step 200 lr 1 step-time 0.27s wps 8.80K ppl 3.20 bleu 0.00
+  global step 300 lr 1 step-time 0.27s wps 8.82K ppl 2.94 bleu 0.00
+  global step 400 lr 1 step-time 0.29s wps 8.17K ppl 2.87 bleu 0.00
+  global step 500 lr 1 step-time 0.28s wps 8.48K ppl 2.84 bleu 0.00
+  global step 600 lr 1 step-time 0.29s wps 8.14K ppl 2.79 bleu 0.00
+  global step 700 lr 1 step-time 0.29s wps 8.37K ppl 2.74 bleu 0.00
+  global step 800 lr 1 step-time 0.29s wps 8.29K ppl 2.67 bleu 0.00
+  global step 900 lr 1 step-time 0.29s wps 8.17K ppl 2.56 bleu 0.00
+  global step 1000 lr 1 step-time 0.28s wps 8.45K ppl 2.46 bleu 0.00
+# Final, step 1000 lr 1 step-time 0.28 wps 8.45K ppl 2.46, dev ppl 2.53, dev bleu 58.9, test ppl 7.40, test bleu 63.4, Sat Nov 16 03:20:36 2019
+# Best bleu, step 1000 step-time 0.28 wps 8.45K, dev ppl 2.53, dev bleu 58.9, test ppl 7.40, test bleu 63.4, Sat Nov 16 03:20:39 2019

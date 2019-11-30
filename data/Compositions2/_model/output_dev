@@ -1,0 +1,1189 @@
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Via_Imperii <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH1 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Pan-European_Corridor_IV <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Pan-European_Corridor_IX <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyboylands_Upper <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Glencull <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Glencull <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Glencull <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_AH48 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Glencull <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E40 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E85 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Glencull <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E70 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum <dbo_county> var_a brack_close
+select var_a where brack_open dbr_European_route_E67 <dbo_county> var_a brack_close
+select var_a where brack_open dbr_Swanson,_Ontario <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Castle_Balfour <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Sheffield,_Illinois <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Schwinkendorf <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Schwinkendorf <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Alcantarilha_River <dbo_district> var_a brack_close
+select var_a where brack_open dbr_North_Sunderland <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Perișani_River_(Băiașu) <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Walton_(Merseyside) _railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Perișani_River_(Băiașu) <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Valea_Coacăzei_River <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Sheffield,_Illinois <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Plateau_de_Diesse <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Northampton_Bridge_Street_railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pine_Hills,_Albany,_New_York <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Walton_(Merseyside) _railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Cala_d’Hort <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Talcott_Mountain_State_Park <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Walliswil_bei_Niederbipp <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Feering_Halt_railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Alcantarilha_River <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Northampton_Bridge_Street_railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Walton_(Merseyside) _railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pine_Hills,_Albany,_New_York <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Feering_Halt_railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Valea_Coacăzei_River <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Schwinkendorf <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pârâul_Stânei_(Cucuieți) <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Hýsly <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Feering_Halt_railway_station <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pine_Hills,_Albany,_New_York <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pârâul_Stânei_(Cucuieți) <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Pine_Hills,_Albany,_New_York <dbo_district> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Wey_and_Arun_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Augustów_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Stroudwater_Navigation <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Manchester_Ship_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Manchester_Bolton_&_Bury_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Hudson_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_River_Sow_Navigation <dbo_endPoint> var_a brack_close
+select var_a where brack_open dbr_Black_Rock_Forest <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Bōsō_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Maienfeld <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Sind_Valley <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Denning,_New_York <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_George_Washington_and_Jefferson_National_Forests <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Bōsō_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Näfels <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Papuan_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Näfels <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Horta_(district) <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Papuan_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Mojave_Desert <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Näfels <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Namib_Desert <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Zürich <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Papuan_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_George_Washington_and_Jefferson_National_Forests <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Denning,_New_York <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Buchs,_St._Gallen <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Papuan_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Bōsō_Peninsula <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Buchs,_St._Gallen <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Mendip_Hills <dbo_highestPlace> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Mareau-aux-Prés <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_La_Celle,_Cher <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Fresne-le-Plan <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Orègue <dbo_intercommunality> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Midway_Peak <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Cesen <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Stikine_River_Provincial_Park <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Ponte_do_Arco_de_Baúlhe <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Midway_Peak <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Ponte_do_Arco_de_Baúlhe <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Cesen <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_San_Bruno_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Cesen <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Beehive_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Stikine_River_Provincial_Park <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Ponte_do_Arco_de_Baúlhe <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Blanket_Creek_Provincial_Park <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Isanotski_Peaks <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Stikine_River_Provincial_Park <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Stikine_River_Provincial_Park <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Cesen <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Midway_Peak <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Beehive_Mountain <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Baumgartenschneid <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Cesen <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) <dbo_locatedInArea> var_a brack_close
+select var_a where brack_open dbr_Antelope_Island_State_Park <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_São_Caetano_(Madalena) <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_São_Caetano_(Madalena) <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Antelope_Island <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Mellingen <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Chuckwalla_Valley <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Ajuda_da_Bretanha <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Flamengos <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_São_Caetano_(Madalena) <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Catskill_Park <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Big_Bend_National_Park <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Hochdorf,_Lucerne <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Lomba_da_Maia <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Flamengos <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Cedros_(Horta) <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Flamengos <dbo_lowestPlace> var_a brack_close
+select var_a where brack_open dbr_Blackdown_Hills <dbo_managementPlace> var_a brack_close
+select var_a where brack_open dbr_Ayubia_National_Park <dbo_managementPlace> var_a brack_close
+select var_a where brack_open dbr_Shawangunk_Kill <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Shakotan_Peninsula <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Woodridge,_New_York <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Shakotan_Peninsula <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Misteguay_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Hohburg <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Masonic_Hall,_Sheringham <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_White_Lick_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Valentia_Lifeboat_Station <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Millidge,_Ontario <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Lidder_Valley <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Lanfair_Valley <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Congewai_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Convent_of_São_Gonçalo_(Angra_do_Heroísmo) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Alcantarilha <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Cagayan_River <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Nature_Park_of_Faial <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Hohenkirchen_(Wangerland) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Morses_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Cagayan_River <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Congewai_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Convent_of_São_Gonçalo_(Angra_do_Heroísmo) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Lagoa_do_Fogo <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Narrows_Covered_Bridge <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_West_Highland_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Morses_Creek <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Southwest_Corridor_Park <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Millidge,_Ontario <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Delta_de_la_Dranse_National_Nature_Reserve <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Fajã_de_João_Dias <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Figgjoelva <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Hohburg <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Convent_of_São_Gonçalo_(Angra_do_Heroísmo) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Gettysburg_Museum_and_Visitor_Center <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Alcanede <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Oberreißen <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Valentia_Lifeboat_Station <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Tonalli_River <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Conceição_(Horta) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_High_Desert_(Oregon) <dbo_municipality> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Lake_Simcoe <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Iligan_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Lake_Simcoe <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Lake_Simcoe <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Fort_Stanton_–_Snowy_River_Cave_National_Conservation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Chattahoochee_River_National_Recreation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Campos_do_Jordão_State_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Chattahoochee_River_National_Recreation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Fort_Stanton_–_Snowy_River_Cave_National_Conservation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Harvey_Gap_State_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Fort_Stanton_–_Snowy_River_Cave_National_Conservation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Fort_Stanton_–_Snowy_River_Cave_National_Conservation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Iligan_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Toro_Negro_State_Forest <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Whiteswan_Lake_Provincial_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Natural_Park_of_Serra_d'Irta <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Main_Line_of_Public_Works <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Valdezcaray <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Niseko-Shakotan-Otaru_Kaigan_Quasi-National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Stony_Lake_(Ontario) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Stony_Lake_(Ontario) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Valdezcaray <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Stony_Lake_(Ontario) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Iligan_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Lewellen_State_Aid_Bridge <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Stony_Lake_(Ontario) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Natural_Park_of_Serra_d'Irta <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Stony_Lake_(Ontario) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Harvey_Gap_State_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Chattahoochee_River_National_Recreation_Area <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Bald_Eagle_and_Spring_Creek_Navigation dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Sylamore_Creek_Bridge <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Arikok_National_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Lake_Simcoe <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Main_Line_of_Public_Works <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Harvey_Gap_State_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Christ_Church_at_the_Quarry <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Fort_De_La_Boulaye_Site <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Whiteswan_Lake_Provincial_Park <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Ionian_Sea <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Sunday_River_(ski_resort) <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_Laguna_de_Bay <dbo_nearestCity> var_a brack_close
+select var_a where brack_open dbr_BSA_Mercury_Air_Rifle <dbo_origin> var_a brack_close
+select var_a where brack_open dbr_Sukhoi_Su-35 <dbo_origin> var_a brack_close
+select var_a where brack_open dbr_Magny-Lormes <dbo_region> var_a brack_close
+select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Cells_River <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Latrobe_River <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Rush_Creek_(New_South_Wales) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Velký_Vřešťov <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Spruce_Knob-Seneca_Rocks_National_Recreation_Area <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Roaring_Plains_West_Wilderness <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Beau-Séjour_Palace <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Virgin_Valley <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dartmoor <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Defiance_Plateau <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Beau-Séjour_Palace <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Magny-Lormes <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Handsworth_Wood <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Providence_Willamette_Falls_Medical_Center <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Cells_River <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Duck_Mountain_Provincial_Park_(Manitoba) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Cells_River <dbo_region> var_a brack_close
+select var_a where brack_open dbr_La_Valette-du-Var <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Providence_Willamette_Falls_Medical_Center <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Tůně_u_Hajské <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Masonic_Hall,_Sheringham <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Lages_Station,_Nevada <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Festubert <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_West_Virginia_State_Wildlife_Center <dbo_region> var_a brack_close
+select var_a where brack_open dbr_San_Martino_dall'Argine <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Dorsey_Knob <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Vysoké_Veselí <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Saint-Sauveur-d'Aunis <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Magny-Lormes <dbo_region> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Cudgegong_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Media_Aqua_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Panoche_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Rivière_aux_Outardes <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Figgjoelva <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Delatite_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_West_Fork_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Delatite_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Afon_Col-huw <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Clendinning_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Van_Trump_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Fosselvi <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Cudgegong_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_River_Terrig <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dyke_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Râul_Scurt <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Clendinning_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Cudgegong_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Izvorul_lui_Aurel_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Sullivans_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Cudgegong_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_River_Terrig <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_North_Fork_Toutle_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Media_Aqua_Creek <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_White_Rock_River_(New_South_Wales) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_North_Fork_Smith_River_(California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Dințeasa_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Cudgegong_River <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Shawangunk_Kill <dbo_sourcePlace> var_a brack_close
+select var_a where brack_open dbr_Timbavati_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_South_Karo_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Pipp_Brook <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Bourne_Brook <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Hezil_Suyu <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_River_Malago <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_River_Malago <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Pipp_Brook <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Pipp_Brook <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Timbavati_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Ahr <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Little_Lost_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Rivière_des_Envies <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Timbavati_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Ahr <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Bear_Creek_(Kansas) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Bear_Creek_(Kansas) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Goose_Creek_(Snake_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Rocky_River_(South_Carolina) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_West_Canada_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Bear_Creek_(Kansas) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Tagus <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Timbavati_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Rocky_River_(South_Carolina) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Diamond_Brook <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Timbavati_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_South_Fork_Clearwater_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_West_Canada_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Dry_Fork_(Cheat_River) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Yuba_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Bear_Creek_(Kansas) <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Saint_Joe_River <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek <dbo_sourceRegion> var_a brack_close
+select var_a where brack_open dbr_Manchester_Bolton_&_Bury_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Boyne_Navigation <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Chelmer_and_Blackwater_Navigation <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Somerset_Coal_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Witham_Navigable_Drains <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Grand_Union_Canal_(old) <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Main_Line_of_Public_Works <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Nidd_Aqueduct <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Hudson_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Peak_Forest_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Dnieper–Bug_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Bystry_Canal <dbo_startPoint> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Green_Route <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Boshkung_Lake <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Leycester_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Paul_A._Dever_State_School <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Storrie_Lake_State_Park <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Worondi_Rivulet <dbo_state> var_a brack_close
+select var_a where brack_open dbr_LeBoeuf_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Goose_Lake_Valley <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Spencer_State_Forest <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Esopus_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Mount_Washington_State_Forest <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Worondi_Rivulet <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Mandekal_Aru <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Alcantarilha <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Toro_Negro_State_Forest <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Defiance_Plateau <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Rhine <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Island_Creek_(West_Virginia) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_San_Francisquito_Creek_(Santa_Clara_River) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Nissequogue_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Narrows_Covered_Bridge <dbo_state> var_a brack_close
+select var_a where brack_open dbr_LeBoeuf_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Mount_Everett_State_Reservation <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Little_Blitzen_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Sam_A._Baker_State_Park <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Rhine <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Roman_villa_of_Vale_do_Mouro <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Masonic_Hall,_Sheringham <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Little_Blitzen_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Masonic_Hall,_Sheringham <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Po_(river) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ben_Taub_Hospital <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Blocher's_Run <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Rhine <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Watoga_State_Park <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open <dbo_state> <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Kilinochchi_Hospital <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Big_River_(Brodribb_River,_Victoria) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Coatsburg,_Illinois <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Po_(river) <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Kanopolis_State_Park <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Crescent_Beach_State_Park <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Leycester_Creek <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Ohio_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Sierra_Pelona_Mountains <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Missouri_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Patna_Dental_College <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Recreational_Forest_Reserve_of_Valverde <dbo_state> var_a brack_close
+select var_a where brack_open dbr_South_Fork_Burnt_River <dbo_state> var_a brack_close
+select var_a where brack_open dbr_Napa_Valley_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Napa_Valley_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Mendocino_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_New_York_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Oregon_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sierra_Foothills_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Virginia_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Haut-Médoc_AOC <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Napa_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_North_East_Victoria <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_South_West_France_(wine_region) <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Burgundy_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_South_West_France_(wine_region) <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Napa_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Oregon_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Quebec_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Burgundy_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Texas_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Lodi_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Rasteau_AOC <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sonoma_Coast_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Northern_Sonoma_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Haut-Médoc_AOC <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Balaton_wine_region <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Mendocino_AVA <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Quebec_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Mount_Lofty_Ranges_zone_(wine) <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Washington_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Sonoma_County_wine <dbo_subregion> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnlough dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnlough dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnalbanagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnlough dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Tattykeeran,_County_Fermanagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E952 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyboylands_Upper dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyconnelly dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Grange_of_Nilteen dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Derrykeighan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Richhill,_County_Armagh dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnlough dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Jefferson_Avenue_(Detroit) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Livernois_Avenue dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Carnlough dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyconnelly dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E952 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E952 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Demoan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oughterdrum dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Demoan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E29 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E952 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Demoan dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ballyclogh_(North_Centre) dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_European_route_E952 dbo_county var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Canal_du_Centre_(Belgium) dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Kanal_İstanbul dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Sankey_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Kanal_İstanbul dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Birmingham_and_Fazeley_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Grand_Union_Canal_(old) dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oswego_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Sankey_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oswego_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_New_Bedford_River dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wilts_&_Berks_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Jiangsu_Main_Irrigation_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wey_and_Arun_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Hudson_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oswego_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Sankey_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Canal_du_Centre_(Belgium) dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Canal_du_Centre_(Belgium) dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Hudson_Canal dbo_endPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Sierra_de_Ávila dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Sierra_de_Ávila dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Camden_Hills_State_Park dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Madonie_Regional_Natural_Park dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Elsau dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Zürich dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Big_Round_Top dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_Ogden_Via_Ferrata dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ormont-Dessus dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Texas_Panhandle dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Zürich dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Central_California dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Central_California dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Texas_Panhandle dbo_highestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orègue dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Leubringhen dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_La_Celle,_Cher dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hermin dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Muille-Villette dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hermin dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Muille-Villette dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Muille-Villette dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Pont-à-Vendin dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hermin dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Muille-Villette dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_La_Celle,_Cher dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_La_Celle,_Cher dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saulty dbo_intercommunality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_A._Murray_MacKay_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rooster_Comb dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_Côté dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rooster_Comb dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_Hooker_(Canada) dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_A._Murray_MacKay_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ponte_do_Arquinho dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Tierra_Redonda_Mountain dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Head,_New_Zealand dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cesen dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yichang_Yangtze_River_Railway_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mount_McCord dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Upper_Cox_Brook_Covered_Bridge dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Peaks_of_Otter dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lomond_Hills dbo_locatedInArea var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mellingen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wayne_National_Forest dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Texas_Panhandle dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_West_Doubtful_Canyon dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_São_Caetano_(Madalena) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_São_Caetano_(Madalena) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Lehigh_National_Heritage_Corridor dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Big_Draft_Wilderness dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mellingen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Elsau dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ribeira_Seca_(Calheta) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolfenschiessen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Šumava_National_Park dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mellingen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cedros_(Horta) dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Piute_Wash dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mellingen dbo_lowestPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ha_Ha_Tonka_State_Park dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Duke_of_Terceira_Garden dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Theodore_Roosevelt_State_Natural_Area dbo_managementPlace var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lanfair_Valley dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Weisner_Covered_Bridge dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Břasy dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Great_Dolmen_of_Comenda_da_Igreja dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Unterlüß dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Figgjoelva dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Effingham,_Illinois dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Vidigueira dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Pedro_Miguel dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Břasy dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orkhon_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orkhon_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Silves dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajã_Grande dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hohenkirchen_(Wangerland) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rottmersleben dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lam_Brook dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Břasy dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wooli_Wooli_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Castle_of_Silves dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Břasy dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hohenkirchen_(Wangerland) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Angústias dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Millidge,_Ontario dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orkhon_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hohenkirchen_(Wangerland) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orkhon_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Břasy dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Santa_Cruz_da_Graciosa_(parish) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Bitter_Lake_(Ontario) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Congewai_Creek dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hohenkirchen_(Wangerland) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Back_Creek_(Richmond_Valley,_New_South_Wales) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Pillory_of_Aguiar_da_Beira dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajãzinha dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Santo_Espírito dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Funicular_dos_Guindais dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Bitter_Lake_(Ontario) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Angústias dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wolgan_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fajã_de_Fernando_Afonso dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Crookwell_River dbo_municipality var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_MK_101_cannon dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_BSA_Buccaneer_Air_Rifle dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_BSA_Buccaneer_Air_Rifle dbo_origin var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Saint_Joe_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rocky_River_(South_Carolina) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Homla dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_South_Fork_Rogue_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Taghkanic_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Mateo_Creek_(Southern_California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chandrabhaga_River_(Purna_River) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Koina_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chico_Martinez_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Fork_Payette_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chico_Martinez_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yuba_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yuba_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Homla dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Mateo_Creek_(Southern_California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Conneaut_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Apple_River_(Illinois) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rivière_des_Rochers dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Santa_Clara_River_(California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Little_Applegate_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yuba_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Taghkanic_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Jacinto_River_(California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ewenny_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rocky_River_(South_Carolina) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Homla dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Pipp_Brook dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Canoas_Creek_(Fresno_County,_California) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hezil_Suyu dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Taghkanic_Creek dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_North_Fork_Toutle_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Homla dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Homla dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Suusamyr_River dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Partridge_Creek_(Ontario) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Hezil_Suyu dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rocky_River_(South_Carolina) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Apple_River_(Illinois) dbo_sourceRegion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Kanal_İstanbul dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chesapeake_and_Ohio_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Kiel_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Delaware_and_Hudson_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Susquehanna_and_Tidewater_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_New_Bedford_River dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Wilts_&_Berks_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Itchen_Navigation dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alamo_Canal dbo_startPoint var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Worondi_Rivulet dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ha_Ha_Tonka_State_Park dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Buffalo_Lake_National_Wildlife_Refuge dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Francisquito_Creek_(Santa_Clara_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Chinle_Valley dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ayubia_National_Park dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Blocher's_Run dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Serreta_(Angra_do_Heroísmo) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Little_Nestucca_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Middlesex_Fells_Reservation dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Potlatch_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Angústias dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Franklin_River_(Victoria) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cedar_Creek_(New_South_Wales) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Potlatch_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ken_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Americano_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fall_River_(Oregon) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_River_Glaven dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Church_of_Senhor_do_Socorro dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Patna_Dental_College dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Crescent_Beach_State_Park dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Francisquito_Creek_(Santa_Clara_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Porto dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rosais dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Defiance_Plateau dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Williams_River_(West_Virginia) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Stony_Brook_Reservation dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Potlatch_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Brandywine_Creek_(Christina_River) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Little_Sandy_River_(Oregon) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Crawford_County,_Kansas dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Potlatch_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Blocher's_Run dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Spencer_State_Forest dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Beau-Séjour_Palace dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Briarcliff_Manor,_New_York dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Rindler_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Fall_River_(Oregon) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Slippery_Rock_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Lynch_Creek dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Ayubia_National_Park dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Roaring_Fork_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_River_Glaven dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Yūbetsu_River dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Guadalupe_(Santa_Cruz_da_Graciosa) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Cedar_Creek_(New_South_Wales) dbo_state var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Santa_Cruz_Mountains_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Burgundy_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_San_Benito_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Oregon_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Napa_County_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Alella_(DO) dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Orléans_AOC dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Mendocino_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Dingač dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Burgundy_wine dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Big_Rivers dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
+select var_a where brack_open dbr_Walla_Walla_Valley_AVA dbo_subregion var_b sep_dot var_b <dbo_location> var_a brack_close
