@@ -15,19 +15,19 @@ pip install spacey
 ## Installation guide for flask
 
 ```bash
-$ mkdir myproject
+mkdir myproject
 ```
 ```bash
-$ cd myproject
+cd myproject
 ```
 ```bash
-$ python3 -m venv venv
+python3 -m venv venv
 ```
 ```bash
-$ .venv/bin/activate
+.venv/bin/activate
 ```
 ```bash
-$ pip install Flask
+pip install Flask
 ```
 
 ## Data preparation
