@@ -31,8 +31,8 @@ pip install Flask
 ```
 
 ## Data preparation
-Generation
-To generate the training data, launch the following command.
+
+To generate the training data, execute the following commands
 
 ```bash
 mkdir data/monument_300
