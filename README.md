@@ -3,9 +3,6 @@ Translate a query in natural language to SPARQL query with an interactive web ba
 ## Neural SPARQL Machines
 Installation guide for spacey
 ```bash
-pip install -U spacey
-```
-```bash
 python -m venv .env
 source .env/bin/activate
 ```
